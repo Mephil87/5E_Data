@@ -2,7 +2,7 @@
 <elements>
 	<info>
 		<update version="1.0.0">
-			<file name="source.xml" url="https://raw.githubusercontent.com/aurorahomebrew/homebrew/source.xml" />
+			<file name="source.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/homebrew/source.xml" />
 		</update>
 	</info>
 	<element name="Rosor av Is Homebrew" type="Source" source="Core" id="ID_SOURCE_ROSOR_AV_IS">
