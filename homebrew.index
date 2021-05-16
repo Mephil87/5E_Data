@@ -12,6 +12,6 @@
 		<file name="source.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/homebrew/source.xml" />
 		
 		<!-- backgrounds -->
-		<file name="background_herbalist_daughter.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/homebrew/backgrounds/backgrounds.xml" />
+		<file name="background-herbalist-daughter.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/homebrew/backgrounds/background-herbalist-daughter.xml" />
 	</files>
 </index>
