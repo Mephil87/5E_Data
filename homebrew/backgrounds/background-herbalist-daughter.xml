@@ -1,12 +1,76 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <elements>
 	<info>
-		<name>File 2</name>
+		<name>Herbalist's Daughter</name>
+		<description>Herbalist's Daughter Background</description>
+		<author url="http://dnd.wizards.com/products/tabletop-games/rpg-products/rpg_playershandbook">Wizards of the Coast</author>
 		<update version="1.0.0">
-			<file name="file2.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/homebrew/file2.xml" />
+			<file name="background-herbalist-daughter.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/homebrew/backgrounds/background-herbalist-daughter.xml" />
 		</update>
 	</info>
-	
-	<!-- place your elements here -->
-	
+
+	<element name="Herbalist's Daughter" type="Background" source="Custom Content: Rosor av Is" id="ID_BACKGROUND_HERBALIST_DAUGHTER">
+		<description>
+			<p>You were born into a humble home with an absent father. You lived in the outskirts of the village together with your mother from which you learned your craft.</p>
+			<ul>
+				<li><strong>Skill Proficiencies:</strong> Nature, Medicine</li>
+				<li><strong>Tool Proficiencies:</strong> Cook's Utensils, Herbalism Kit </li>
+				<li><strong>Equipment:</strong> A set of common clothes, a cook's utensils, a healer's kit, a herbalism kit and a belt pouch containing 15 gp.</li>
+			</ul>
+			<div element="ID_BACKGROUND_FEATURE_WILD_HERBALISM" />
+		</description>
+		<setters>
+			<set name="short">Nature, Medicine, Cook's Utensils, Herbalism Kit</set>
+		</setters>
+		<rules>
+			<grant type="Proficiency" id="ID_PROFICIENCY_SKILL_NATURE" />
+			<grant type="Proficiency" id="ID_PROFICIENCY_SKILL_MEDICINE" />
+			<grant type="Proficiency" id="ID_PROFICIENCY_TOOL_PROFICIENCY_HERBALISM_KIT" />
+			<grant type="Proficiency" id="ID_PROFICIENCY_TOOL_PROFICIENCY_COOKS_UTENSILS" />
+			<grant type="Background Feature" id="ID_BACKGROUND_FEATURE_WILD_HERBALISM" />
+			<select name="Personality Trait" type="List" number="2">
+				<item id="1">There is someone I idolize and I constantly refer to that person's deeds.</item>
+				<item id="2">I tell white lies when the truth could hurt another person.</item>
+				<item id="3">When I set my mind to something, I follow through no matter what gets in my way.</item>
+				<item id="4">I am naive when it comes to romance, believing in the stories of knights and princesses.</item>
+				<item id="5">If I insult or hurt someone's feelings I do my utmost to repair the damage.</item>
+				<item id="6">I enjoy listening to stories of heroes from ages past.</item>
+				<item id="7">I would rather make a new friend than a new enemy.</item>
+				<item id="8">I often get lost in my own thoughts.</item>
+			</select>
+			<select name="Ideal" type="List">
+				<item id="1">Aspiration. I'm determined to make something of myself. (Any)</item>
+				<item id="2">Respect. All people, rich or poor, deserve respect. (Good)</item>
+				<item id="3">Friendship. Material goods come and go. Bonds of friendship last forever. (Good)</item>
+				<item id="4">Independence. I must prove that I can handle myself without the coddling of my family. (Chaotic)</item>
+				<item id="5">People. I'm committed to the people I care about, not to ideals. (Neutral)</item>
+				<item id="6">Tradition. The stories, legends, and songs of the past must never be forgotten. (Lawful)</item>
+			</select>
+			<select name="Bond" type="List">
+				<item id="1">Someone I loved died because of a mistake I made. That will never happen again.</item>
+				<item id="2">I suffer awful visions of a coming disaster and will do anything to prevent it.</item>
+				<item id="3">I idolize a hero of the old tales and measure my deeds against that person's.</item>
+				<item id="4">I protect those who cannot protect themselves.</item>
+				<item id="5">Nothing is more important that the other members of my family.</item>
+				<item id="6">I've been searching my whole life for the answer to a certain question.</item>
+			</select>
+			<select name="Flaw" type="List">
+				<item id="1">I laugh uncontrollably when I am frightened.</item>
+				<item id="2">I have a 'tell' that reveals when I'm lying.</item>
+				<item id="3">I have trouble keeping my true feelings hidden. My sharp tongue lands me in trouble.</item>
+				<item id="4">I'd risk too much to uncover a lost bit of knowledge.</item>
+				<item id="5">There's no room for caution in a life lived to the fullest.</item>
+				<item id="6">I am easily distracted by the promise of information.</item>
+			</select>
+		</rules>
+	</element>
+	<element name="Feature: Wild Herbalism" type="Background Feature" source="Custom Content: Rosor av Is" id="ID_BACKGROUND_FEATURE_WILD_HERBALISM">
+		<supports>Background Feature</supports>
+		<description>
+			<p>You have a knack of finding herbs in the wild. As long as the current environment can feasibly provide it, you may forage enough herbs and other ingredients required to craft either an antitoxin or a basic healing potion. You are also able to find enough food and water for yourself and up to 3 other people to survive whilst in a forest – though the food is often unpleasant or unpalatable.</p>
+		</description>
+		<sheet alt="Wild Herbalism">
+			<description>You have a knack of finding herbs in the wild. As long as the current environment can feasibly provide it, you may forage enough herbs and other ingredients required to craft either an antitoxin or a basic healing potion. You are also able to find enough food and water for yourself and up to 3 other people to survive whilst in a forest – though the food is often unpleasant or unpalatable.</description>
+		</sheet>
+	</element>
 </elements>
