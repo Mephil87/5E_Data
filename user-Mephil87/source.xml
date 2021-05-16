@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<elements>
+	<info>
+		<update version="0.1.2">
+			<file name="source.xml" url="https://raw.githubusercontent.com/aurorahomebrew/elements/master/third-party/arcanum-worlds/odyssey-of-the-dragonlords/source.xml" />
+		</update>
+	</info>
+	<element name="Rosor av Is Homebrew" type="Source" source="Core" id="ID_SOURCE_ROSOR_AV_IS">
+		<description>
+			<![CDATA[<p>Rosor av is homebrew material.</p>]]>
+		</description>
+		<setters>
+			<set name="abbreviation">MEHB</set>
+			<set name="url">https://www.drivethrurpg.com/</set>
+			<set name="image">https://rpgguide.net/wp-content/uploads/2019/07/gmbinder-frontage.png</set>
+			<set name="author" abbreviation="ME" url="https://www.google.com/">Mephil</set>
+			<set name="third-party">true</set>
+			<set name="release">20210516</set>
+		</setters>
+	</element>
+</elements>
