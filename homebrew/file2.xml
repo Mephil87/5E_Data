@@ -3,7 +3,7 @@
 	<info>
 		<name>File 2</name>
 		<update version="1.0.0">
-			<file name="file2.xml" url="https://raw.githubusercontent.com/yourgithubaccount/repositoryname/master/user-yourname/file2.xml" />
+			<file name="file2.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/homebrew/file2.xml" />
 		</update>
 	</info>
 	
