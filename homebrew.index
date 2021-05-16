@@ -1,13 +1,17 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <index>
 	<info>
-		<name>Your Content</name>
+		<name>Rosor av Is Homebrew</name>
+		<description>Homebrew material created by Mephil.</description>
+
 		<update version="1.0.0">
 			<file name="homebrew.index" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/homebrew.index" />
 		</update>
 	</info>
 	<files>
-		<file name="file1.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/homebrew/source.xml" />
-		<file name="file2.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/homebrew/backgrounds.xml" />
+		<file name="source.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/homebrew/source.xml" />
+		
+		<!-- backgrounds -->
+		<file name="background_herbalist_daughter.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/homebrew/backgrounds/backgrounds.xml" />
 	</files>
 </index>
