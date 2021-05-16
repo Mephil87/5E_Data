@@ -13,7 +13,7 @@
 		<description>
 			<p>You were born into a humble home with an absent father. You lived in the outskirts of the village together with your mother from which you learned your craft.</p>
 			<ul>
-				<li><strong>Skill Proficiencies:</strong> Nature, Medicine</li>
+				<li><strong>Skill Proficiencies:</strong> Medicine, Survival</li>
 				<li><strong>Tool Proficiencies:</strong> Cook's Utensils, Herbalism Kit </li>
 				<li><strong>Equipment:</strong> A set of common clothes, a cook's utensils, a healer's kit, a herbalism kit and a belt pouch containing 15 gp.</li>
 			</ul>
@@ -23,7 +23,7 @@
 			<set name="short">Nature, Medicine, Cook's Utensils, Herbalism Kit</set>
 		</setters>
 		<rules>
-			<grant type="Proficiency" id="ID_PROFICIENCY_SKILL_NATURE" />
+			<grant type="Proficiency" id="ID_PROFICIENCY_SKILL_SURVIVAL" />
 			<grant type="Proficiency" id="ID_PROFICIENCY_SKILL_MEDICINE" />
 			<grant type="Proficiency" id="ID_PROFICIENCY_TOOL_PROFICIENCY_HERBALISM_KIT" />
 			<grant type="Proficiency" id="ID_PROFICIENCY_TOOL_PROFICIENCY_COOKS_UTENSILS" />
