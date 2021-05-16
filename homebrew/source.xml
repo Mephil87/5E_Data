@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <elements>
 	<info>
-		<update version="0.1.2">
-			<file name="source.xml" url="https://raw.githubusercontent.com/aurorahomebrew/elements/master/third-party/arcanum-worlds/odyssey-of-the-dragonlords/source.xml" />
+		<update version="1.0.0">
+			<file name="source.xml" url="https://raw.githubusercontent.com/aurorahomebrew/homebrew/source.xml" />
 		</update>
 	</info>
 	<element name="Rosor av Is Homebrew" type="Source" source="Core" id="ID_SOURCE_ROSOR_AV_IS">
