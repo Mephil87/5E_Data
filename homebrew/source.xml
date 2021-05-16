@@ -5,7 +5,7 @@
 			<file name="source.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/homebrew/source.xml" />
 		</update>
 	</info>
-	<element name="Rosor av Is Homebrew" type="Source" source="Core" id="ID_SOURCE_ROSOR_AV_IS">
+	<element name="Rosor av Is Homebrew" type="Source" source="Custom Content: Rosor av Is" id="ID_SOURCE_ROSOR_AV_IS">
 		<description>
 			<![CDATA[<p>Rosor av is homebrew material.</p>]]>
 		</description>
