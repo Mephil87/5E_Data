@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <elements>
 	<info>
-		<update version="1.0.0">
+		<update version="1.1.0">
 			<file name="source.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/homebrew/source.xml" />
 		</update>
 	</info>
@@ -14,7 +14,7 @@
 			<set name="url">https://www.drivethrurpg.com/</set>
 			<set name="image">https://rpgguide.net/wp-content/uploads/2019/07/gmbinder-frontage.png</set>
 			<set name="author" abbreviation="ME" url="https://www.google.com/">Mephil</set>
-			<set name="third-party">true</set>
+			<set name="homebrew">true</set>
 			<set name="release">20210516</set>
 		</setters>
 	</element>
