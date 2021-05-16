@@ -7,7 +7,7 @@
 		</update>
 	</info>
 	<files>
-		<file name="file1.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/homebrew/file1.xml" />
-		<file name="file2.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/homebrew/file2.xml" />
+		<file name="file1.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/homebrew/source.xml" />
+		<file name="file2.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/homebrew/backgrounds.xml" />
 	</files>
 </index>
