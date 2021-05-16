@@ -1,7 +1,7 @@
-# MephilHomeBrew
+# AuroraHomebrew
 additional content to extend [Aurora](https://aurorabuilder.com/), by Mephil
 
-index url: https://raw.githubusercontent.com/Mephil87/repositoryname/master/user-yourname.index
+index url: https://raw.githubusercontent.com/Mephil87/AuroraHomebrew/master/user-Mephil87.index
 
 ---
 
