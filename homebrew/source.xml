@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <elements>
 	<info>
-		<update version="1.2.0">
+		<update version="1.3.0">
 			<file name="source.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/homebrew/source.xml" />
 		</update>
 	</info>
-	<element name="Rosor av Is Homebrew" type="Source" source="Custom Content: Rosor av Is" id="ID_SOURCE_ROSOR_AV_IS">
+	<element name="Custom Content: Rosor av Is" type="Source" source="Custom Content: Rosor av Is" id="ID_SOURCE_ROSOR_AV_IS">
 		<description>
 			<![CDATA[<p>Rosor av is homebrew material.</p>]]>
 		</description>
