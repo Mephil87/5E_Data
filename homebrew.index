@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <index>
 	<info>
-		<name>Rosor av Is Homebrew</name>
+		<name>Custom Content: Rosor av Is</name>
 		<description>Homebrew material created by Mephil.</description>
 
-		<update version="1.0.0">
+		<update version="1.1.0">
 			<file name="homebrew.index" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/homebrew.index" />
 		</update>
 	</info>
