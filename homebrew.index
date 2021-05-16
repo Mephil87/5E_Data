@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<index>
+	<info>
+		<name>Your Content</name>
+		<update version="1.0.0">
+			<file name="homebrew.index" url="https://raw.githubusercontent.com/Mephil87/AuroraHomebrew/master/homebrew.index" />
+		</update>
+	</info>
+	<files>
+		<file name="file1.xml" url="https://raw.githubusercontent.com/Mephil87/AuroraHomebrew/master/homebrew/file1.xml" />
+		<file name="file2.xml" url="https://raw.githubusercontent.com/Mephil87/AuroraHomebrew/master/homebrew/file2.xml" />
+	</files>
+</index>
