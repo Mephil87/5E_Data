@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<aurorahomebrew>
+    <info>
+        <name>Prism: Light &amp; Magic</name>
+        <update version="0.0.4">
+            <file name="class-prism.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/dms-guild/classes/class-prism.xml" />
+        </update>
+    </info>
+    
+	<element name="Prism: Light &amp; Magic" type="Source" source="Core" id="ID_DMSG_PLM_SOURCE_PRISM_LIGHT_MAGIC_OBSOLETE">
+		<description>
+			<![CDATA[<p>The Prism bring a unique gameplay experience to the table. A prism has a pool of influence that restores at the start of each turn in combat, and increases in size steadily as they level. This influence is the fuel for their basic actions - called Projections - each turn and can be spent while using a projection to alter the emotional state of a target. This is done to both punish enemies and to bolster allies.</p><h4>The Magic of Light</h4><p>Most of a prism's magic is focused on the manipulation of light, energy, and emotions. As a prism grows in power, they specialize into an aspect of the light known as a facet--a single way of interacting with the prismatic world. Some specialize in manifesting hardened light into weapons and tools. Some seek to manipulate the ambient light of the area around them to align everyone to the same emotions. Others selfishly seek to drain the light from the world around them to bolster their own radiance.</p>]]>			
+		</description>
+		<setters>
+			<set name="abbreviation">PLM</set>
+			<set name="url">https://www.dmsguild.com/product/284319/Prism-Light--Magic</set>
+			<set name="image">https://www.dmsguild.com/images/8957/284319.jpg</set>
+			<set name="author" abbreviation="DMSG" url="https://www.dmsguild.com/browse.php?author=Steve%20Fidler">Steve Fidler</set>
+			<set name="third-party">true</set>
+			<set name="release">20190730</set>
+            <set name="information">This content has been removed at the request of the author.</set>
+		</setters>
+	</element>
+    
+</aurorahomebrew>
