@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Unearthed Arcana: Sorcerer</name>
 		<description>The sorcerer unearths new magical possibilities this week. The class receives four playtest options for the Sorcerous Origin feature: Favored Soul, Phoenix Sorcery, Sea Sorcery, and Stone Sorcery.</description>
 		<author url="http://dnd.wizards.com/articles/unearthed-arcana/sorcerer">Wizards of the Coast</author>
 		<update version="0.2.1">
-				<file name="20170206.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/unearthed-arcana/2017/20170206.xml" />
+				<file name="20170206.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/unearthed-arcana/2017/20170206.xml" />
 		</update>
 	</info>
 
@@ -332,4 +332,4 @@
 			<description>When you use your Stone’s Aegis to protect an ally, you can choose up to three creatures to gain its benefits.</description>
 		</sheet>
 	</element>
-</aurorahomebrew>
+</elements>

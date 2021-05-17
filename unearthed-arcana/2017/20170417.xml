@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Unearthed Arcana: Feats for Skills</name>
 		<update version="0.0.6">
-			<file name="20170417.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/unearthed-arcana/2017/20170417.xml" />
+			<file name="20170417.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/unearthed-arcana/2017/20170417.xml" />
 		</update>
 	</info>
 
@@ -331,4 +331,4 @@
 			<grant type="Spell" id="ID_PHB_SPELL_THAUMATURGY" />
 		</rules>
 	</element>
-</aurorahomebrew>
+</elements>

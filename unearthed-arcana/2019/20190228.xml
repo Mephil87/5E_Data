@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Unearthed Arcana: Artificer Revisited</name>
 		<update version="0.0.6">
-			<file name="20190228.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/unearthed-arcana/2019/20190228.xml" />
+			<file name="20190228.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/unearthed-arcana/2019/20190228.xml" />
 		</update>
 	</info>
 	
@@ -127,7 +127,7 @@
 				<li>The object sheds bright light in a 5-foot radius and dim light for an additional 5 feet.</li>
 				<li>Whenever tapped by a creature, the object emits a recorded message that can be heard up to 10 feet away. You utter the message when you bestow this property on the object, and the recording can be no more than 6 seconds long.</li>
 				<li>The object continuously emits your choice of an odor or a nonverbal sound (wind, waves, chirping, or the like). The chosen phenomenon is perceivable up to 10 feet away.</li>
-				<li>A static visual effect appears on one of the object’s surfaces. This effect can be a picture, up to 25 words of text, lines and shapes, or a mixture of these aurorahomebrew, as you like.</li>
+				<li>A static visual effect appears on one of the object’s surfaces. This effect can be a picture, up to 25 words of text, lines and shapes, or a mixture of these elements, as you like.</li>
 			</ul>
 			<p>The chosen property lasts indefinitely. As an action, you can touch the object and end the property early.</p>
 			<p class="indent">You can give the magic of this feature to multiple objects, touching one object each time you use the feature, and a single object can bear only one of the properties at a time. The maximum number of objects you can affect with the feature at one time is equal to your Intelligence modifier (minimum of one object). If you try to exceed your maximum, the oldest property immediately ends, and then the new property applies.</p>
@@ -138,7 +138,7 @@
 			The object sheds bright light in a 5-foot radius and dim light for an additional 5 feet.
 			Whenever tapped by a creature, the object emits a recorded message that can be heard up to 10 feet away. You utter the message when you bestow this property on the object, and the recording can be no more than 6 seconds long.
 			The object continuously emits your choice of an odor or a nonverbal sound (wind, waves, chirping, or the like). The chosen phenomenon is perceivable up to 10 feet away.
-			A static visual effect appears on one of the object’s surfaces. This effect can be a picture, up to 25 words of text, lines and shapes, or a mixture of these aurorahomebrew, as you like.
+			A static visual effect appears on one of the object’s surfaces. This effect can be a picture, up to 25 words of text, lines and shapes, or a mixture of these elements, as you like.
 			The chosen property lasts indefinitely. As an action, you can touch the object and end the property early.
 			You can give the magic of this feature to {{magical tinkering:objects}} objects, touching one object each time you use the feature, and a single object can bear only one of the properties at a time. If you try to exceed your maximum, the oldest property immediately ends, and then the new property applies.</description>
 		</sheet>
@@ -1808,4 +1808,4 @@
 			<select name="Feat (Level 19)" type="Feat" />
 		</rules>
 	</element>
-</aurorahomebrew>
+</elements>

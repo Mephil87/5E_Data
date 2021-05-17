@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Unearthed Arcana: Cleric, Druid, and Wizard</name>
 		<update version="0.0.6">
-			<file name="20191003.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/unearthed-arcana/2019/20191003.xml" />
+			<file name="20191003.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/unearthed-arcana/2019/20191003.xml" />
 		</update>
 	</info>		
 	<element name="Unearthed Arcana: Cleric, Druid, and Wizard" type="Source" source="Core" id="ID_WOTC_SOURCE_UNEARTHED_ARCANA_20191003">
@@ -566,4 +566,4 @@
 			<description>If the named creature is within range of the spell, you can target the creature with the spell even if you can’t see the creature or it has total cover against the spell.</description>
 		</sheet>
 	</element>
-</aurorahomebrew>
+</elements>

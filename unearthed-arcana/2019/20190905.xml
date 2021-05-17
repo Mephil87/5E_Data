@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Unearthed Arcana: Sorcerer and Warlock</name>
 		<update version="0.0.2">
-			<file name="20190905.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/unearthed-arcana/2019/20190905.xml" />
+			<file name="20190905.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/unearthed-arcana/2019/20190905.xml" />
 		</update>
 	</info>
 
@@ -295,4 +295,4 @@
 			<set name="isRitual">false</set>
 		</setters>
 	</element>
-</aurorahomebrew>
+</elements>

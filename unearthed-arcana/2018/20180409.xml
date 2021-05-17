@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Unearthed Arcana: Order Domain</name>
 		<description>Today we present a new playtest option for clerics: the Order Domain. An early draft of it appeared on the Twitch show The Mike Mearls Happy Fun Hour. We’ve refined that draft into the version available here.</description>
 		<author url="http://dnd.wizards.com/articles/unearthed-arcana/order-domain">Wizards of the Coast</author>
 		<update version="0.0.7">
-			<file name="20180409.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/unearthed-arcana/2018/20180409.xml" />
+			<file name="20180409.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/unearthed-arcana/2018/20180409.xml" />
 		</update>
 	</info>
 
@@ -140,4 +140,4 @@
 			<description>If you deal your Divine Strike damage to a creature, that creature takes an extra 2d8 force damage the first time each turn that any ally of yours hits it with a weapon attack. This benefit lasts until the start of your next turn.</description>
 		</sheet>
 	</element>
-</aurorahomebrew>
+</elements>

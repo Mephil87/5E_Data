@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Vampire</name>
 		<description>Vampire</description>
 		<author url="https://media.wizards.com/2018/downloads/magic/plane-shift_ixalan.pdf">Wizards of the Coast</author>
 		<update version="0.0.5">
-			<file name="race-vampire.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/unearthed-arcana/planeshift/zendikar/race-vampire.xml" />
+			<file name="race-vampire.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/unearthed-arcana/planeshift/zendikar/race-vampire.xml" />
 		</update>
 	</info>
 
@@ -134,4 +134,4 @@
 			<set name="script">Vampire</set>
 		</setters>
 	</element>
-</aurorahomebrew>
+</elements>

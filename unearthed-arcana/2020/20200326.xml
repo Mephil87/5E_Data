@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Unearthed Arcana: Spells and Magic Tattoos</name>
 		<update version="0.0.1">
-			<file name="20200326.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/unearthed-arcana/2020/20200326.xml" />
+			<file name="20200326.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/unearthed-arcana/2020/20200326.xml" />
 		</update>
 	</info>	
 	<element name="Unearthed Arcana: Spells and Magic Tattoos" type="Source" source="Core" id="ID_WOTC_SOURCE_UNEARTHED_ARCANA_20200326">
@@ -966,4 +966,4 @@
 			<p><strong><em>Rotting Claw (Putrid Only).</em></strong> Melee Weapon Attack: +3 + the spell’s level to hit, reach 5 ft., one target. Hit: 1d6 + 3 + the spell’s level slashing damage. If the target is poisoned, it must succeed on a Constitution saving throw against your spell save DC or be paralyzed until the end of its next turn.</p>
 		</description>
 	</element>
-</aurorahomebrew>
+</elements>

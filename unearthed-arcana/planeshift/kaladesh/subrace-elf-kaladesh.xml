@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Elf Subraces</name>
 		<description>Elf Subraces from Plane Shift: kaladesh.</description>
 		<author url="https://media.wizards.com/2017/downloads/magic/Plane-Shift_Kaladesh.pdf">Wizards of the Coast</author>
 		<update version="0.0.3">
-			<file name="subrace-elf-kaladesh.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/unearthed-arcana/planeshift/kaladesh/subrace-elf-kaladesh.xml" />
+			<file name="subrace-elf-kaladesh.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/unearthed-arcana/planeshift/kaladesh/subrace-elf-kaladesh.xml" />
 		</update>
 	</info>
 
@@ -87,4 +87,4 @@
 			<select type="Spell" name="Druid Cantrip (Vahadar)" supports="Druid,0" />
 		</rules>
 	</element>
-</aurorahomebrew>
+</elements>

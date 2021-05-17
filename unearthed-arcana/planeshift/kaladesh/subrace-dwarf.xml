@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Kaladesh Dwarf</name>
 		<description>Dwarf Variant from Plane Shift: kaladesh.</description>
 		<author url="https://media.wizards.com/2017/downloads/magic/Plane-Shift_Kaladesh.pdf">Wizards of the Coast</author>
 		<update version="0.0.3">
-			<file name="subrace-dwarf.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/unearthed-arcana/planeshift/kaladesh/subrace-dwarf.xml" />
+			<file name="subrace-dwarf.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/unearthed-arcana/planeshift/kaladesh/subrace-dwarf.xml" />
 		</update>
 	</info>
 
@@ -54,4 +54,4 @@
 			<stat name="artisans-expertise:check" value="proficiency" />
 		</rules>
 	</element>
-</aurorahomebrew>
+</elements>

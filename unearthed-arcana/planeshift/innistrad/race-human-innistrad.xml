@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Human</name>
 		<description>Human Race Variants from Plane Shift: Innistrad</description>
 		<author url="https://media.wizards.com/2016/dnd/downloads/Plane_Shift_Innistrad.pdf">Wizards of the Coast</author>
 		<update version="0.0.4">
-			<file name="race-human-innistrad.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/unearthed-arcana/planeshift/innistrad/race-human-innistrad.xml" />
+			<file name="race-human-innistrad.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/unearthed-arcana/planeshift/innistrad/race-human-innistrad.xml" />
 		</update>
 	</info>
 
@@ -147,4 +147,4 @@
 		</rules>
 	</element>
 
-</aurorahomebrew>
+</elements>

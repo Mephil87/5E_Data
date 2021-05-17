@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Khenra</name>
 		<description>Khenra Race from Plane Shift: Amonkhet</description>
 		<author url="https://media.wizards.com/2017/downloads/magic/plane-shift_amonkhet.pdf">Wizard of the Coast</author>
 		<update version="0.0.3">
-			<file name="race-khenra.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/unearthed-arcana/planeshift/amonkhet/race-khenra.xml" />
+			<file name="race-khenra.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/unearthed-arcana/planeshift/amonkhet/race-khenra.xml" />
 		</update>
 	</info>
 
@@ -68,4 +68,4 @@
 		</setters>
 	</element>
 
-</aurorahomebrew>
+</elements>

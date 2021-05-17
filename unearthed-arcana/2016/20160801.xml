@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Unearthed Arcana: The Faithful</name>
 		<description>This month, Unearthed Arcana presents two new options that allow arcane casters to express their faith in the gods. For warlock characters, the Pact of the Seeker defines a bond to a mysterious, inscrutable deity dedicated to gathering knowledge and lore. For wizards, the Theurgy arcane tradition creates a magic-user whose arcane instruction is guided by the teachings of a deity, and who gains the benefits of a divine domain.</description>
 		<author url="http://dnd.wizards.com/articles/features/faithful">Wizards of the Coast</author>
 		<update version="0.0.6">
-			<file name="20160801.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/unearthed-arcana/2016/20160801.xml" />
+			<file name="20160801.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/unearthed-arcana/2016/20160801.xml" />
 		</update>
 	</info>
 
@@ -139,4 +139,4 @@
 
 	<!-- Arcane Tradition: Theurgy, obsolete -->
 
-</aurorahomebrew>
+</elements>

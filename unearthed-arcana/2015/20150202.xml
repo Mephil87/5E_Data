@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Unearthed Arcana: Eberron</name>
 		<description>The Eberron campaign setting was created by Keith Baker and first published for D&amp;D in 2004. It combines pulp adventure and intrigue in a world where magic-driven technology has produced airships, trains, and similar advancements comparable to early 20th-century Europe. The continent of Khorvaire, the center of Eberron’s focus, has recently emerged from the Last War, a terrible conflict that saw the kingdom of Cyre transformed into a lifeless gray wasteland called the Mournland. That catastrophe shocked the remaining kingdoms into an uneasy peace that has held so far.</description>
 		<author url="http://dnd.wizards.com/articles/unearthed-arcana/unearthed-arcana-eberron">Wizards of the Coast</author>
 		<update version="0.2.7">
-			<file name="20150202.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/unearthed-arcana/2015/20150202.xml" />
+			<file name="20150202.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/unearthed-arcana/2015/20150202.xml" />
 		</update>
 	</info>
 	
@@ -358,4 +358,4 @@
 		</rules>
 	</element> -->
 
-</aurorahomebrew>
+</elements>

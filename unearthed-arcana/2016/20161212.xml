@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Unearthed Arcana: Monastic Traditions</name>
 		<description>Two new Monastic Tradition options arise for the monk in today’s Unearthed Arcana: the Way of the Kensei and the Way of Tranquility. We invite you to read the options' descriptions, make characters with them, and see whether you like them.</description>
 		<author url="http://dnd.wizards.com/articles/unearthed-arcana/monk-monastic-traditions">Wizards of the Coast</author>
 		<update version="0.0.6">
-			<file name="20161212.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/unearthed-arcana/2016/20161212.xml" />
+			<file name="20161212.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/unearthed-arcana/2016/20161212.xml" />
 		</update>
 	</info>
 
@@ -119,4 +119,4 @@
 			<description>If you see a creature reduce an other creature to 0 hit points, you can use your reaction to grant yourself a bonus to all damage rolls against the aggressor until the end of your next turn. The bonus equals {{level:monk}}.</description>
 		</sheet>
 	</element>
-</aurorahomebrew>
+</elements>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Unearthed Arcana: Subclasses, Part 3</name>
 		<update version="0.0.2">
-			<file name="20200224.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/unearthed-arcana/2020/20200224.xml" />
+			<file name="20200224.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/unearthed-arcana/2020/20200224.xml" />
 		</update>
 	</info>	
 	<element name="Unearthed Arcana: Subclasses, Part 3" type="Source" source="Core" id="ID_WOTC_SOURCE_UNEARTHED_ARCANA_20200224">
@@ -869,4 +869,4 @@
 	</element>
 	-->
 	
-</aurorahomebrew>
+</elements>

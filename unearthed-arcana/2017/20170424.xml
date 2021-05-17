@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Unearthed Arcana: Feats for Races</name>
 		<description>Today we're offering another batch of feats to playtest. This time, the feats are associated with the races in the <i>Player’s Handbook</i>.</description>
 		<author url="http://dnd.wizards.com/articles/unearthed-arcana/feats-races">Wizards of the Coast</author>
 		<update version="0.0.6">
-			<file name="20170424.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/unearthed-arcana/2017/20170424.xml" />
+			<file name="20170424.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/unearthed-arcana/2017/20170424.xml" />
 		</update>
 	</info>
 
@@ -171,7 +171,7 @@
         <compendium display="false" />
         <supports>Hated Foe</supports>
         <description>
-            <p>Elementals are creatures native to the elemental planes. Some creatures of this type are little more than animate masses of their respective aurorahomebrew, including the creatures simply called elementals. Others have biological forms infused with elemental energy. The races of genies, including djinn and efreet, form the most important civilizations on the elemental planes. Other elemental creatures include azers, invisible stalkers, and water weirds.</p>
+            <p>Elementals are creatures native to the elemental planes. Some creatures of this type are little more than animate masses of their respective elements, including the creatures simply called elementals. Others have biological forms infused with elemental energy. The races of genies, including djinn and efreet, form the most important civilizations on the elemental planes. Other elemental creatures include azers, invisible stalkers, and water weirds.</p>
         </description>
         <sheet>
             <description></description>
@@ -316,4 +316,4 @@
             <select type="Ability Score Improvement" name="Wonder Maker" supports="ID_PHB_FEAT_ASI_DEXTERITY|ID_PHB_FEAT_ASI_INTELLIGENCE" />
         </rules>
     </element>
-</aurorahomebrew>
+</elements>

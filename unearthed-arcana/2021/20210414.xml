@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Unearthed Arcana: Draconic Options</name>
 		<update version="0.0.1">
-			<file name="20210414.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/unearthed-arcana/2021/20210414.xml" />
+			<file name="20210414.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/unearthed-arcana/2021/20210414.xml" />
 		</update>
 	</info>
 
@@ -986,4 +986,4 @@
 		</description>
 	</element>
 
-</aurorahomebrew>
+</elements>

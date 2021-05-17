@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Unearthed Arcana: Starter Spells</name>
 		<description>New spells have been unearthed this week, a collection of cantrips and 1st-level spells for characters to choose from at the start of their spellcasting careers and beyond.</description>
 		<author url="http://dnd.wizards.com/articles/unearthed-arcana/starter-spells">Wizards of the Coast</author>
 		<update version="0.0.2">
-			<file name="20170403.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/unearthed-arcana/2017/20170403.xml" />
+			<file name="20170403.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/unearthed-arcana/2017/20170403.xml" />
 		</update>
 	</info>
 
@@ -207,4 +207,4 @@
 			<set name="isRitual">true</set>
 		</setters>
 	</element>
-</aurorahomebrew>
+</elements>

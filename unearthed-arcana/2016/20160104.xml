@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Unearthed Arcana: Kits of Old</name>
 		<description>These character options were introduced in The Complete Fighter’s Handbook, and became a mainstay of the rest of the books in the Player’s Handbook Rules Supplement series. Though kits were notorious for providing wildly uneven benefits (some offered all-but-unnoticeable improvements, while others turned characters into walking engines of destruction), they did add depth and customization to a game that had previously offered few character choices after 1st level.</description>
 		<author url="http://dnd.wizards.com/articles/unearthed-arcana/kits-old">Wizards of the Coast</author>
 		<update version="0.0.2">
-			<file name="20160104.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/unearthed-arcana/2016/20160104.xml" />
+			<file name="20160104.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/unearthed-arcana/2016/20160104.xml" />
 		</update>
 	</info>
 		
@@ -187,4 +187,4 @@
 			<description>When you roll initiative and have no superiority dice remaining, you regain 1 superiority die.</description>
 		</sheet>
 	</element>
-</aurorahomebrew>
+</elements>

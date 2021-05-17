@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Naga</name>
 		<description>Naga Race from Plane Shift: Amonkhet</description>
 		<author url="https://media.wizards.com/2017/downloads/magic/plane-shift_amonkhet.pdf">Wizard of the Coast</author>
 		<update version="0.0.3">
-			<file name="race-naga.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/unearthed-arcana/planeshift/amonkhet/race-naga.xml" />
+			<file name="race-naga.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/unearthed-arcana/planeshift/amonkhet/race-naga.xml" />
 		</update>
 	</info>
 
@@ -104,4 +104,4 @@
 			<set name="script">Naga</set>
 		</setters>
 	</element>
-</aurorahomebrew>
+</elements>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>	
+<elements>	
 	<info>
 		<name>Unearthed Arcana: Feats</name>
 		<update version="0.0.3">
-			<file name="20200713.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/unearthed-arcana/2020/20200713.xml" />
+			<file name="20200713.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/unearthed-arcana/2020/20200713.xml" />
 		</update>
 	</info>
 	<element name="Unearthed Arcana: Feats (2020)" type="Source" source="Core" id="ID_WOTC_SOURCE_UNEARTHED_ARCANA_20200713">
@@ -388,4 +388,4 @@
 			<stat name="wisdom" value="1" />
 		</rules>
 	</element>
-</aurorahomebrew>
+</elements>

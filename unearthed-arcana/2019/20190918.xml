@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Unearthed Arcana: Bard and Paladin</name>
 		<update version="0.0.4">
-			<file name="20190918.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/unearthed-arcana/2019/20190918.xml" />
+			<file name="20190918.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/unearthed-arcana/2019/20190918.xml" />
 		</update>
 	</info>
 
@@ -232,4 +232,4 @@
 			• If you fail a saving throw, you can use your reaction to succeed instead.</description>
 		</sheet>
 	</element>
-</aurorahomebrew>
+</elements>

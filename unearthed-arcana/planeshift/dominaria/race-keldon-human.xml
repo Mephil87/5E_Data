@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Human</name>
 		<description></description>
 		<author url="https://media.wizards.com/2018/downloads/magic/Plane_Shift_Dominaria.pdf">Wizards of the Coast</author>
 		<update version="0.0.5">
-			<file name="race-keldon-human.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/unearthed-arcana/planeshift/dominaria/race-keldon-human.xml" />
+			<file name="race-keldon-human.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/unearthed-arcana/planeshift/dominaria/race-keldon-human.xml" />
 		</update>
 	</info>
 
@@ -65,4 +65,4 @@
 		</setters>
 	</element>
 
-</aurorahomebrew>
+</elements>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Unearthed Arcana: Wizard Revisited</name>
 		<description>After releasing the 28-page mystic last week, we have a short Unearthed Arcana installment this week: two Arcane Tradition options for the wizard.</description>
 		<author url="http://dnd.wizards.com/articles/unearthed-arcana/wizard-revisited">Wizards of the Coast</author>
 		<update version="0.0.5">
-			<file name="20170320.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/unearthed-arcana/2017/20170320.xml" />
+			<file name="20170320.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/unearthed-arcana/2017/20170320.xml" />
 		</update>
 	</info>
 
@@ -480,7 +480,7 @@
 			</table>
 			<div element="ID_WOTC_UA20170320_PHB_ARCHETYPE_FEATURE_NATURE_DOMAIN_ACOLYTE_OF_NATURE" />
 			<div element="ID_WOTC_UA20170320_PHB_ARCHETYPE_FEATURE_NATURE_DOMAIN_CD_CHARM_ANIMALS_AND_PLANTS" />
-			<div element="ID_WOTC_UA20170320_PHB_ARCHETYPE_FEATURE_NATURE_DOMAIN_DAMPEN_aurorahomebrew" />
+			<div element="ID_WOTC_UA20170320_PHB_ARCHETYPE_FEATURE_NATURE_DOMAIN_DAMPEN_ELEMENTS" />
 			<div element="ID_WOTC_UA20170320_PHB_ARCHETYPE_FEATURE_NATURE_DOMAIN_MASTER_OF_NATURE" />
 		</description>
 		<sheet>
@@ -491,7 +491,7 @@
 			<grant type="Grants" id="ID_WOTC_UA20170320_GRANTS_THEURGY_ARCANE_INITIATE_CLERIC_SPELLS" requirements="ID_PHB_SPELL_ANIMAL_FRIENDSHIP,ID_PHB_SPELL_SPEAK_WITH_ANIMALS,ID_PHB_SPELL_BARKSKIN,ID_PHB_SPELL_SPIKE_GROWTH,ID_PHB_SPELL_PLANT_GROWTH,ID_PHB_SPELL_WIND_WALL,ID_PHB_SPELL_DOMINATE_BEAST,ID_PHB_SPELL_GRASPING_VINE,ID_PHB_SPELL_INSECT_PLAGUE,ID_PHB_SPELL_TREE_STRIDE"/>
 			<grant type="Archetype Feature" id="ID_WOTC_UA20170320_PHB_ARCHETYPE_FEATURE_NATURE_DOMAIN_CD_CHARM_ANIMALS_AND_PLANTS" />
 			<grant type="Archetype Feature" id="ID_WOTC_UA20170320_PHB_ARCHETYPE_FEATURE_NATURE_DOMAIN_ACOLYTE_OF_NATURE" level="6"/>
-			<grant type="Archetype Feature" id="ID_WOTC_UA20170320_PHB_ARCHETYPE_FEATURE_NATURE_DOMAIN_DAMPEN_aurorahomebrew" level="10"/>
+			<grant type="Archetype Feature" id="ID_WOTC_UA20170320_PHB_ARCHETYPE_FEATURE_NATURE_DOMAIN_DAMPEN_ELEMENTS" level="10"/>
 			<grant type="Archetype Feature" id="ID_WOTC_UA20170320_PHB_ARCHETYPE_FEATURE_NATURE_DOMAIN_MASTER_OF_NATURE" level="14"/>
 		</rules>
 	</element>
@@ -547,7 +547,7 @@
 			<select type="Proficiency" name="Acolyte of Nature" supports="ID_PROFICIENCY_SKILL_ANIMALHANDLING|ID_PROFICIENCY_SKILL_NATURE|ID_PROFICIENCY_SKILL_SURVIVAL" />
 		</rules>
 	</element>
-	<element name="Dampen aurorahomebrew" type="Archetype Feature" source="Player’s Handbook" id="ID_WOTC_UA20170320_PHB_ARCHETYPE_FEATURE_NATURE_DOMAIN_DAMPEN_aurorahomebrew">
+	<element name="Dampen Elements" type="Archetype Feature" source="Player’s Handbook" id="ID_WOTC_UA20170320_PHB_ARCHETYPE_FEATURE_NATURE_DOMAIN_DAMPEN_ELEMENTS">
 		<compendium display="false" />
 		<description>
 			<p>Starting at 10th level, when you or a creature within 30 feet of you takes acid, cold, fire, lightning, or thunder damage, you can use your reaction to grant resistance to the creature against that instance of the damage.</p>
@@ -2282,4 +2282,4 @@
 			<description>If you were to drop to 0 HP or die from an attack you can move your movement up to the attacker and make a melee attack with advantage. On a hit the target takes an additional 5d10 fire and 5d10 weapon type damage.</description>
 		</sheet>
 	</element>
-</aurorahomebrew>
+</elements>

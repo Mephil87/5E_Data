@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Unearthed Arcana: Gothic Heroes</name>
 		<update version="0.0.5">
-			<file name="20160404.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/unearthed-arcana/2016/20160404.xml" />
+			<file name="20160404.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/unearthed-arcana/2016/20160404.xml" />
 		</update>
 	</info>
 
@@ -193,4 +193,4 @@
 			<description>When rolling initiative without any superiority dice, regain 1.</description>
 		</sheet>
 	</element>
-</aurorahomebrew>
+</elements>

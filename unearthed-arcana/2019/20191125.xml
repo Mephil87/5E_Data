@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Unearthed Arcana: Fighter, Rogue, and Wizard</name>
 		<update version="0.0.8">
-			<file name="20191125.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/unearthed-arcana/2019/20191125.xml" />
+			<file name="20191125.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/unearthed-arcana/2019/20191125.xml" />
 		</update>
 	</info>
 	
@@ -612,4 +612,4 @@
 			<select type="Proficiency" name="Skill Proficiency, Telepathic" supports="ID_PROFICIENCY_SKILL_DECEPTION|ID_PROFICIENCY_SKILL_INSIGHT|ID_PROFICIENCY_SKILL_INTIMIDATION|ID_PROFICIENCY_SKILL_PERSUASION" />
 		</rules>
 	</element>
-</aurorahomebrew>
+</elements>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Unearthed Arcana: Subclasses, Part 5</name>
 		<update version="0.0.2">
-			<file name="20201026.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/unearthed-arcana/2020/20201026.xml" />
+			<file name="20201026.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/unearthed-arcana/2020/20201026.xml" />
 		</update>
 	</info>
 
@@ -556,4 +556,4 @@
 			<description>Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 1d6 + 6 piercing damage of a type determined by the drake’s Draconic Essence.</description>
 		</sheet>
 	</element>
-</aurorahomebrew>
+</elements>

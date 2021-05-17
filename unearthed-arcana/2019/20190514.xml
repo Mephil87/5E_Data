@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Unearthed Arcana: The Artificer Returns</name>
 		<update version="0.0.3">
-			<file name="20190514.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/unearthed-arcana/2019/20190514.xml" />
+			<file name="20190514.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/unearthed-arcana/2019/20190514.xml" />
 		</update>
 	</info>
 	
@@ -125,7 +125,7 @@
 			<grant type="Archetype Feature" id="ID_WOTC_UA20190514_ARCHETYPE_FEATURE_ARTIFICER_ARCHIVIST_ARTIFICIAL_MIND_INFORMATION_OVERLOAD" />
 		</rules>
 	</element>
-	<!-- aurorahomebrew to improve readability a bit for these larger aurorahomebrew -->
+	<!-- elements to improve readability a bit for these larger elements -->
 	<element name="Manifest Mind" type="Archetype Feature" source="Unearthed Arcana: The Artificer Returns" id="ID_WOTC_UA20190514_ARCHETYPE_FEATURE_ARTIFICER_ARCHIVIST_ARTIFICIAL_MIND_MANIFEST_MIND">
 		<description>
 			<p>As a bonus action while the item is on your person, you can cause the mind to manifest as a Tiny spectral presence, hovering in an unoccupied space of your choice within 60 feet of you. This presence is intangible and invulnerable, and it sheds dim light in a 10-foot radius. You determine its appearance; the Artificial Mind table offers suggested appearances based on the object’s main material.</p>
@@ -527,7 +527,7 @@
 	<append id="ID_XGTE_SPELL_THUNDERCLAP">
 		<supports>UA Artificer</supports>
 	</append>
-	<append id="ID_XGTE_SPELL_ABSORB_aurorahomebrew">
+	<append id="ID_XGTE_SPELL_ABSORB_ELEMENTS">
 		<supports>UA Artificer</supports>
 	</append>
 	<append id="ID_XGTE_SPELL_CATAPULT">
@@ -563,4 +563,4 @@
 	<append id="ID_XGTE_SPELL_TRANSMUTE_ROCK">
 		<supports>UA Artificer</supports>
 	</append>
-</aurorahomebrew>
+</elements>

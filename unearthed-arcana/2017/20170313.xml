@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Mystic</name>
 		<description>Mystic from Unearthed Arcana.</description>
 		<author url="https://media.wizards.com/2017/dnd/downloads/UAMystic3.pdf">Wizards of the Coast</author>
 		<update version="0.0.8">
-			<file name="20170313.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/unearthed-arcana/2017/20170313.xml" />
+			<file name="20170313.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/unearthed-arcana/2017/20170313.xml" />
 		</update>
 	</info>
 	
@@ -439,7 +439,7 @@
 		<supports>Mystic Order</supports>
 		<description>
 			<p>The Order of the Wu Jen features some of the most devoted mystics. These mystics seek to lock themselves away from the world, denying the limits of the physical world and replacing it with a reality that they create for themselves. Known as wu jens, these mystics cast their minds into the world, seize control of its fundamental principles, and rebuild it.</p>
-			<p class="indent">In practical terms, wu jens excel at controlling the forces of the natural world. They can hurl objects with their minds, control the four aurorahomebrew, and alter reality to fit their desires.</p>
+			<p class="indent">In practical terms, wu jens excel at controlling the forces of the natural world. They can hurl objects with their minds, control the four elements, and alter reality to fit their desires.</p>
 			<div element="ID_WOTC_UA20170313_ARCHETYPE_FEATURE_WUJEN_BONUS_DISCIPLINES" />
 			<div element="ID_WOTC_UA20170313_ARCHETYPE_FEATURE_WUJEN_HERMITS_STUDY" />
 			<div element="ID_WOTC_UA20170313_ARCHETYPE_FEATURE_WUJEN_ELEMENTAL_ATTUNEMENT" />
@@ -823,7 +823,7 @@
 		<supports>Psionic Disciplines</supports>
 		<requirements>ID_WOTC_UA20170313_CLASS_MYSTIC||ID_WOTC_UA20170313_MULTICLASS_MYSTIC</requirements>
 		<description>
-			<p>You refocus your sight to see the energy that surrounds all creatures. You perceive auras, energy signatures that can reveal key aurorahomebrew of a creature’s nature.</p>
+			<p>You refocus your sight to see the energy that surrounds all creatures. You perceive auras, energy signatures that can reveal key elements of a creature’s nature.</p>
 			<p class="indent"><b>Psychic Focus.</b> While focused on this discipline, you have advantage on Wisdom (Insight) checks.</p>
 			<p class="indent"><b>Assess Foe (2 psi).</b> As a bonus action, you analyze the aura of one creature you see. You learn its current hit point total and all its immunities, resistances, and vulnerabilities.</p>
 			<p class="indent"><b>Read Moods (2 psi).</b> As a bonus action, you learn a one-word summary of the emotional state of up to six creatures you can see, such as happy, confused, afraid, or violent.</p>
@@ -2042,4 +2042,4 @@
 			<stat name="mystic:talents" value="4" bonus="psionic talents" level="17" />
 		</rules>
 	</element>    
-</aurorahomebrew>
+</elements>

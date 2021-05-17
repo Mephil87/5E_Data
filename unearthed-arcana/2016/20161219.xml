@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Unearthed Arcana: Paladin: Sacred Oaths</name>
 		<description>Paladins have two new Sacred Oath options to ponder in today’s Unearthed Arcana: the Oath of Conquest and the Oath of Treachery. We invite you to read the options' descriptions, make characters with them, and see whether you like them. Next time we’ll provide a survey so that you can let us know what you think.</description>
 		<author url="http://dnd.wizards.com/articles/unearthed-arcana/paladin-sacred-oaths">Wizards of the Coast</author>
 		<update version="0.0.3">
-			<file name="20161219.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/unearthed-arcana/2016/20161219.xml" />
+			<file name="20161219.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/unearthed-arcana/2016/20161219.xml" />
 		</update>
 	</info>
 
@@ -150,4 +150,4 @@
 			• If you have advantage on an attack roll, you gain a bonus to its damage roll equal to +{{level:paladin}}.</description>
         </sheet>
     </element>
-</aurorahomebrew>
+</elements>

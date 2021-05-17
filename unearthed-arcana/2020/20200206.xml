@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Unearthed Arcana: Subclasses, Part 2</name>
 		<update version="0.0.4">
-			<file name="20200206.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/unearthed-arcana/2020/20200206.xml" />
+			<file name="20200206.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/unearthed-arcana/2020/20200206.xml" />
 		</update>
 	</info>
 	
@@ -566,4 +566,4 @@
 			You can expend 7 sorcery points to use this feature again.</description>
 		</sheet>
 	</element>	
-</aurorahomebrew>
+</elements>

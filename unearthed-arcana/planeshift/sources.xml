@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
     <info>
         <name>Plane Shift Sources</name>
         <description></description>
         <author url="https://media.wizards.com/2016/downloads/magic/Plane%20Shift%20Zendikar.pdf">Wizards of the Coast</author>
         <update version="0.0.3">
-            <file name="sources.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/unearthed-arcana/planeshift/sources.xml" />
+            <file name="sources.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/unearthed-arcana/planeshift/sources.xml" />
         </update>
     </info>
 	<element name="Plane Shift: Amonkhet" type="Source" source="Core" id="ID_WOTC_SOURCE_UNEARTHED_ARCANA_PLANE_SHIFT_AMONKHET">
@@ -81,6 +81,6 @@
 		</setters>
 	</element>
 
-	<!-- Helper aurorahomebrew -->
+	<!-- Helper Elements -->
 	<element name="Plane Shift Human Variant" type="Grants" source="Core" id="ID_UA_PS_GRANTS_HUMAN_VARIANT" />
-</aurorahomebrew>
+</elements>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Unearthed Arcana: Barbarian and Monk</name>
 		<description>The barbarian receives a new Primal Path feature: Path of the Wild Soul. Meanwhile the monk gains a new Monastic Tradition feature: the Way of the Astral Self.</description>
 		<author url="https://dnd.wizards.com/articles/unearthed-arcana/barbarian-and-monk">Wizards of the Coast</author>
 		<update version="0.0.3">
-			<file name="20190815.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/unearthed-arcana/2019/20190815.xml" />
+			<file name="20190815.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/unearthed-arcana/2019/20190815.xml" />
 		</update>
 	</info>
 		
@@ -196,4 +196,4 @@
 			<description>While raging, you can reroll on the Wild Surge Table replacing your current effect with the new one.</description>
 		</sheet>
 	</element>
-</aurorahomebrew>
+</elements>

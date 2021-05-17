@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
     <info>
         <name>Minotaur</name>
         <description>Minotaur Race from Plane Shift: Amonkhet</description>
         <author url="https://media.wizards.com/2017/downloads/magic/plane-shift_amonkhet.pdf">Wizard of the Coast</author>
         <update version="0.0.4">
-            <file name="race-minotaur.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/unearthed-arcana/planeshift/amonkhet/race-minotaur.xml" />
+            <file name="race-minotaur.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/unearthed-arcana/planeshift/amonkhet/race-minotaur.xml" />
         </update>
     </info>
 
@@ -95,4 +95,4 @@
             <set name="speakers">Minotaurs</set>
         </setters>
     </element>
-</aurorahomebrew>
+</elements>

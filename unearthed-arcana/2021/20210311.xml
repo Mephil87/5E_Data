@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Unearthed Arcana: Folk of the Feywild</name>
 		<update version="0.0.2">
-			<file name="20210311.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/unearthed-arcana/2021/20210311.xml" />
+			<file name="20210311.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/unearthed-arcana/2021/20210311.xml" />
 		</update>
 	</info>
 
@@ -381,4 +381,4 @@
 		</sheet>
 	</element>
 
-</aurorahomebrew>
+</elements>

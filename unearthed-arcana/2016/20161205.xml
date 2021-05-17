@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Unearthed Arcana: Fighter: Martial Archetypes</name>
 		<description>The fighter faces four new Martial Archetype options this week: Arcane Archer, Knight, Samurai, and Sharpshooter. We invite you to read the options’ descriptions, make characters with them, and see whether you like them.</description>
 		<author url="http://dnd.wizards.com/articles/unearthed-arcana/fighter">Wizards of the Coast</author>
 		<update version="0.0.4">
-			<file name="20161205.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/unearthed-arcana/2016/20161205.xml" />
+			<file name="20161205.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/unearthed-arcana/2016/20161205.xml" />
 		</update>
 	</info>
 
@@ -200,4 +200,4 @@
 			<description>If you take the Attack action on your first turn of a combat, make one additional ranged weapon attack as part of that action.</description>
 		</sheet>
 	</element>
-</aurorahomebrew>
+</elements>

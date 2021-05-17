@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Feats</name>
 		<description>Feats from Plane Shift: kaladesh.</description>
 		<author url="https://media.wizards.com/2017/downloads/magic/Plane-Shift_Kaladesh.pdf">Wizards of the Coast</author>
 		<update version="0.0.2">
-			<file name="feats-kaladesh.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/unearthed-arcana/planeshift/kaladesh/feats-kaladesh.xml" />
+			<file name="feats-kaladesh.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/unearthed-arcana/planeshift/kaladesh/feats-kaladesh.xml" />
 		</update>
 	</info>
 	<element name="Servo Crafting" type="Feat" source="Plane Shift: Kaladesh" id="ID_WOTC_PSK_FEAT_SERVO_CRAFTING">
@@ -46,4 +46,4 @@
 			<select type="Spell" name="1st-level Spell (Quicksmithing)" supports="Ritual,1" number="2" />
 		</rules>
 	</element>
-</aurorahomebrew>
+</elements>

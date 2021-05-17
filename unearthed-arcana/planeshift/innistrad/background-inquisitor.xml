@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Inquisitor</name>
 		<description>Inquisitor Background</description>
 		<author url="https://media.wizards.com/2016/dnd/downloads/Plane_Shift_Innistrad.pdf">Wizards of the Coast</author>
 		<update version="0.0.3">
-			<file name="background-inquisitor.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/unearthed-arcana/planeshift/innistrad/background-inquisitor.xml" />
+			<file name="background-inquisitor.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/unearthed-arcana/planeshift/innistrad/background-inquisitor.xml" />
 		</update>
 	</info>
 
@@ -75,4 +75,4 @@
 			<description>As an inquisitor of the church, you have the authority to arrest criminals. In the absence of other authorities, you are authorized to pass judgment and even carry out sentencing. If you abuse this power, however, your superiors in the church might strip it from you.</description>
 		</sheet>
 	</element>
-</aurorahomebrew>
+</elements>

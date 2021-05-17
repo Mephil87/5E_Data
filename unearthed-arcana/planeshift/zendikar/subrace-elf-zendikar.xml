@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Elf Subraces</name>
 		<description>Elf Subrace from Planeshift: Zendikar</description>
 		<author url="https://media.wizards.com/2016/downloads/magic/Plane%20Shift%20Zendikar.pdf">Planeshift: Zendikar</author>
 		<update version="0.0.2">
-			<file name="subrace-elf-zendikar.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/unearthed-arcana/planeshift/zendikar/subrace-elf-zendikar.xml" />
+			<file name="subrace-elf-zendikar.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/unearthed-arcana/planeshift/zendikar/subrace-elf-zendikar.xml" />
 		</update>
 	</info>
 
@@ -107,4 +107,4 @@
 			<grant type="Spell" id="ID_PHB_SPELL_DARKNESS" level="5" />
 		</rules>
 	</element>
-</aurorahomebrew>
+</elements>

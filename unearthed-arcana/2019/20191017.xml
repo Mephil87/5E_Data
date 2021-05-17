@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Unearthed Arcana: Fighter, Ranger, and Rogue</name>
 		<update version="0.0.4">
-			<file name="20191017.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/unearthed-arcana/2019/20191017.xml" />
+			<file name="20191017.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/unearthed-arcana/2019/20191017.xml" />
 		</update>
 	</info>
 	<element name="Unearthed Arcana: Fighter, Ranger, and Rogue" type="Source" source="Core" id="ID_WOTC_SOURCE_UNEARTHED_ARCANA_20191017">
@@ -437,4 +437,4 @@
 			<description>You can now use your Cunning Action to teleport to an unoccupied space within 30 feet of you. You don’t need to see that space to teleport to it, but your teleportation fails, wasting your bonus action, if you attempt to teleport through magical force that is Medium or larger, such as a wall of force. If you appear in a space occupied by another creature or filled by an object, you are immediately shunted to the nearest unoccupied space that you can occupy and take force damage equal to twice the number of feet you are shunted.</description>
 		</sheet>
 	</element>
-</aurorahomebrew>
+</elements>

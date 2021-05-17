@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Unearthed Arcana: Gothic Lineages</name>
 		<update version="0.0.2">
-			<file name="20210126.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/unearthed-arcana/2021/20210126.xml" />
+			<file name="20210126.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/unearthed-arcana/2021/20210126.xml" />
 		</update>
 	</info>
 
@@ -400,4 +400,4 @@
 		</sheet>
 	</element>
 
-</aurorahomebrew>
+</elements>
