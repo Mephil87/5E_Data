@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
   <info>
     <name>College of Swords</name>
     <description>The College of Swords from Xanathar’s Guide to Everything</description>
     <author url="http://dnd.wizards.com/products/tabletop-games/rpg-products/xanathars-guide-everything">Xanathar’s Guide to Everything</author>
     <update version="0.0.4">
-      <file name="bard-swords.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/supplements/xanathars-guide-to-everything/archetypes/bard-swords.xml" />
+      <file name="bard-swords.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/supplements/xanathars-guide-to-everything/archetypes/bard-swords.xml" />
     </update>
   </info>
   <element name="College of Swords" type="Archetype" source="Xanathar’s Guide to Everything" id="ID_WOTC_XGTE_ARCHETYPE_COLLEGE_OF_SWORDS">
@@ -71,7 +71,7 @@
       </description>
     </sheet>
   </element>
-  <!-- todo: create aurorahomebrew for these attacks? -->
+  <!-- todo: create elements for these attacks? -->
   <element name="Extra Attack" type="Archetype Feature" source="Xanathar’s Guide to Everything" id="ID_WOTC_XGTE_ARCHETYPE_FEATURE_BARD_SWORDS_EXTRA_ATTACK">
     <description>
       <p>Starting at 6th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.</p>
@@ -91,4 +91,4 @@
       <description>Instead of expending a Bardic Inspiration die, you can roll a d6 for a Blade Flourish instead.</description>
     </sheet>
   </element>
-</aurorahomebrew>
+</elements>

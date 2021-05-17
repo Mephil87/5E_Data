@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
     <info>
         <name>Scout</name>
         <description>The Scout from Xanathar’s Guide to Everything</description>
         <author url="http://dnd.wizards.com/products/tabletop-games/rpg-products/xanathars-guide-everything">Xanathar’s Guide to Everything</author>
         <update version="0.0.6">
-            <file name="rogue-scout.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/supplements/xanathars-guide-to-everything/archetypes/rogue-scout.xml" />
+            <file name="rogue-scout.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/supplements/xanathars-guide-to-everything/archetypes/rogue-scout.xml" />
         </update>
     </info>
     <element name="Scout" type="Archetype" source="Xanathar’s Guide to Everything" id="ID_WOTC_XGTE_ARCHETYPE_SCOUT">
@@ -82,4 +82,4 @@
             <description>If you attack, make one additional attack. This attack can gain Sneak Attack even if you already used it this turn, but not on the same target.</description>
         </sheet>
     </element>
-</aurorahomebrew>
+</elements>

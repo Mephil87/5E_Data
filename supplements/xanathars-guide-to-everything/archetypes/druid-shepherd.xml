@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
   <info>
     <name>Circle of the Shepherd</name>
     <description>The Circle of the Shepherd from Xanathar’s Guide to Everything</description>
     <author url="http://dnd.wizards.com/products/tabletop-games/rpg-products/xanathars-guide-everything">Xanathar’s Guide to Everything</author>
     <update version="0.0.3">
-      <file name="druid-shepherd.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/supplements/xanathars-guide-to-everything/archetypes/druid-shepherd.xml" />
+      <file name="druid-shepherd.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/supplements/xanathars-guide-to-everything/archetypes/druid-shepherd.xml" />
     </update>
   </info>
   <element name="Circle of the Shepherd" type="Archetype" source="Xanathar’s Guide to Everything" id="ID_WOTC_XGTE_ARCHETYPE_CIRCLE_OF_THE_SHEPHERD">
@@ -93,4 +93,4 @@
       <description>When you are reduced to 0 HP, summon 4 beasts of CR 2 or lower within 20ft of you for 1 hour. If you give them no commands, they protect you from harm and attack your foes.</description>
     </sheet>
   </element>
-</aurorahomebrew>
+</elements>

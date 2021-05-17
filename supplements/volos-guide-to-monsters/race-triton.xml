@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Triton</name>
 		<update version="0.1.2">
-			<file name="race-triton.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/supplements/volos-guide-to-monsters/race-triton.xml" />
+			<file name="race-triton.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/supplements/volos-guide-to-monsters/race-triton.xml" />
 		</update>
 	</info>
 	<element name="Triton" type="Race" source="Volo’s Guide to Monsters" id="ID_WOTC_VGTM_RACE_TRITON">
@@ -147,4 +147,4 @@
 			<set name="isRitual">false</set>
 		</setters>
 	</element>
-</aurorahomebrew>
+</elements>

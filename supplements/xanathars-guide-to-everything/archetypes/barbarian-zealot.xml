@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
   <info>
     <name>Zealot</name>
     <description>The Zealot from Xanathar’s Guide to Everything</description>
     <author url="http://dnd.wizards.com/products/tabletop-games/rpg-products/xanathars-guide-everything">Xanathar’s Guide to Everything</author>
     <update version="0.0.5">
-      <file name="barbarian-zealot.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/supplements/xanathars-guide-to-everything/archetypes/barbarian-zealot.xml" />
+      <file name="barbarian-zealot.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/supplements/xanathars-guide-to-everything/archetypes/barbarian-zealot.xml" />
     </update>
   </info>
 
@@ -71,4 +71,4 @@
       <description>While raging, if you drop to 0HP, you don't fall unconscious. You do make death saves, and taking damage counts as a failed save, as normal. If you would die from failing saves, you don't die until your rage ends, and you have't gone above 0HP.</description>
     </sheet>
   </element>
-</aurorahomebrew>
+</elements>

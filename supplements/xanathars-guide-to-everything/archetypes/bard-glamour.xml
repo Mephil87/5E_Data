@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
   <info>
     <name>College of Glamour</name>
     <description>The College of Glamour from Xanathar’s Guide to Everything</description>
     <author url="http://dnd.wizards.com/products/tabletop-games/rpg-products/xanathars-guide-everything">Xanathar’s Guide to Everything</author>
     <update version="0.0.4">
-      <file name="bard-glamour.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/supplements/xanathars-guide-to-everything/archetypes/bard-glamour.xml" />
+      <file name="bard-glamour.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/supplements/xanathars-guide-to-everything/archetypes/bard-glamour.xml" />
     </update>
   </info>
   <element name="College of Glamour" type="Archetype" source="Xanathar’s Guide to Everything" id="ID_WOTC_XGTE_ARCHETYPE_COLLEGE_OF_GLAMOUR">
@@ -75,4 +75,4 @@
       <description>For 1 minute, whenever a creature tries to attack you for the first time on a turn, it must make a DC{{spellcasting:dc:cha}} Charisma saving throw. On a fail, it can't attack you this turn, and must choose a new target for the attack or waste it. On a succes, it can attack, but has disadvantage on saving throws against your spells.</description>
     </sheet>
   </element>
-</aurorahomebrew>
+</elements>

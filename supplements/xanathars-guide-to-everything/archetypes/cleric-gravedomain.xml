@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Grave Domain</name>
 		<description>The Grave Domain from Xanathar’s Guide to Everything</description>
 		<author url="http://dnd.wizards.com/products/tabletop-games/rpg-products/xanathars-guide-everything">Xanathar’s Guide to Everything</author>
 		<update version="0.1.8">
-			<file name="cleric-gravedomain.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/supplements/xanathars-guide-to-everything/archetypes/cleric-gravedomain.xml" />
+			<file name="cleric-gravedomain.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/supplements/xanathars-guide-to-everything/archetypes/cleric-gravedomain.xml" />
 		</update>
 	</info>
 	<element name="Grave Domain" type="Archetype" source="Xanathar’s Guide to Everything" id="ID_WOTC_XGTE_ARCHETYPE_CLERIC_GRAVE_DOMAIN">
@@ -119,4 +119,4 @@
 			<description>Once per turn, when an enemy you can see dies within 60 feet of you, you or one creature of your choice that is within 60 feet of you regains hit points equal to the enemy’s number of Hit Dice.</description>
 		</sheet>
 	</element>
-</aurorahomebrew>
+</elements>

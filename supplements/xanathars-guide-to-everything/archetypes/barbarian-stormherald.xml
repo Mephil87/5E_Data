@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
     <info>
         <name>Storm Herald</name>
         <description>The Storm Herald from Xanathar’s Guide to Everything</description>
         <author url="http://dnd.wizards.com/products/tabletop-games/rpg-products/xanathars-guide-everything">Xanathar’s Guide to Everything</author>
         <update version="0.0.6">
-            <file name="barbarian-stormherald.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/supplements/xanathars-guide-to-everything/archetypes/barbarian-stormherald.xml" />
+            <file name="barbarian-stormherald.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/supplements/xanathars-guide-to-everything/archetypes/barbarian-stormherald.xml" />
         </update>
     </info>
 	
@@ -189,4 +189,4 @@
             <description>When your Storm Aura is activated, choose one creature in it. It must make a DC{{storm aura:dc}} Strength saving throw, on a fail, its speed is reduced to 0 until the start of your next turn.</description>
         </sheet>
     </element>
-</aurorahomebrew>
+</elements>

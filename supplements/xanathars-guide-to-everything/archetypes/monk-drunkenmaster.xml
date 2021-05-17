@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Drunken Master</name>
 		<description>The Drunken Master archetype from Xanathar’s Guide to Everything</description>
 		<author url="http://dnd.wizards.com/products/tabletop-games/rpg-products/xanathars-guide-everything">Xanathar’s Guide to Everything</author>
 		<update version="0.0.1">
-			<file name="monk-drunkenmaster.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/supplements/xanathars-guide-to-everything/archetypes/monk-drunkenmaster.xml" />
+			<file name="monk-drunkenmaster.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/supplements/xanathars-guide-to-everything/archetypes/monk-drunkenmaster.xml" />
 		</update>
 	</info>
 
@@ -75,4 +75,4 @@
             <description>When you use your Flurry of Blows, make up to 3 additional attacks, provided they each target a different creature.</description>
         </sheet>
     </element>
-</aurorahomebrew>
+</elements>

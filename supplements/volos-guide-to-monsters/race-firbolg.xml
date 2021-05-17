@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Firbolg</name>
 		<description></description>
 		<author url="http://dnd.wizards.com">Wizards of the Coast</author>
 		<update version="0.1.9">
-			<file name="race-firbolg.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/supplements/volos-guide-to-monsters/race-firbolg.xml" />
+			<file name="race-firbolg.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/supplements/volos-guide-to-monsters/race-firbolg.xml" />
 		</update>
 	</info>
 	<element name="Firbolg" type="Race" source="Volo’s Guide to Monsters" id="ID_WOTC_VGTM_RACE_FIRBOLG">
@@ -113,4 +113,4 @@
 			<description>Communicate in a limited manner with beasts and plants. They can understand the meaning of your words, though you have no special ability to understand them in return. You have advantage on all Charisma checks you make to influence them.</description>
 		</sheet>
 	</element>
-</aurorahomebrew>
+</elements>

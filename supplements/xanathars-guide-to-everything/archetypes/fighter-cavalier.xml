@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Cavalier</name>
 		<description>The Cavalier from Xanathar’s Guide to Everything</description>
 		<author url="http://dnd.wizards.com/products/tabletop-games/rpg-products/xanathars-guide-everything">Xanathar’s Guide to Everything</author>
 		<update version="0.0.6">
-			<file name="fighter-cavalier.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/supplements/xanathars-guide-to-everything/archetypes/fighter-cavalier.xml" />
+			<file name="fighter-cavalier.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/supplements/xanathars-guide-to-everything/archetypes/fighter-cavalier.xml" />
 		</update>
 	</info>
 
@@ -126,4 +126,4 @@
 			<description>Oppertunity attack on each creature’s turn.</description>
 		</sheet>
 	</element>
-</aurorahomebrew>
+</elements>

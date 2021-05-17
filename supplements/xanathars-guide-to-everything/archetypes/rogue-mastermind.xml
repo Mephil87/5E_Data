@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
     <info>
         <name>Mastermind</name>
         <description>The Mastermind from Xanathar’s Guide to Everything</description>
         <author url="http://dnd.wizards.com/products/tabletop-games/rpg-products/xanathars-guide-everything">Xanathar’s Guide to Everything</author>
         <update version="0.1">
-            <file name="rogue-mastermind.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/supplements/xanathars-guide-to-everything/archetypes/rogue-mastermind.xml" />
+            <file name="rogue-mastermind.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/supplements/xanathars-guide-to-everything/archetypes/rogue-mastermind.xml" />
         </update>
     </info>
     
     <!-- placeholder -->
 
-</aurorahomebrew>
+</elements>

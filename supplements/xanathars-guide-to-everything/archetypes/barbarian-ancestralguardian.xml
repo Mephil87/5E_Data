@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Ancestral Guardian</name>
 		<update version="0.0.5">
-			<file name="barbarian-ancestralguardian.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/supplements/xanathars-guide-to-everything/archetypes/barbarian-ancestralguardian.xml" />
+			<file name="barbarian-ancestralguardian.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/supplements/xanathars-guide-to-everything/archetypes/barbarian-ancestralguardian.xml" />
 		</update>
 	</info>
 	
@@ -65,4 +65,4 @@
 			<description>When you use your Spirit Shield to reduce the damage of an attack, the attacker takes an amount of force damage equal to the damage that your Spirit Shield prevents.</description>
 		</sheet>
 	</element>
-</aurorahomebrew>
+</elements>

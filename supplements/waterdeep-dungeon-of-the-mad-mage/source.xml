@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<update version="0.1">
-			<file name="source.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/supplements/waterdeep-dungeon-of-the-mad-mage/source.xml" />
+			<file name="source.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/supplements/waterdeep-dungeon-of-the-mad-mage/source.xml" />
 		</update>
 	</info>
 	<element name="Waterdeep: Dungeon of the Mad Mage" type="Source" source="Core" id="ID_WOTC_SOURCE_WATERDEEP_DUNGEON_OF_THE_MAD_MAGE">
@@ -19,4 +19,4 @@
 			<set name="release">20181120</set>
 		</setters>
 	</element>
-</aurorahomebrew>
+</elements>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
     <info>
         <name>Spells</name>
-        <update version="0.1.8">
-            <file name="spells.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/supplements/xanathars-guide-to-everything/spells.xml" />
+        <update version="0.1.7">
+            <file name="spells.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/supplements/xanathars-guide-to-everything/spells.xml" />
         </update>
     </info>
 
@@ -2166,5 +2166,4 @@
             <set name="isRitual">false</set>
         </setters>
     </element>
-</
-    >
+</elements>

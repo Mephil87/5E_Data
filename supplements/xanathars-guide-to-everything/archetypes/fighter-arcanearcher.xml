@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Arcane Archer</name>
 		<update version="0.0.9">
-			<file name="fighter-arcanearcher.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/supplements/xanathars-guide-to-everything/archetypes/fighter-arcanearcher.xml" />
+			<file name="fighter-arcanearcher.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/supplements/xanathars-guide-to-everything/archetypes/fighter-arcanearcher.xml" />
 		</update>
 	</info>
 	<element name="Arcane Archer" type="Archetype" source="Xanathar’s Guide to Everything" id="ID_WOTC_XGTE_ARCHETYPE_FIGHTER_ARCANE_ARCHER">
@@ -180,4 +180,4 @@
 			<description level="18">A creature hit by this arrow takes an extra 4d6 psychic damage, and must make a DC{{arcane shot:dc}} Wisdom saving throw or is unable to see anything farther than 5ft away until the start of your next turn.</description>
 		</sheet>
 	</element>
-</aurorahomebrew>
+</elements>

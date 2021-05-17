@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Oath of Redemption</name>
 		<description>The Oath of Redemption from Xanathar’s Guide to Everything</description>
 		<author url="http://dnd.wizards.com/products/tabletop-games/rpg-products/xanathars-guide-everything">Xanathar’s Guide to Everything</author>
 		<update version="0.1.2">
-			<file name="paladin-redemption.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/supplements/xanathars-guide-to-everything/archetypes/paladin-redemption.xml" />
+			<file name="paladin-redemption.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/supplements/xanathars-guide-to-everything/archetypes/paladin-redemption.xml" />
 		</update>
 	</info>
 	<element name="Oath of Redemption" type="Archetype" source="Xanathar’s Guide to Everything" id="ID_WOTC_XGTE_ARCHETYPE_OATH_OF_REDEMPTION">
@@ -133,4 +133,4 @@
       <description>You have resistance to all damage dealt by other creatures. Whenever a creature hits you with an attack, it takes radiant damage equal to half the damage you take from the attack.</description>
     </sheet>
   </element>
-</aurorahomebrew>
+</elements>

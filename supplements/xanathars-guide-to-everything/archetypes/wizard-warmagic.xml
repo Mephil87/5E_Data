@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>War Magic</name>
 		<description>The War Magic archetype from Xanathar’s Guide to Everything</description>
 		<author url="http://dnd.wizards.com/products/tabletop-games/rpg-products/xanathars-guide-everything">Xanathar’s Guide to Everything</author>
 		<update version="0.1.2">
-			<file name="wizard-warmagic.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/supplements/xanathars-guide-to-everything/archetypes/wizard-warmagic.xml" />
+			<file name="wizard-warmagic.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/supplements/xanathars-guide-to-everything/archetypes/wizard-warmagic.xml" />
 		</update>
 	</info>
 	<element name="War Magic" type="Archetype" source="Xanathar’s Guide to Everything" id="ID_WOTC_XGTE_WIZARD_ARCHETYPE_WAR_MAGIC">
@@ -82,4 +82,4 @@
 			<stat name="deflecting shroud:damage" value="level:wizard:half" />
 		</rules>
 	</element>
-</aurorahomebrew>
+</elements>

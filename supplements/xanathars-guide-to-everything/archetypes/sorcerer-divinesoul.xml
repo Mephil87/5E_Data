@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Divine Soul</name>
 		<description>The Divine Soul Sorcerous Origin from Xanathar’s Guide to Everything</description>
 		<author url="http://dnd.wizards.com/products/tabletop-games/rpg-products/xanathars-guide-everything">Xanathar’s Guide to Everything</author>
 		<update version="0.0.3">
-			<file name="sorcerer-divinesoul.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/supplements/xanathars-guide-to-everything/archetypes/sorcerer-divinesoul.xml" />
+			<file name="sorcerer-divinesoul.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/supplements/xanathars-guide-to-everything/archetypes/sorcerer-divinesoul.xml" />
 		</update>
 	</info>
 
@@ -153,4 +153,4 @@
 			<description>As a bonus action when you have fewer than half of your hit points remaining, you can regain a number of hit points equal to half your hit point maximum.</description>
 		</sheet>
 	</element>
-</aurorahomebrew>
+</elements>

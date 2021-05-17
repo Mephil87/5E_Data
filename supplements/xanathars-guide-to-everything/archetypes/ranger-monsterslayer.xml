@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
     <info>
         <name>Monster Slayer</name>
         <description>The Monster Slayer from Xanathar’s Guide to Everything</description>
         <author url="http://dnd.wizards.com/products/tabletop-games/rpg-products/xanathars-guide-everything">Xanathar’s Guide to Everything</author>
         <update version="0.0.3">
-            <file name="ranger-monsterslayer.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/supplements/xanathars-guide-to-everything/archetypes/ranger-monsterslayer.xml" />
+            <file name="ranger-monsterslayer.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/supplements/xanathars-guide-to-everything/archetypes/ranger-monsterslayer.xml" />
         </update>
     </info>
     <element name="Monster Slayer" type="Archetype" source="Xanathar’s Guide to Everything" id="ID_WOTC_XGTE_ARCHETYPE_RANGER_MONSTER_SLAYER">
@@ -102,4 +102,4 @@
             <description>If the target of your Slayer’s Prey forces you to make a saving throw, make one weapon attack against it. You make this attack immediately before making the saving throw. If your attack hits, your save automatically succeeds, in addition to the attack’s normal effects.</description>
         </sheet>
     </element>
-</aurorahomebrew>
+</elements>

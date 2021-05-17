@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Aasimar</name>
 		<description></description>
 		<author url="http://dnd.wizards.com">Wizards of the Coast</author>
 		<update version="0.1.9">
-			<file name="race-aasimar.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/supplements/volos-guide-to-monsters/race-aasimar.xml" />
+			<file name="race-aasimar.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/supplements/volos-guide-to-monsters/race-aasimar.xml" />
 		</update>
 	</info>
 	<element name="Aasimar" type="Race" source="Volo’s Guide to Monsters" id="ID_WOTC_VGTM_RACE_AASIMAR">
@@ -201,4 +201,4 @@
 			<stat name="necrotic shroud:dc" value="charisma:modifier" />
 		</rules>
 	</element>
-</aurorahomebrew>
+</elements>

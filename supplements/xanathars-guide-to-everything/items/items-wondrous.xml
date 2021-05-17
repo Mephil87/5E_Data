@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Wondrous Items</name>
 		<update version="0.0.7">
-			<file name="items-wondrous.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/supplements/xanathars-guide-to-everything/items/items-wondrous.xml" />
+			<file name="items-wondrous.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/supplements/xanathars-guide-to-everything/items/items-wondrous.xml" />
 		</update>
 	</info>
 
@@ -644,4 +644,4 @@
 			<set name="charges">3</set>
 		</setters>
 	</element>
-</aurorahomebrew>
+</elements>

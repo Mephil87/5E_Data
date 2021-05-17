@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<update version="0.1.1">
-			<file name="source.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/supplements/xanathars-guide-to-everything/source.xml" />
+			<file name="source.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/supplements/xanathars-guide-to-everything/source.xml" />
 		</update>
 	</info>
 	<element name="Xanathar’s Guide to Everything" type="Source" source="Core" id="ID_WOTC_SOURCE_XANATHARS_GUIDE_TO_EVERYTHING">
@@ -20,4 +20,4 @@
 			<set name="release">20171121</set>
 		</setters>
 	</element>
-</aurorahomebrew>
+</elements>

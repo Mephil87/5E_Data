@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<update version="0.1">
-			<file name="source.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/supplements/tomb-of-annihilation/source.xml" />
+			<file name="source.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/supplements/tomb-of-annihilation/source.xml" />
 		</update>
 	</info>
 	<element name="Tomb of Annihilation" type="Source" source="Core" id="ID_WOTC_SOURCE_TOMB_OF_ANNIHILATION">
@@ -33,4 +33,4 @@
 			<set name="release">20170915</set>
 		</setters>
 	</element>
-</aurorahomebrew>
+</elements>

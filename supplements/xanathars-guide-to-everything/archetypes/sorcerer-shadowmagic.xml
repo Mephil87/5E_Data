@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Shadow Magic Sorcerous Origin</name>
 		<description>The Shadow Magic Sorcerous Origin from Xanathar’s Guide to Everything</description>
 		<author url="http://dnd.wizards.com/products/tabletop-games/rpg-products/xanathars-guide-everything">Xanathar’s Guide to Everything</author>
 		<update version="0.0.6">
-			<file name="sorcerer-shadowmagic.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/supplements/xanathars-guide-to-everything/archetypes/sorcerer-shadowmagic.xml" />
+			<file name="sorcerer-shadowmagic.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/supplements/xanathars-guide-to-everything/archetypes/sorcerer-shadowmagic.xml" />
 		</update>
 	</info>
 	<element name="Shadow Magic" type="Archetype" source="Xanathar’s Guide to Everything" id="ID_WOTC_XGTE_SORCERER_ARCHETYPE_SHADOW_MAGIC">
@@ -94,4 +94,4 @@
 			<description>spend 6 sorcery points to magically transform into a shadowy form for 1 minute. In this form, you have resistance to all damage except force and radiant damage, and you can move through other creatures and objects as if they were difficult terrain. You take 5 force damage if you end your turn inside an object.</description>
 		</sheet>
 	</element>
-</aurorahomebrew>
+</elements>

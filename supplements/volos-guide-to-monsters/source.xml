@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<update version="0.1">
-			<file name="source.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/supplements/volos-guide-to-monsters/source.xml" />
+			<file name="source.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/supplements/volos-guide-to-monsters/source.xml" />
 		</update>
 	</info>
 	<element name="Volo’s Guide to Monsters" type="Source" source="Core" id="ID_WOTC_SOURCE_VOLOS_GUIDE_TO_MONSTERS">
@@ -19,4 +19,4 @@
 			<set name="release">20161115</set>
 		</setters>
 	</element>
-</aurorahomebrew>
+</elements>

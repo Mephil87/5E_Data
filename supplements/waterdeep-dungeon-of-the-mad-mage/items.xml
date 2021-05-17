@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<update version="0.0.4">
-			<file name="items.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/supplements/waterdeep-dungeon-of-the-mad-mage/items.xml" />
+			<file name="items.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/supplements/waterdeep-dungeon-of-the-mad-mage/items.xml" />
 		</update>
 	</info>
     <element name="Black Crystal Tablet" type="Magic Item" source="Waterdeep: Dungeon of the Mad Mage" id="ID_WOTC_WDMM_MAGIC_ITEM_BLACK_CRYSTAL_TABLET">
@@ -375,4 +375,4 @@
 			<set name="stackable">true</set>
 		</setters>
 	</element>
-</aurorahomebrew>
+</elements>

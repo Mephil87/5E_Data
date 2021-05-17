@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Kenku</name>
 		<description></description>
 		<author url="http://dnd.wizards.com">Wizards of the Coast</author>
 		<update version="0.1.2">
-			<file name="race-kenku.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/supplements/volos-guide-to-monsters/race-kenku.xml" />
+			<file name="race-kenku.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/supplements/volos-guide-to-monsters/race-kenku.xml" />
 		</update>
 	</info>
 
@@ -110,4 +110,4 @@
 			<description>You can mimic sounds you have heard, including voices. A creature that hears the sounds you make can tell they are imitations with a successful Insight check opposed by your Deception check.</description>
 		</sheet>
 	</element>
-</aurorahomebrew>
+</elements>

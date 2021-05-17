@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
   <info>
     <name>Samurai</name>
     <description>The Samurai from Xanathar’s Guide to Everything</description>
     <author url="http://dnd.wizards.com/products/tabletop-games/rpg-products/xanathars-guide-everything">Xanathar’s Guide to Everything</author>
     <update version="0.0.5">
-      <file name="fighter-samurai.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/supplements/xanathars-guide-to-everything/archetypes/fighter-samurai.xml" />
+      <file name="fighter-samurai.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/supplements/xanathars-guide-to-everything/archetypes/fighter-samurai.xml" />
     </update>
   </info>
   <element name="Samurai" type="Archetype" source="Xanathar’s Guide to Everything" id="ID_WOTC_XGTE_ARCHETYPE_FIGHTER_SAMURAI">
@@ -108,4 +108,4 @@
       <description>When you would nomally be knocked unconcious, take an extra turn instead, interrupting the current turn. Taking damage causes death saves as normal, and when the extra turn ends you fall unconscious with 0HP.</description>
     </sheet>
   </element>
-</aurorahomebrew>
+</elements>

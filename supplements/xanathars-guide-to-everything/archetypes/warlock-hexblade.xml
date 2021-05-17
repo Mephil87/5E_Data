@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>The Hexblade</name>
 		<update version="0.0.7">
-			<file name="warlock-hexblade.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/supplements/xanathars-guide-to-everything/archetypes/warlock-hexblade.xml" />
+			<file name="warlock-hexblade.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/supplements/xanathars-guide-to-everything/archetypes/warlock-hexblade.xml" />
 		</update>
 	</info>
 	<element name="The Hexblade" type="Archetype" source="Xanathar’s Guide to Everything" id="ID_WOTC_XGTE_ARCHETYPE_HEXBLADE">
@@ -129,4 +129,4 @@
 			<description>When the target of your Hexblade’s Curse dies, you can spread it to another creature you see within 30 ft., provided you aren’t incapacitated. When you apply the curse in this way, you don’t regain hit points from the death of the previously cursed creature.</description>
 		</sheet>
 	</element>
-</aurorahomebrew>
+</elements>

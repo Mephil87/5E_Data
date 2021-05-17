@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Bugbear</name>
 		<description>The monstrous-adventurers from Volo’s Guide to Monsters.</description>
 		<author url="http://dnd.wizards.com/products/tabletop-games/rpg-products/volos-guide-to-monsters">Wizards of the Coast</author>
 		<update version="0.0.2">
-			<file name="race-bugbear.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/supplements/volos-guide-to-monsters/race-bugbear.xml" />
+			<file name="race-bugbear.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/supplements/volos-guide-to-monsters/race-bugbear.xml" />
 		</update>
 	</info>
 
@@ -90,4 +90,4 @@
 			<description>If you surprise a creature and hit it with an attack on your first turn in combat, the attack deals an extra 2d6 damage to it. You can use this trait only once per combat.</description>
 		</sheet>
 	</element>
-</aurorahomebrew>
+</elements>
