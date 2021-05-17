@@ -3,10 +3,10 @@
 	<info>
 		<name>Adventurers League</name>
 		<update version="0.0.1">
-			<file name="adventurers-league.index" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/supplements/adventurers-league.index" />
+			<file name="adventurers-league.index" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/supplements/adventurers-league.index" />
 		</update>
 	</info>
 	<files>
-		<file name="elemental-evil.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/supplements/adventurers-league/elemental-evil.xml" />
+		<file name="elemental-evil.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/supplements/adventurers-league/elemental-evil.xml" />
 	</files>
 </index>

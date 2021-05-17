@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<update version="0.0.1">
-			<file name="ranger-favored-enemies.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/supplements/ranger-favored-enemies.xml" />
+			<file name="ranger-favored-enemies.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/supplements/ranger-favored-enemies.xml" />
 		</update>
 	</info>
 	<element name="Derro" type="Class Feature" source="Mordenkainen’s Tome of Foes" id="ID_WOTC_MTF_CLASS_FEATURE_RANGER_FAVORED_ENEMY_HUMANOID_DERRO">
@@ -146,4 +146,4 @@
 			<p>The verdan owe their existence to chaos. Descended and transformed from a large clan of goblins and hobgoblins, those who became the verdan were simply living their lives, doing goblinoid things. But then passing through the shadow of That-Which-Endures changed them forever. Now the newest race to call Faerûn home, the verdan do their best to find their way in an unfamiliar world.</p>
 		</description>
 	</element>
-</aurorahomebrew>
+</elements>

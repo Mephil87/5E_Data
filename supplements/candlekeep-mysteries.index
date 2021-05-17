@@ -3,11 +3,11 @@
 	<info>
 		<name>Candlekeep Mysteries</name>
 		<update version="0.0.1">
-			<file name="candlekeep-mysteries.index" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/supplements/candlekeep-mysteries.index" />
+			<file name="candlekeep-mysteries.index" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/supplements/candlekeep-mysteries.index" />
 		</update>
 	</info>
 	<files>
-		<file name="source.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/supplements/candlekeep-mysteries/source.xml" />
-		<file name="items.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/supplements/candlekeep-mysteries/items.xml" />
+		<file name="source.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/supplements/candlekeep-mysteries/source.xml" />
+		<file name="items.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/supplements/candlekeep-mysteries/items.xml" />
 	</files>
 </index>

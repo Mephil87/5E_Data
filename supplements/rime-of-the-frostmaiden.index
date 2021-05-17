@@ -3,13 +3,13 @@
 	<info>
 		<name>Icewind Dale: Rime of the Frostmaiden</name>
 		<update version="0.1.2">
-			<file name="rime-of-the-frostmaiden.index" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/supplements/rime-of-the-frostmaiden.index" />
+			<file name="rime-of-the-frostmaiden.index" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/supplements/rime-of-the-frostmaiden.index" />
 		</update>
 	</info>
 	<files>
-		<file name="source.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/supplements/rime-of-the-frostmaiden/source.xml" />
-		<file name="items.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/supplements/rime-of-the-frostmaiden/items.xml" />
-		<file name="spells.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/supplements/rime-of-the-frostmaiden/spells.xml" />
-		<file name="replicate-infusions.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/supplements/rime-of-the-frostmaiden/replicate-infusions.xml" />
+		<file name="source.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/supplements/rime-of-the-frostmaiden/source.xml" />
+		<file name="items.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/supplements/rime-of-the-frostmaiden/items.xml" />
+		<file name="spells.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/supplements/rime-of-the-frostmaiden/spells.xml" />
+		<file name="replicate-infusions.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/supplements/rime-of-the-frostmaiden/replicate-infusions.xml" />
 	</files>
 </index>

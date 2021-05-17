@@ -3,14 +3,14 @@
 	<info>
 		<name>Baldur’s Gate: Descent into Avernus</name>
 		<update version="0.0.2">
-			<file name="descent-into-avernus.index" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/supplements/descent-into-avernus.index" />
+			<file name="descent-into-avernus.index" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/supplements/descent-into-avernus.index" />
 		</update>
 	</info>
 	<files>
-		<file name="source.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/supplements/descent-into-avernus/source.xml" />
-		<file name="background-options.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/supplements/descent-into-avernus/backgrounds/background-options.xml" />
-		<file name="faceless.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/supplements/descent-into-avernus/backgrounds/faceless.xml" />
-		<file name="items.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/supplements/descent-into-avernus/items.xml" />
-		<file name="companions.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/supplements/descent-into-avernus/companions.xml" />
+		<file name="source.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/supplements/descent-into-avernus/source.xml" />
+		<file name="background-options.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/supplements/descent-into-avernus/backgrounds/background-options.xml" />
+		<file name="faceless.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/supplements/descent-into-avernus/backgrounds/faceless.xml" />
+		<file name="items.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/supplements/descent-into-avernus/items.xml" />
+		<file name="companions.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/supplements/descent-into-avernus/companions.xml" />
 	</files>
 </index>

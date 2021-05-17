@@ -6,12 +6,12 @@
 		The humans, dwarves, elves, and other small folk of the Sword Coast will be crushed underfoot by the onslaught of these giant foes. The only chance at survival is for the small folk to work together to investigate this invasion and harness the power of rune magic, the giants’ weapon against their ancient enemies, the dragons. The only way the people of Faerûn can restore order is to use the giants’ own power against them.</description>
 		<author url="http://dnd.wizards.com/products/tabletop-games/rpg-products/storm-kings-thunder">Wizards of the Coast</author>
 		<update version="0.0.4">
-			<file name="storm-kings-thunder.index" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/supplements/storm-kings-thunder.index" />
+			<file name="storm-kings-thunder.index" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/supplements/storm-kings-thunder.index" />
 		</update>
 	</info>
 	<files>
-		<file name="source.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/supplements/storm-kings-thunder/source.xml" />
+		<file name="source.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/supplements/storm-kings-thunder/source.xml" />
 		<!-- items -->
-		<file name="items.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/supplements/storm-kings-thunder/items.xml" />
+		<file name="items.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/supplements/storm-kings-thunder/items.xml" />
 	</files>
 </index>
