@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Spidertouched</name>
 		<update version="0.0.2">
-			<file name="rogue-spidertouched.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/genuine-fantasy-press/forgotten-secrets/archetypes/rogue-spidertouched.xml" />
+			<file name="rogue-spidertouched.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/genuine-fantasy-press/forgotten-secrets/archetypes/rogue-spidertouched.xml" />
 		</update>
 	</info>	
 	<element name="Spidertouched" type="Archetype" source="The Compendium of Forgotten Secrets" id="ID_GFP_COFSA_ARCHETYPE_SPIDERTOUCHED">
@@ -87,4 +87,4 @@
 			<description>You can’t be knocked prone against your will. While you are prone, you can move at full speed as though standing, you do not have disadvantage on attack rolls, and attackers that are within 5 feet of you do not gain advantage on attacks against you.</description>
 		</sheet>
 	</element>
-</aurorahomebrew>
+</elements>

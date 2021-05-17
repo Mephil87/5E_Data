@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Spells</name>
 		<description>The spells from The Compendium of Forgotten Secrets.</description>
 		<author url="https://www.genfantasypress.com/about-the-compendium">Genuine Fantasy Press</author>
 		<update version="0.0.1">
-			<file name="spells.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/genuine-fantasy-press/forgotten-secrets/spells.xml" />
+			<file name="spells.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/genuine-fantasy-press/forgotten-secrets/spells.xml" />
 		</update>
 	</info>
 	
@@ -2643,4 +2643,4 @@
 		</setters>
 	</element>
 	
-</aurorahomebrew>
+</elements>

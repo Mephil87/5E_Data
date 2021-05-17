@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Deep Magic: Rune Magic</name>
 		<update version="0.0.1">
-			<file name="02-rune-magic.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/kobold-press/deep-magic/02-rune-magic.xml" />
+			<file name="02-rune-magic.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/kobold-press/deep-magic/02-rune-magic.xml" />
 		</update>
 	</info>
 
@@ -2489,7 +2489,7 @@
 	<element name="Spiteful Weapon" type="Spell" source="Deep Magic: Rune Magic" id="ID_KBP_DMRM_SPELL_SPITEFUL_WEAPON">
 		<supports>Cleric,Ranger,Sorcerer,Warlock,Wizard</supports>
 		<description>
-			<p>You create a connection between the target of the spell (“target”), a creature that atacked and injured the target in the last 24 hours (“atacker”), and a melee weapon that was used successfully in the atack (“weapon”), all of which must be within the spell’s range of you when the spell is cast. For the duration of the spell, whenever the atacker takes damage while holding the weapon, the target takes the same amount and type of damage; a successful Charisma saving throw by the target halves the damage it takes, with each atack calling for a new saving throw. The atacker can even turn the weapon against himself or herself and cause identical damage to the target. Selfinlicted wounds hit automatically, but damage is still rolled randomly. Once the connection is established, it lasts for the duration of the spell regardless of range, so long as all three aurorahomebrew remain on the same plane. The spell ends immediately if the atacker receives any healing.</p>
+			<p>You create a connection between the target of the spell (“target”), a creature that atacked and injured the target in the last 24 hours (“atacker”), and a melee weapon that was used successfully in the atack (“weapon”), all of which must be within the spell’s range of you when the spell is cast. For the duration of the spell, whenever the atacker takes damage while holding the weapon, the target takes the same amount and type of damage; a successful Charisma saving throw by the target halves the damage it takes, with each atack calling for a new saving throw. The atacker can even turn the weapon against himself or herself and cause identical damage to the target. Selfinlicted wounds hit automatically, but damage is still rolled randomly. Once the connection is established, it lasts for the duration of the spell regardless of range, so long as all three elements remain on the same plane. The spell ends immediately if the atacker receives any healing.</p>
 			<p class="indent"><strong><em>At Higher Levels.</em></strong> The target has disadvantage on its Charisma saving throws if spiteful weapon is cast with a 5th-level slot.</p>
 		</description>
 		<setters>
@@ -2531,7 +2531,7 @@
 	<element name="Triumph of Ice" type="Spell" source="Deep Magic: Rune Magic" id="ID_KBP_DMRM_SPELL_TRIUMPH_OF_ICE">
 		<supports>Druid,Sorcerer,Wizard</supports>
 		<description>
-			<p>You transform one of the four aurorahomebrew into ice or snow. The area of effect is a sphere with a radius of 100 feet, centered on you. The speciic effect varies depending on the element targeted.</p>
+			<p>You transform one of the four elements into ice or snow. The area of effect is a sphere with a radius of 100 feet, centered on you. The speciic effect varies depending on the element targeted.</p>
 			<p class="indent"><strong><em>Air.</em></strong> Vapor condenses into snowfall. If cast on a fog cloud, stinking cloud, or a similar magic efect, this spell negates it. Creatures of elemental air who are targeted take 8d6 cold damage, and if airborne must make a successful Constitution saving throw to avoid being knocked prone (no falling damage).</p>
 			<p class="indent"><strong><em>Water.</em></strong> Open water (a pond, lake, or river) freezes to a depth of 4 feet. Creatures in the water at its surface must make successful Dexterity saving throws to avoid being immobilized in the ice. A trapped creature can free itself by using an action to make a successful Strength (Athletics) check. Creatures of elemental water take no damage from the spell but are paralyzed for 1d6 rounds unless they make a successful Constitution saving throw, and they pay double for movement in the affected area.</p>
 			<p class="indent"><strong><em>Earth.</em></strong> Soil freezes into permafrost to a depth of 10 feet. Creatures burrowing through the area have their speed halved until the area thaws, unless they can burrow through solid rock. Creatures of elemental earth who fail a Constitution saving throw take 8d6 cold damage from stress fractures in their bodies.</p>
@@ -2660,4 +2660,4 @@
 		<supports>Immunity</supports>
 	</element>
 
-</aurorahomebrew>
+</elements>

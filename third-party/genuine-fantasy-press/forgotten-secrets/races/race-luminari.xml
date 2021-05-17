@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
     <info>
         <name>The Luminari</name>
         <description>The Luminari race from The Compendium of Forgotten Secrets.</description>
         <author url="https://www.genfantasypress.com/about-the-compendium">Genuine Free Press</author>
         <update version="0.0.2">
-			<file name="race-luminari.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/genuine-fantasy-press/forgotten-secrets/races/race-luminari.xml" />
+			<file name="race-luminari.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/genuine-fantasy-press/forgotten-secrets/races/race-luminari.xml" />
 		</update>
 	</info>
     
@@ -200,4 +200,4 @@
             <description>Whenever you cast a cantrip as an action. You can take the Search action as a bonus action this turn. If you do, you know the location of any creature within 30 feet of you who attacks or casts a spell before the start of your next turn.</description>
 		</sheet>
 	</element>
-</aurorahomebrew>
+</elements>

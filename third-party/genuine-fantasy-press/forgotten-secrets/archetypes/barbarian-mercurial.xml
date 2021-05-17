@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<aurorahomebrew>
+<elements>
     <info>
 		<name>Path of the Mercurial</name>
 		<description>Path of the Mercurial Primal Path from The Compendium of Forgotten Secrets</description>
 		<author url="https://www.genfantasypress.com/about-the-compendium">Genuine Free Press</author>
 		<update version="0.0.1">
-			<file name="barbarian-mercurial.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/genuine-fantasy-press/compendium-of-forgotten-secrets/archetypes/barbarian-mercurial.xml" />
+			<file name="barbarian-mercurial.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/genuine-fantasy-press/compendium-of-forgotten-secrets/archetypes/barbarian-mercurial.xml" />
 		</update>
 	</info>
 
@@ -78,4 +78,4 @@
         </rules>
     </element>
 
-</aurorahomebrew>
+</elements>

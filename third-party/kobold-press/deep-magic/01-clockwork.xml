@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Deep Magic: Clockwork</name>
 		<update version="0.0.1">
-			<file name="01-clockwork.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/kobold-press/deep-magic/01-clockwork.xml" />
+			<file name="01-clockwork.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/kobold-press/deep-magic/01-clockwork.xml" />
 		</update>
 	</info>
 	
@@ -1318,4 +1318,4 @@
 		<sheet alt="Clockmaker’s Tools" />
 	</element>
 
-</aurorahomebrew>
+</elements>

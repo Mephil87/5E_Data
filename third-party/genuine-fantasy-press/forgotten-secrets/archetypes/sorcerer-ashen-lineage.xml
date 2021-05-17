@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Ashen Lineage</name>
 		<description>Ashen Lineage Sorcerous Origin from The Compendium of Forgotten Secrets.</description>
 		<author url="https://www.genfantasypress.com/about-the-compendium">Genuine Fantasy Press</author>
 		<update version="0.0.1">
-			<file name="sorcerer-ashen-lineage.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/genuine-fantasy-press/forgotten-secrets/archetypes/sorcerer-ashen-lineage.xml" />
+			<file name="sorcerer-ashen-lineage.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/genuine-fantasy-press/forgotten-secrets/archetypes/sorcerer-ashen-lineage.xml" />
 		</update>
 	</info>
 	
@@ -107,4 +107,4 @@
 			<description>As an action you can spend 5 sorcery points to launch yourself to a location within 60 feet of you dealing 6d10 fire damage to all enemies that fail a dexterity saving throw (DC {{spellcasting:dc:cha}}) 5 feet from the point of origin. If an enemy is killed from this feature, you spawn one hell hound for each enemy killed, up to a max of 2. These hell hounds are elementals and attack on your turn, disintegrating after 3 days.</description>
 		</sheet>
 	</element>
-</aurorahomebrew>
+</elements>

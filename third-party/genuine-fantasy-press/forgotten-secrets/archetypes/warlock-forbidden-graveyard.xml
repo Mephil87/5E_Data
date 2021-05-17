@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Forbidden Graveyard Patron</name>
 		<description>Forbidden Graveyard Patron</description>
 		<author url="https://www.genfantasypress.com/about-the-compendium">Genuine Fantasy Press</author>
 		<update version="0.0.1">
-			<file name="warlock-forbidden-graveyard.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/genuine-fantasy-press/forgotten-secrets/archetypes/warlock-forbidden-graveyard.xml" />
+			<file name="warlock-forbidden-graveyard.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/genuine-fantasy-press/forgotten-secrets/archetypes/warlock-forbidden-graveyard.xml" />
 		</update>
 	</info>
 	
@@ -101,4 +101,4 @@
 			<description>You no longer age and cannot be magically aged. You gain immunity to the charmed and frightened conditions. As an action, you can mark a creature you can see within 30 feet of you with a terrible curse. When the creature takes damage, you can use your reaction to delay that damage and store it within a pool. At the end of each minute after the curse was cast, the target takes twice as much necrotic damage as is stored in the pool and the pool is emptied. This curse lasts for one hour or until the target dies.</description>
 		</sheet>
 	</element>	
-</aurorahomebrew>
+</elements>

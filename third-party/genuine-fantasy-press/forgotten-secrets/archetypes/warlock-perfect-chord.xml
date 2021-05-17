@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Perfect Chord Patron</name>
 		<description>Perfect Chord Patron</description>
 		<author url="https://www.genfantasypress.com/about-the-compendium">Genuine Fantasy Press</author>
 		<update version="0.0.1">
-			<file name="warlock-perfect-chord.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/genuine-fantasy-press/forgotten-secrets/archetypes/warlock-perfect-chord.xml" />
+			<file name="warlock-perfect-chord.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/genuine-fantasy-press/forgotten-secrets/archetypes/warlock-perfect-chord.xml" />
 		</update>
 	</info>
 	
@@ -125,4 +125,4 @@
 			Unity: Each friendly creature within 60 feet of you that can hear you can use their reaction to immediately move up to 30 feet and make one weapon attack.</description>
 		</sheet>
 	</element>
-</aurorahomebrew>				
+</elements>				

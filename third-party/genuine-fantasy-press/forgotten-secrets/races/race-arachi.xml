@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>The Arachi</name>
 		<description>The Arachi race from The Compendium of Forgotten Secrets.</description>
 		<author url="https://www.genfantasypress.com/about-the-compendium">Genuine Free Press</author>
 		<update version="0.0.2">
-			<file name="race-arachi.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/genuine-fantasy-press/forgotten-secrets/races/race-arachi.xml" />
+			<file name="race-arachi.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/genuine-fantasy-press/forgotten-secrets/races/race-arachi.xml" />
 		</update>
 	</info>
 
@@ -122,4 +122,4 @@
 			<grant type="Spell" id="ID_GFP_COFSA_SPELL_FORGET" />
 		</rules>
 	</element>
-</aurorahomebrew>
+</elements>

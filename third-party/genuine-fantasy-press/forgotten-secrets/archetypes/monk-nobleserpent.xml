@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Way of the Noble Serpent</name>
 		<description>Way of the Noble Serpent from The Compendium of Forgotten Secrets</description>
 	    <author url="https://www.genfantasypress.com/about-the-compendium">Genuine Free Press</author>
     	<update version="0.0.1">
-      		<file name="monk-nobleserpent.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/genuine-fantasy-press/compendium-of-forgotten-secrets/archetypes/monk-nobleserpent.xml" />
+      		<file name="monk-nobleserpent.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/genuine-fantasy-press/compendium-of-forgotten-secrets/archetypes/monk-nobleserpent.xml" />
 		</update>
 	</info>
 
@@ -64,4 +64,4 @@
 			<description>When a creature is grappled by you and struck by your stunning strike you can spend 2 more Ki points to paralyze the target until the end of its next turn. If you critically hit a creature you can spend 3 Ki points to petrify it, wisdom saving throw (DC {{ki:dc}}). On a failure the creature is petrified as if it failed 3 saves against a flesh to stone spell. If you maintain concentration on this for a minute the creature is permanently petrified.</description>
 		</sheet>
 	</element>
-</aurorahomebrew>
+</elements>

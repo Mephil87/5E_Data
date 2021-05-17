@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
     <info>
         <name>Familiars</name>
 		<update version="0.0.2">
-			<file name="familiars.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/genuine-fantasy-press/forgotten-secrets/familiars.xml" />
+			<file name="familiars.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/genuine-fantasy-press/forgotten-secrets/familiars.xml" />
 		</update>
 	</info>	
 	<element name="Animate Image" type="Companion" source="The Compendium of Forgotten Secrets" id="ID_GFP_COFSA_COMPANION_ANIMATE_IMAGE">
@@ -1094,7 +1094,7 @@
 	<element name="Spark Seeker" type="Companion" source="The Compendium of Forgotten Secrets" id="ID_GFP_COFSA_COMPANION_SPARK_SEEKER">
 		<supports>Familiar, Variant Familiar</supports>
 		<description>
-			<p>The spark seeker is a small, manta-ray-like creature that floats on the winds and uses them for defense. Once parasites that crawled upon the hide of the Storm Lord, the spark seekers have been touched by the legendary power of the godlike being and have grown and changed, gaining the ability to wield magical energies in exchange for service to the Lord. When threatened, they craft a shard of crystal by compressing the dust in the air around them and firing it at their target after charging it with electricity. When at rest, they scuttle along at a slow pace, finding a nook in some stone to lie in on a side that is exposed to the wind and aurorahomebrew. They enjoy gifts of meat and perfumes, and chirp excitedly when they are carried around. At night, colonies of spark seekers perform elaborate mating dances, lighting up the sky with flashes of lightning and strong gusts of wind. An entire colony of them working in concert can start a summon a massive and terrible storm, making them dangerous when near civilized areas.</p>
+			<p>The spark seeker is a small, manta-ray-like creature that floats on the winds and uses them for defense. Once parasites that crawled upon the hide of the Storm Lord, the spark seekers have been touched by the legendary power of the godlike being and have grown and changed, gaining the ability to wield magical energies in exchange for service to the Lord. When threatened, they craft a shard of crystal by compressing the dust in the air around them and firing it at their target after charging it with electricity. When at rest, they scuttle along at a slow pace, finding a nook in some stone to lie in on a side that is exposed to the wind and elements. They enjoy gifts of meat and perfumes, and chirp excitedly when they are carried around. At night, colonies of spark seekers perform elaborate mating dances, lighting up the sky with flashes of lightning and strong gusts of wind. An entire colony of them working in concert can start a summon a massive and terrible storm, making them dangerous when near civilized areas.</p>
 			<p class="indent">Summoning one is simple: light the brazier, chant the proper words and praises to the Lord of Storms, extinguish the brazier with water, and then your desired spark seeker will appear from within the resulting fog and steam.</p>
         </description>
 		<setters>
@@ -1416,4 +1416,4 @@
 			<description>The cube moves up to its speed. While it does so, it can enter the spaces of other creatures. Whenever the cube enters the space of a hostile creature, and the creature is of the same size or smaller than the cube, it must make a DC 12 Dexterity saving throw. If it succeeds, it can choose to be pushed 5 feet back or to the side of the cube. A creature that chooses not to be pushed suffers the consequences of a failed saving throw. On a failed save, the cube enters the creature’s space, and the creature takes 4 (1d8) acid damage and is engulfed. The engulfed creature can’t breathe, is restrained, and takes 14 (3d8) acid damage at the start of each of the cube’s turns. When the cube moves, the engulfed creature moves with it. An engulfed creature can try to escape by taking an action to make a DC 12 Strength check. On a success, the creature escapes and enters a space of its choice within 5 feet of the cube.</description>
 		</sheet>
 	</element>
-</aurorahomebrew>
+</elements>

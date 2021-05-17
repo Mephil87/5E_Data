@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>College of Harbingers</name>
 		<description>College of Harbingers from The Compendium of Forgotten Secrets</description>
 	    <author url="https://www.genfantasypress.com/about-the-compendium">Genuine Free Press</author>
     	<update version="0.0.1">
-      		<file name="bard-harbinger.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/genuine-fantasy-press/compendium-of-forgotten-secrets/archetypes/bard-harbinger.xml" />
+      		<file name="bard-harbinger.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/genuine-fantasy-press/compendium-of-forgotten-secrets/archetypes/bard-harbinger.xml" />
 		</update>
 	</info>
 	
@@ -73,4 +73,4 @@
 	</element>
 	
 	
-</aurorahomebrew>
+</elements>

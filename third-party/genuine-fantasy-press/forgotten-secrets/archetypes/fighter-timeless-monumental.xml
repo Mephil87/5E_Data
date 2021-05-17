@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Timeless Monumental</name>
 		<update version="0.0.1">
-			<file name="fighter-timeless-monumental.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/genuine-fantasy-press/forgotten-secrets/archetypes/fighter-timeless-monumental.xml" />
+			<file name="fighter-timeless-monumental.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/genuine-fantasy-press/forgotten-secrets/archetypes/fighter-timeless-monumental.xml" />
 		</update>
 	</info>	
 	<element name="Timeless Monumental" type="Archetype" source="The Compendium of Forgotten Secrets" id="ID_GFP_COFSA_ARCHETYPE_TIMELESS_MONUMENTAL">
@@ -88,7 +88,7 @@
 		</sheet>
 	</element>
 
-	<!-- todo: check this, create aurorahomebrew as presented without supports (p38) -->
+	<!-- todo: check this, create elements as presented without supports (p38) -->
 
 	<element name="Aegis Strike" type="Class Feature" source="The Compendium of Forgotten Secrets" id="ID_GFP_COFSA_CLASS_FEATURE_TIMELESS_MONUMENTAL_AEGIS_STRIKE">
 		<prerequisite>Timeless Monumental archetype</prerequisite>
@@ -112,4 +112,4 @@
 			<description>When you take the Attack action on your turn, you can forgo one of your attacks in order to summon a wall of magical stone in an open space within 10 feet of you. The wall has AC equal to your AC, has {{level:fighter}} hit points, and is up to 5 feet long, 5 feet tall, and 1 foot thick. At the start of your next turn, the wall instantly crumbles into dust before vanishing.</description>
 		</sheet>
 	</element>
-</aurorahomebrew>
+</elements>

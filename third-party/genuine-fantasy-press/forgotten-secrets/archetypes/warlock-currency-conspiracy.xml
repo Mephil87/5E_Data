@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	
 	<info>
 		<name>Currency Conspiracy Patron</name>
 		<description>Currency Conspiracy Patron</description>
 		<author url="https://www.genfantasypress.com/about-the-compendium">Genuine Fantasy Press</author>
 		<update version="0.0.1">
-			<file name="warlock-currency-conspiracy.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/genuine-fantasy-press/forgotten-secrets/archetypes/warlock-currency-conspiracy.xml" />
+			<file name="warlock-currency-conspiracy.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/genuine-fantasy-press/forgotten-secrets/archetypes/warlock-currency-conspiracy.xml" />
 		</update>
 	</info>
 	
@@ -110,4 +110,4 @@
 			</description>
 		</sheet>
 	</element>
-</aurorahomebrew>
+</elements>

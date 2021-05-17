@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Dream Cartography</name>
 		<description>Dream Cartographyfrom The Compendium of Forgotten Secrets</description>
 	    <author url="https://www.genfantasypress.com/about-the-compendium">Genuine Free Press</author>
     	<update version="0.0.1">
-      		<file name="wizard-dream-cartography.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/genuine-fantasy-press/compendium-of-forgotten-secrets/archetypes/wizard-dream-cartography.xml" />
+      		<file name="wizard-dream-cartography.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/genuine-fantasy-press/compendium-of-forgotten-secrets/archetypes/wizard-dream-cartography.xml" />
 		</update>
 	</info>
 	
@@ -84,4 +84,4 @@
 			<description>When you cast a spell of 6th level or higher using a spell slot, you can choose to recover all expended uses of your Upon the Veil of Night feature. When you do this, target one humanoid creature within 60 feet of you that you can see. If there are no other targets available, you must target yourself. The target must make a Wisdom saving throw against your wizard spell save DC. If they fail, they take 8d10 psychic damage as the eldritch entity feasts upon their mind. If they are slain by this damage, their body is consumed and they vanish into the dreamscape, leaving only magical items behind.</description>
 		</sheet>
 	</element>
-</aurorahomebrew>
+</elements>

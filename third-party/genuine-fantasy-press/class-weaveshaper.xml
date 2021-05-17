@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<update version="0.0.1">
-			<file name="class-weaveshaper.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/genuine-fantasy-press/class-weaveshaper.xml" />
+			<file name="class-weaveshaper.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/genuine-fantasy-press/class-weaveshaper.xml" />
 		</update>
 	</info>
 
@@ -1038,4 +1038,4 @@
 			<stat name="shadow assault:dice" value="weaveshaper:weave tier" />
 		</rules>
 	</element>
-</aurorahomebrew>
+</elements>

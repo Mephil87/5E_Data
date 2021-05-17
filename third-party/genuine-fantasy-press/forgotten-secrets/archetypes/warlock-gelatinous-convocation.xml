@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Gelatinous Convocation Patron</name>
 		<description>Gelatinous Convocation Patron</description>
 		<author url="https://www.genfantasypress.com/about-the-compendium">Genuine Fantasy Press</author>
 		<update version="0.0.2">
-			<file name="warlock-gelatinous-convocation.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/genuine-fantasy-press/forgotten-secrets/archetypes/warlock-gelatinous-convocation.xml" />
+			<file name="warlock-gelatinous-convocation.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/genuine-fantasy-press/forgotten-secrets/archetypes/warlock-gelatinous-convocation.xml" />
 		</update>
 	</info>
 	
@@ -109,4 +109,4 @@
 			<grant type="Spell" id="ID_PHB_SPELL_POLYMORPH"/>
 		</rules>
 	</element>	
-</aurorahomebrew>
+</elements>

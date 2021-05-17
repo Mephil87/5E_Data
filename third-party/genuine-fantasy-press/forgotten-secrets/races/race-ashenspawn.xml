@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
     <info>
         <name>The Ashenspawn</name>
         <description>The Ashenspawn race from The Compendium of Forgotten Secrets.</description>
         <author url="https://www.genfantasypress.com/about-the-compendium">Genuine Free Press</author>
         <update version="0.0.2">
-			<file name="race-ashenspawn.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/genuine-fantasy-press/forgotten-secrets/races/race-ashenspawn.xml" />
+			<file name="race-ashenspawn.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/genuine-fantasy-press/forgotten-secrets/races/race-ashenspawn.xml" />
 		</update>
 	</info>
     
@@ -105,4 +105,4 @@
             <description>You can easily consume wood, metal, and raw meat without harm, and they provide you with sustenance. You can eat nonmagical wood and metal at the same rate you could consume normal food as your jaws and teeth are strong enough to allow you to bite through iron if you can get your mouth around it. Stronger metals are tough and may take several minutes to bite through, depending on their thickness. Magical metals are too durable for ashenspawn to consume using this feature. Eating metal produces a terrible screeching sound that can be easily heard up to 150 feet away.</description>
 		</sheet>
 	</element>	
-</aurorahomebrew>
+</elements>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>	
+<elements>	
 	<info>
 		<name>Eternal Citadel Patron</name>
 		<description>Eternal Citadel Patron</description>
 		<author url="https://www.genfantasypress.com/about-the-compendium">Genuine Fantasy Press</author>
 		<update version="0.0.2">
-			<file name="warlock-eternal-citadel.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/genuine-fantasy-press/forgotten-secrets/archetypes/warlock-eternal-citadel.xml" />
+			<file name="warlock-eternal-citadel.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/genuine-fantasy-press/forgotten-secrets/archetypes/warlock-eternal-citadel.xml" />
 		</update>
 	</info>
 	
@@ -144,4 +144,4 @@
 		<supports>Builder of Walls</supports>
 	</append>
 
-</aurorahomebrew>
+</elements>

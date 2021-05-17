@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	
 	<info>
 		<name>Blackthorn Grove Patron</name>
 		<description>Blackthorn Grove Patron</description>
 		<author url="https://www.genfantasypress.com/about-the-compendium">Genuine Fantasy Press</author>
 		<update version="0.0.2">
-			<file name="warlock-blackthorn-grove.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/genuine-fantasy-press/forgotten-secrets/archetypes/warlock-blackthorn-grove.xml" />
+			<file name="warlock-blackthorn-grove.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/genuine-fantasy-press/forgotten-secrets/archetypes/warlock-blackthorn-grove.xml" />
 		</update>
 	</info>
 	
@@ -106,4 +106,4 @@
 		</sheet>
 	</element>
 	
-</aurorahomebrew>
+</elements>

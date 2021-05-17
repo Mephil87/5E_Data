@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
     <info>
         <name>Way of the Immortal Flame</name>
         <description>The Way of the Immortal Flame archetype.</description>
         <author url="http://mfov.magehandpress.com/2017/09/way-of-immortal-flame.html">Mage Hand Press</author>
         <update version="0.1.2">
-            <file name="monk-immortalflame.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/mage-hand-press/archetypes/monk-immortalflame.xml" />
+            <file name="monk-immortalflame.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/mage-hand-press/archetypes/monk-immortalflame.xml" />
         </update>
     </info>
     <element name="Way of the Immortal Flame" type="Archetype" source="Mage Hand Press" id="ID_MHP_ARCHETYPE_MONK_WAY_OF_THE_IMMORTAL_FLAME">
@@ -73,4 +73,4 @@
             <description>You can spend 6 ki points to cast the spell conjure elemental without using a spell slot or spell components. Unless you have learned this spell from some other source, you can only conjure a fire elemental with this spell. Otherwise, your casting of the conjure elemental spell follows all the rules of the spell.</description>
         </sheet>
     </element>
-</aurorahomebrew>
+</elements>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
     <info>
         <name>The Nocturne</name>
         <description>The Nocturne race from The Compendium of Forgotten Secrets.</description>
         <author url="https://www.genfantasypress.com/about-the-compendium">Genuine Free Press</author>
         <update version="0.0.2">
-			<file name="race-nocturne.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/genuine-fantasy-press/forgotten-secrets/races/race-nocturne.xml" />
+			<file name="race-nocturne.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/genuine-fantasy-press/forgotten-secrets/races/race-nocturne.xml" />
 		</update>
 	</info>
     
@@ -126,4 +126,4 @@
 		</sheet>
 	</element>
 	
-</aurorahomebrew>
+</elements>

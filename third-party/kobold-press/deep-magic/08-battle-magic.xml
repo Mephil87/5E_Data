@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Deep Magic: Battle Magic</name>
 		<update version="0.0.1">
-			<file name="08-battle-magic.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/kobold-press/deep-magic/08-battle-magic.xml" />
+			<file name="08-battle-magic.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/kobold-press/deep-magic/08-battle-magic.xml" />
 		</update>
 	</info>
 
@@ -718,4 +718,4 @@
 			<set name="isRitual">false</set>
 		</setters>
 	</element>
-</aurorahomebrew>
+</elements>

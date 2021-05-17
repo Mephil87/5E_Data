@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Keeper of the Depths Patron</name>
 		<description>Keeper of the Depths Patron</description>
 		<author url="https://www.genfantasypress.com/about-the-compendium">Genuine Fantasy Press</author>
 		<update version="0.0.1">
-			<file name="warlock-keeper-depths.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/genuine-fantasy-press/forgotten-secrets/archetypes/warlock-keeper-depths.xml" />
+			<file name="warlock-keeper-depths.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/genuine-fantasy-press/forgotten-secrets/archetypes/warlock-keeper-depths.xml" />
 		</update>
 	</info>
 	<element name="The Keeper of the Depths" type="Archetype" source="The Compendium of Forgotten Secrets" id="ID_GFP_COFSA_ARCHETYPE_OTHERWORLDLY_PATRON_KEEPER_DEPTHS">
@@ -99,4 +99,4 @@
 			<description>You can summon the terrible maw of the Keeper to appear before you as an action. A massive beak surrounded by tentacles appears and attempts to grab a target of your choice within 30 feet. When a creature is targeted, it must make a Strength saving throw against your warlock spell save DC to shake off the grasp of the horror. If the target fails, it is dragged into the beak and bitten, taking 6d10 piercing damage and 6d10 psychic damage. If this is enough to reduce the target to 0 hit points, you can choose to have them be swallowed whole by the mouth, consuming them. Either way, the maw then immediately disappears. Once you summon this maw, you can’t do so again until you finish a long rest. If the maw consumes a creature using this feature, your patron visits you in your dreams during your next long rest and grants you a boon in return for the sacrifice. Choose any spell of 5th level or lower from the warlock or wizard spell lists. You can cast this spell twice using a warlock spell slot, after which it is lost. The spell is also lost if you sacrifice a new creature and select a new spell using this feature.</description>
 		</sheet>
 	</element>	
-</aurorahomebrew>
+</elements>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Serpent Empress Patron</name>
 		<description>Serpent Empress Patron</description>
 		<author url="https://www.genfantasypress.com/about-the-compendium">Genuine Fantasy Press</author>
 		<update version="0.0.1">
-			<file name="warlock-serpent-empress.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/genuine-fantasy-press/forgotten-secrets/archetypes/warlock-serpent-empress.xml" />
+			<file name="warlock-serpent-empress.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/genuine-fantasy-press/forgotten-secrets/archetypes/warlock-serpent-empress.xml" />
 		</update>
 	</info>
 
@@ -95,4 +95,4 @@
 			<description>As an action, choose one creature within 30 feet of you that you can see. The target is paralyzed for one minute. If the target takes damage, the effect ends. If the target is immune to paralysis, it takes 3d10 psychic damage and is knocked prone. Once you use this feature, you can’t do so again until you finish a long rest.</description>
 		</sheet>
 	</element>
-</aurorahomebrew>
+</elements>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Oath of Judgment</name>
 		<update version="0.0.1">
-			<file name="paladin-judgment.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/genuine-fantasy-press/forgotten-secrets/archetypes/paladin-judgment.xml" />
+			<file name="paladin-judgment.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/genuine-fantasy-press/forgotten-secrets/archetypes/paladin-judgment.xml" />
 		</update>
 	</info>
 	<element name="Oath of Judgment" type="Archetype" source="The Compendium of Forgotten Secrets" id="ID_GFP_COFSA_ARCHETYPE_OATH_OF_JUDGMENT">
@@ -139,4 +139,4 @@
 			When you move, you can teleport an equal distance instead.</description>
 		</sheet>
 	</element>	
-</aurorahomebrew>
+</elements>

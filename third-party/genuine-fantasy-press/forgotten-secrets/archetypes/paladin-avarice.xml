@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Oath of Avarice</name>
 		<update version="0.0.2">
-			<file name="paladin-avarice.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/genuine-fantasy-press/compendium-of-forgotten-secrets/archetypes/paladin-avarice.xml" />
+			<file name="paladin-avarice.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/genuine-fantasy-press/compendium-of-forgotten-secrets/archetypes/paladin-avarice.xml" />
 		</update>
 	</info>
 	<element name="Oath of Avarice" type="Archetype" source="The Compendium of Forgotten Secrets" id="ID_GFP_COFSA_ARCHETYPE_OATH_OF_AVARICE">
@@ -129,4 +129,4 @@
 			<description>For 1 minute you gain 20 temporary hit points at the start of each of your turns, whenever you steal a weapon using your Rate of Exchange feature, you can immediately make a weapon attack using it without using an action, and when you hit a creature with a melee weapon attack, the target must make a Wisdom saving throw against your paladin spell save DC or be blinded until the end of your next turn.</description>
 		</sheet>
 	</element>
-</aurorahomebrew>
+</elements>

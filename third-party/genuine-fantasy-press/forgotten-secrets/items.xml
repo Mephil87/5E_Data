@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Wonderous Items</name>
 		<update version="0.0.1">
-			<file name="items.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/genuine-fantasy-press/forgotten-secrets/items.xml" />
+			<file name="items.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/genuine-fantasy-press/forgotten-secrets/items.xml" />
 		</update>
 	</info>
 	<element name="The Bloodstained Quill" type="Magic Item" source="The Compendium of Forgotten Secrets" id="ID_GFP_COFSA_MAGIC_ITEM_THE_BLOODSTAINED_QUILL">
@@ -1302,4 +1302,4 @@
 			<set name="slot">arms</set>
 		</setters>
 	</element>
-</aurorahomebrew>
+</elements>

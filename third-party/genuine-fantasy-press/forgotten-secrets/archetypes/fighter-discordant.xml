@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Discordant</name>
 		<update version="0.0.1">
-			<file name="fighter-discordant.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/genuine-fantasy-press/forgotten-secrets/archetypes/fighter-discordant.xml" />
+			<file name="fighter-discordant.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/genuine-fantasy-press/forgotten-secrets/archetypes/fighter-discordant.xml" />
 		</update>
 	</info>
 	<element name="Discordant" type="Archetype" source="The Compendium of Forgotten Secrets" id="ID_GFP_COFSA_ARCHETYPE_DISCORDANT">
@@ -128,4 +128,4 @@
 			<description>When you take the Attack action on your turn and make an attack with your ringing weapon, you can choose to hone the disruptive sound. If this attack hits a creature that is concentrating on a spell, it has disadvantage on the saving throw to maintain concentration.</description>
 		</sheet>
 	</element>
-</aurorahomebrew>
+</elements>

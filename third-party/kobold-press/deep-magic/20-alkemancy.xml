@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Deep Magic: Alkemancy</name>
 		<update version="0.0.2">
-			<file name="20-alkemancy.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/kobold-press/deep-magic/20-alkemancy.xml" />
+			<file name="20-alkemancy.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/kobold-press/deep-magic/20-alkemancy.xml" />
 		</update>
 	</info>
 
 	<element name="Deep Magic: Alkemancy" type="Source" source="Core" id="ID_KBP_DMA_SOURCE_DEEP_MAGIC_ALKEMANCY">
 		<description>
 			<p><strong>Distill the Essence of Magic!</strong></p>
-			<p>Magical aurorahomebrew and potions attuned to greater forces—these are the building blocks of the perenially-underestimated alkemancers! Fusing arcane acid with pure fire, with essences of life and death, those Eastern alchemists who understand the material world can better manipulate it through arcane means. From breath and pure waters, from crucibles and flasks, you have learned to mix and master liquid power, secrets of the lab now ready to unleash on your foes. The 20 pages of Deep Magic: Alkemancy bring the secrets of alchemy into your 5e campaign, featuring:</p>
+			<p>Magical elements and potions attuned to greater forces—these are the building blocks of the perenially-underestimated alkemancers! Fusing arcane acid with pure fire, with essences of life and death, those Eastern alchemists who understand the material world can better manipulate it through arcane means. From breath and pure waters, from crucibles and flasks, you have learned to mix and master liquid power, secrets of the lab now ready to unleash on your foes. The 20 pages of Deep Magic: Alkemancy bring the secrets of alchemy into your 5e campaign, featuring:</p>
 			<ul>
 				<li>A new Alkemancy tradition for wizards, with mastery of essences and mutability of existing magical effects</li>
 				<li>the 6 legendary elixirs of alkemancy, each a potion of mythic power: Black, Golden, Iron, Jade, Pearl, and Ruby elixirs</li>
@@ -946,4 +946,4 @@
 		</setters>
 	</element>
 
-</aurorahomebrew>
+</elements>

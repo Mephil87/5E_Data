@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Deep Magic: Ley Lines</name>
 		<update version="0.0.1">
-			<file name="05-ley-lines.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/kobold-press/deep-magic/05-ley-lines.xml" />
+			<file name="05-ley-lines.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/kobold-press/deep-magic/05-ley-lines.xml" />
 		</update>
 	</info>
 
@@ -554,4 +554,4 @@
 		</setters>
 	</element>
 
-</aurorahomebrew>
+</elements>

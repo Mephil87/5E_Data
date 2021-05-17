@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Shadowcat Patron</name>
 		<description>Shadowcat Patron</description>
 		<author url="https://www.genfantasypress.com/about-the-compendium">Genuine Fantasy Press</author>
 		<update version="0.0.1">
-			<file name="warlock-shadowcat.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/genuine-fantasy-press/forgotten-secrets/archetypes/warlock-shadowcat.xml" />
+			<file name="warlock-shadowcat.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/genuine-fantasy-press/forgotten-secrets/archetypes/warlock-shadowcat.xml" />
 		</update>
 	</info>
 
@@ -96,4 +96,4 @@
 			<description>You can no longer be surprised. Your Dream Stalker feature no longer has a limit to the number of times it can be used. Whenever you use your Dream Stalker feature’s bonus action, all hostile creatures within 10 feet of you must make a Wisdom saving throw against your warlock spell save DC. If they fail, they are frightened of you until the end of your next turn.</description>
 		</sheet>
 	</element>
-</aurorahomebrew>
+</elements>

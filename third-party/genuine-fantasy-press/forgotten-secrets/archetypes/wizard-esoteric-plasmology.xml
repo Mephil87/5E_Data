@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Esoteric Plasmology</name>
 		<description>Esoteric Plasmology from The Compendium of Forgotten Secrets</description>
 	    <author url="https://www.genfantasypress.com/about-the-compendium">Genuine Free Press</author>
     	<update version="0.0.1">
-      		<file name="wizard-esoteric-plasmology.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/genuine-fantasy-press/compendium-of-forgotten-secrets/archetypes/wizard-esoteric-plasmology.xml" />
+      		<file name="wizard-esoteric-plasmology.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/genuine-fantasy-press/compendium-of-forgotten-secrets/archetypes/wizard-esoteric-plasmology.xml" />
 		</update>
 	</info>
 
@@ -85,4 +85,4 @@
 			<grant type="Spell" id="ID_PHB_SPELL_SPEAK_WITH_DEAD" />
 		</rules>
 	</element>
-</aurorahomebrew>
+</elements>

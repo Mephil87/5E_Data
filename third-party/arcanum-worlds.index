@@ -3,10 +3,10 @@
 	<info>
 		<name>Arcanum Worlds</name>
 		<update version="0.0.1">
-			<file name="arcanum-worlds.index" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/arcanum-worlds.index" />
+			<file name="arcanum-worlds.index" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/arcanum-worlds.index" />
 		</update>
 	</info>
 	<files>
-		<file name="odyssey-of-the-dragonlords.index" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/arcanum-worlds/odyssey-of-the-dragonlords.index" />
+		<file name="odyssey-of-the-dragonlords.index" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/arcanum-worlds/odyssey-of-the-dragonlords.index" />
 	</files>
 </index>

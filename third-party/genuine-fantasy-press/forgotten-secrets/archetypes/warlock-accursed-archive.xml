@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	
 	<info>
 		<name>Accursed Archive Patron</name>
 		<description>Accursed Archive Patron</description>
 		<author url="https://www.genfantasypress.com/about-the-compendium">Genuine Fantasy Press</author>
 		<update version="0.0.2">
-			<file name="warlock-accursed-archive.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/genuine-fantasy-press/forgotten-secrets/archetypes/warlock-accursed-archive.xml" />
+			<file name="warlock-accursed-archive.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/genuine-fantasy-press/forgotten-secrets/archetypes/warlock-accursed-archive.xml" />
 		</update>
 	</info>
 	
@@ -130,4 +130,4 @@
 		</sheet>
 	</element>
 	
-</aurorahomebrew>
+</elements>

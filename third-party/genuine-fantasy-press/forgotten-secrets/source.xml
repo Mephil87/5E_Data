@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<update version="0.1">
-			<file name="source.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/genuine-fantasy-press/forgotten-secrets/source.xml" />
+			<file name="source.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/genuine-fantasy-press/forgotten-secrets/source.xml" />
 		</update>
 	</info>
 	<element name="The Compendium of Forgotten Secrets" type="Source" source="Core" id="ID_GFP_SOURCE_FORGOTTEN_SECRETS">
@@ -24,4 +24,4 @@
 			<set name="incomplete">true</set>
 		</setters>
 	</element>
-</aurorahomebrew>
+</elements>

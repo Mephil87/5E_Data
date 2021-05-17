@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Invocations</name>
 		<description>COFSA Invocations</description>
 		<author url="www.genfantasypress.com">Genuine Fantasy Press</author>
 		<update version="0.0.6">
-			<file name="invocations.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/genuine-fantasy-press/forgotten-secrets/invocations.xml" />
+			<file name="invocations.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/genuine-fantasy-press/forgotten-secrets/invocations.xml" />
 		</update>
 	</info>
 
@@ -1729,4 +1729,4 @@
 		</sheet>
 	</element>
 
-</aurorahomebrew>
+</elements>

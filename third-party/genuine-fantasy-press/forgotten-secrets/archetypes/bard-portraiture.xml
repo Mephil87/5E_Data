@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>College of Portraiture</name>
 		<description>College of Portraiture from The Compendium of Forgotten Secrets</description>
 		<author url="https://www.genfantasypress.com/about-the-compendium">Genuine Fantasy Press</author>
 		<update version="0.0.1">
-			<file name="bard-portraiture.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/genuine-fantasy-press/compendium-of-forgotten-secrets/archetypes/bard-portraiture.xml" />
+			<file name="bard-portraiture.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/genuine-fantasy-press/compendium-of-forgotten-secrets/archetypes/bard-portraiture.xml" />
 		</update>
 	</info>
 	<element name="College of Portraiture" type="Archetype" source="The Compendium of Forgotten Secrets" id="ID_GFP_COFSA_ARCHETYPE_COLLEGE_OF_PORTRAITURE">
@@ -72,4 +72,4 @@
 			<description>You can now animate a number of portrait-soldiers equal to twice your Charisma modifier (minimum 2). Whenever you cast a spell, you can use one of your portrait-soldiers as the point of origin or as a vessel to deliver the spell. Whenever a portrait-solider would take damage, you can use your reaction to channel your life energy into it. The target gains temporary hit points equal to the number of hit points you sacrifice (up to your bard level). Whenever you would take damage, you can use your reaction to sacrifice the life of one of your portrait-soldiers before the damage is applied. You gain temporary hit points equal to the portrait-soldier’s remaining hit points, and the portrait-soldier is destroyed.</description>
 		</sheet>
 	</element>
-</aurorahomebrew>
+</elements>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Feats</name>
 		<description> Feats from The Compendium of Forgotten Secrets</description>
 		<author url="https://www.genfantasypress.com/about-the-compendium">Genuine Fantasy Press</author>
 		<update version="0.0.2">
-			<file name="feats.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/genuine-fantasy-press/forgotten-secrets/feats.xml" />
+			<file name="feats.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/genuine-fantasy-press/forgotten-secrets/feats.xml" />
 		</update>
 	</info>
 	
@@ -284,4 +284,4 @@
 			<grant type="Spell" id="ID_GFP_COFSA_SPELL_WOLFBANE_TRAP" />
 		</rules>
 	</element>	
-</aurorahomebrew>
+</elements>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Blackthorn Lineage</name>
 		<description>Blackthorn Lineage Sorcerous Origin from The Compendium of Forgotten Secrets.</description>
 		<author url="https://www.genfantasypress.com/about-the-compendium">Genuine Fantasy Press</author>
 		<update version="0.0.1">
-			<file name="sorcerer-blackthorn-lineage.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/genuine-fantasy-press/forgotten-secrets/archetypes/sorcerer-blackthorn-lineage.xml" />
+			<file name="sorcerer-blackthorn-lineage.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/genuine-fantasy-press/forgotten-secrets/archetypes/sorcerer-blackthorn-lineage.xml" />
 		</update>
 	</info>
 	
@@ -107,4 +107,4 @@
 			<description>While you maintain concentration on a spell, you can have blackthorn vines swarm around you in a 30-foot radius, acting as difficult terrain for hostile creatures.</description>
 		</sheet>
 	</element>
-</aurorahomebrew>
+</elements>

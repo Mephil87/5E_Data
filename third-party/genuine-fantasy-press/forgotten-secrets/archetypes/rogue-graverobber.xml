@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Graverobber</name>
 		<update version="0.0.1">
-			<file name="rogue-graverobber.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/genuine-fantasy-press/forgotten-secrets/archetypes/rogue-graverobber.xml" />
+			<file name="rogue-graverobber.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/genuine-fantasy-press/forgotten-secrets/archetypes/rogue-graverobber.xml" />
 		</update>
 	</info>	
 	<element name="Graverobber" type="Archetype" source="The Compendium of Forgotten Secrets" id="ID_GFP_COFSA_ARCHETYPE_GRAVEROBBER">
@@ -93,4 +93,4 @@
 			<description>Whenever you roll initiative, you can choose one hostile creature that you can see within 60 feet of you. That creature is marked by the Gate of Souls as a beacon for the energies of the fallen who lurk within the Graveyard. Once per turn when you deal damage to that creature, you can choose to bind a single soul from the Graveyard to an item in your possession. This mark lasts for one minute.</description>
 		</sheet>
 	</element>	
-</aurorahomebrew>
+</elements>

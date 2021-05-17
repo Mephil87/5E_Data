@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Deep Magic: Angelic Seals</name>
 		<update version="0.0.1">
-			<file name="06-angelic-seals.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/kobold-press/deep-magic/06-angelic-seals.xml" />
+			<file name="06-angelic-seals.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/kobold-press/deep-magic/06-angelic-seals.xml" />
 		</update>
 	</info>
 
@@ -515,4 +515,4 @@
 			<set name="isRitual">true</set>
 		</setters>
 	</element>
-</aurorahomebrew>
+</elements>

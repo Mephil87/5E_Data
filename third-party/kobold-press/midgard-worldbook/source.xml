@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<update version="0.0.1">
-			<file name="source.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/kobold-press/midgard-worldbook/source.xml" />
+			<file name="source.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/kobold-press/midgard-worldbook/source.xml" />
 		</update>
 	</info>
 	
@@ -34,4 +34,4 @@
 		</setters>
 	</element>
 	
-</aurorahomebrew>
+</elements>

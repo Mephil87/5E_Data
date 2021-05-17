@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Way of the Black Star</name>
 		<description>Way of the Black Star from The Compendium of Forgotten Secrets</description>
 	    <author url="https://www.genfantasypress.com/about-the-compendium">Genuine Free Press</author>
     	<update version="0.0.1">
-      		<file name="monk-blackstar.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/genuine-fantasy-press/compendium-of-forgotten-secrets/archetypes/monk-blackstar.xml" />
+      		<file name="monk-blackstar.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/genuine-fantasy-press/compendium-of-forgotten-secrets/archetypes/monk-blackstar.xml" />
 		</update>
 	</info>
 
@@ -126,4 +126,4 @@
 			<grant type="Spell" id="ID_GFP_COFSA_SPELL_UNSEEN_CLAW" />
 		</rules>
 	</element>
-</aurorahomebrew>
+</elements>

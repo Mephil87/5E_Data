@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
     <info>
         <name>Grove Knight</name>
         <description>The Grove Knight archetype.</description>
         <author url="http://mfov.magehandpress.com/2018/03/grove-knight.html">Mage Hand Press</author>
         <update version="0.0.2">
-            <file name="fighter-groveknight.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/mage-hand-press/archetypes/fighter-groveknight.xml" />
+            <file name="fighter-groveknight.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/mage-hand-press/archetypes/fighter-groveknight.xml" />
         </update>
     </info>
     
@@ -131,4 +131,4 @@
         </sheet>
     </element>
 
-</aurorahomebrew>
+</elements>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
     <info>
         <name>Way of the Howling Gale</name>
         <description>The Way of the Howling Gale archetype.</description>
         <author url="http://mfov.magehandpress.com/2018/02/way-of-howling-gale.html">Mage Hand Press</author>
         <update version="0.0.2">
-            <file name="monk-howlinggale.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/mage-hand-press/archetypes/monk-howlinggale.xml" />
+            <file name="monk-howlinggale.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/mage-hand-press/archetypes/monk-howlinggale.xml" />
         </update>
     </info>
     <element name="Way of the Howling Gale" type="Archetype" source="Mage Hand Press" id="ID_MHP_ARCHETYPE_MONK_WAY_OF_THE_HOWLING_GALE">
@@ -82,4 +82,4 @@
             <description>You can spend 7 ki points to cast the spell whirlwind.</description>
         </sheet>
     </element>
-</aurorahomebrew>
+</elements>

@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Deep Magic: Dragon Magic</name>
 		<update version="0.0.2">
-			<file name="13-dragon-magic.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/kobold-press/deep-magic/13-dragon-magic.xml" />
+			<file name="13-dragon-magic.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/kobold-press/deep-magic/13-dragon-magic.xml" />
 		</update>
 	</info>
 
 	<element name="Deep Magic: Dragon Magic" type="Source" source="Core" id="ID_KBP_DMDM_SOURCE_DEEP_MAGIC_DRAGON_MAGIC">
 		<description>
 			<p><strong>Magic that Roils in Blood and Bone!</strong></p>
-			<p>The dragons were among the first creatures to master all types of magic: controlling the aurorahomebrew, enchanting their lairs with innate defenses, and teaching their arts to their humanoid servants.</p>
+			<p>The dragons were among the first creatures to master all types of magic: controlling the elements, enchanting their lairs with innate defenses, and teaching their arts to their humanoid servants.</p>
 			<p>Today, their kin—true dragons and lesser creatures—are heirs to this powerful magic. Kobolds serving great wyrms learn spells that harness their innate draconic natures. A human with an ancient draconic ancestor might find a wizard mentor to help her focus her power. Special legions of dragonborn troops train with a master dragon mage to better defend their homeland from invaders.</p>
 			<p>Deep Magic: Dragon Magic brings the secrets of dragon magic into your 5th Edition campaign, featuring:</p>
 			<ul>
@@ -904,4 +904,4 @@
 			<grant type="Condition" id="ID_INTERNAL_CONDITION_DAMAGE_RESISTANCE_COLD" />
 		</rules>
 	</element>
-</aurorahomebrew>
+</elements>

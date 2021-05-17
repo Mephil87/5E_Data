@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>The Warrior Saint Patron</name>
 		<description>Warrior Saint Patron</description>
 		<author url="https://www.genfantasypress.com/about-the-compendium">Genuine Fantasy Press</author>
 		<update version="0.0.1">
-			<file name="warlock-warrior-saint.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/genuine-fantasy-press/forgotten-secrets/archetypes/warlock-warrior-saint.xml" />
+			<file name="warlock-warrior-saint.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/genuine-fantasy-press/forgotten-secrets/archetypes/warlock-warrior-saint.xml" />
 		</update>
 	</info>
 	
@@ -173,4 +173,4 @@
 			<description>Whenever you've cast a spell that requires concentration and affects only allies or yourself, you can temporarily dismiss it as a bonus action. During that time, it has no effect and does not require concentration. You can resume the spell as a bonus action.</description>
 		</sheet>
 	</element>	
-</aurorahomebrew>
+</elements>

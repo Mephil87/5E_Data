@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
     <info>
         <name>The Shadow Cabal</name>
         <description>The Shadow Cabal archetype.</description>
         <author url="http://mfov.magehandpress.com/2018/04/the-shadow-cabal.html">Mage Hand Press</author>
         <update version="0.1.2">
-            <file name="warlock-shadowcabal.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/mage-hand-press/archetypes/warlock-shadowcabal.xml" />
+            <file name="warlock-shadowcabal.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/mage-hand-press/archetypes/warlock-shadowcabal.xml" />
         </update>
     </info>
     
@@ -116,4 +116,4 @@
             <description>As an action on your turn you can unleash a deadly barrage of eldritch energy in a 30-foot radius around you. Creatures you choose in this area must make a DC{{spellcasting:dc:cha}} Dexterity saving throw. On a failed save, a creature takes force damage equal to 4d10+{{charisma:modifier}}, or half as much damage on a successful save.</description>
         </sheet>
     </element>
-</aurorahomebrew>
+</elements>

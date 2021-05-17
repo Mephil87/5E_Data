@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>	
+<elements>	
 	<info>
 		<name>Fallen Exile Patron</name>
 		<description>Fallen Exile Patron</description>
 		<author url="https://www.genfantasypress.com/about-the-compendium">Genuine Fantasy Press</author>
 		<update version="0.0.4">
-			<file name="warlock-fallen-exile.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/genuine-fantasy-press/forgotten-secrets/archetypes/warlock-fallen-exile.xml" />
+			<file name="warlock-fallen-exile.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/genuine-fantasy-press/forgotten-secrets/archetypes/warlock-fallen-exile.xml" />
 		</update>
 	</info>
 	
@@ -349,4 +349,4 @@
 		</sheet>
 	</element>
 	
-</aurorahomebrew>
+</elements>

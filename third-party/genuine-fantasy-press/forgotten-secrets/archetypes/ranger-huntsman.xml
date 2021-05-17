@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Hound of the Huntsman</name>
 		<update version="0.0.1">
-			<file name="ranger-huntsman.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/ranger-huntsman.xml" />
+			<file name="ranger-huntsman.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/ranger-huntsman.xml" />
 		</update>
 	</info>	
 	<element name="Hound of the Huntsman" type="Archetype" source="The Compendium of Forgotten Secrets" id="ID_GFP_COFSA_ARCHETYPE_HOUND_OF_THE_HUNTSMAN">
@@ -135,4 +135,4 @@
 			<stat name="extra attack:count" value="2" bonus="extra attack" />
 		</rules>
 	</element>	
-</aurorahomebrew>
+</elements>

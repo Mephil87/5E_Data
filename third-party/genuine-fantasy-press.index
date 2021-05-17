@@ -5,13 +5,13 @@
 		<description>The 5e homebrew content from Genuine Fantasy Press.</description>
 		<author url="www.genfantasypress.com">Genuine Fantasy Press</author>
 		<update version="0.0.3">
-			<file name="genuine-fantasy-press.index" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/genuine-fantasy-press.index" />
+			<file name="genuine-fantasy-press.index" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/genuine-fantasy-press.index" />
 		</update>
 	</info>
 	<files>	
-		<file name="source.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/genuine-fantasy-press/source.xml" />	
+		<file name="source.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/genuine-fantasy-press/source.xml" />	
 		<!-- compendiums -->
-		<file name="forgotten-secrets.index" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/genuine-fantasy-press/forgotten-secrets.index" />		
-		<file name="class-weaveshaper.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/genuine-fantasy-press/class-weaveshaper.xml" />
+		<file name="forgotten-secrets.index" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/genuine-fantasy-press/forgotten-secrets.index" />		
+		<file name="class-weaveshaper.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/genuine-fantasy-press/class-weaveshaper.xml" />
 	</files>
 </index>
