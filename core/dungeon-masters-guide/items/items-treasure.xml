@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Treasure</name>
 		<update version="0.0.2">
-			<file name="items-treasure.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/core/dungeon-masters-guide/items/items-treasure.xml" />
+			<file name="items-treasure.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/core/dungeon-masters-guide/items/items-treasure.xml" />
 		</update>
 	</info>
 	
@@ -1228,4 +1228,4 @@
 			<set name="valuable">true</set>
 		</setters>
 	</element>
-</aurorahomebrew>
+</elements>

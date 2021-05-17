@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Internal</name>
-		<description>aurorahomebrew that should've been part of the app itself</description>
+		<description>Elements that should've been part of the app itself</description>
 		<update version="0.0.4">
-			<file name="internal.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/core/internal.xml" />
+			<file name="internal.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/core/internal.xml" />
 		</update>
 	</info>
 
@@ -499,4 +499,4 @@
 			<stat name="multiclass:spellcasting:level" value="1" level="19" />
 		</rules>
 	</element>
-</aurorahomebrew>
+</elements>

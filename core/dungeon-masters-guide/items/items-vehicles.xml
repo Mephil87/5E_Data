@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Vehicles</name>
 		<update version="0.0.3">
-			<file name="items-vehicles.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/core/ungeon-masters-guide/items/items-vehicles.xml" />
+			<file name="items-vehicles.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/core/ungeon-masters-guide/items/items-vehicles.xml" />
 		</update>
 	</info>
 	
@@ -35,4 +35,4 @@
 
 	<!-- p119 -->
 
-</aurorahomebrew>
+</elements>

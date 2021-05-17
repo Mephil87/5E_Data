@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Tiefling</name>
 		<update version="0.2.5">
-			<file name="race-tiefling.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/core/players-handbook/races/race-tiefling.xml" />
+			<file name="race-tiefling.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/core/players-handbook/races/race-tiefling.xml" />
 		</update>
 	</info>
 
@@ -87,4 +87,4 @@
 	</element>
 	<!-- an element that you should grant in a subrace so that you can override stats/infernal legacy -->
 	<element name="Tiefling Subrace" type="Grants" source="Internal" id="ID_INTERNAL_GRANTS_TIEFLING_SUBRACE" />
-</aurorahomebrew>
+</elements>

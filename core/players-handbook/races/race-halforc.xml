@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Half-Orc</name>
 		<update version="0.2.1">
-			<file name="race-halforc.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/core/players-handbook/races/race-halforc.xml" />
+			<file name="race-halforc.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/core/players-handbook/races/race-halforc.xml" />
 		</update>
 	</info>
 	<element name="Half-Orc" type="Race" source="Player’s Handbook" id="ID_RACE_HALFORC">
@@ -89,4 +89,4 @@
 			<description>When you score a critical hit with a melee weapon attack, you can roll one of the weapon’s damage dice one additional time and add it to the extra damage of the critical hit.</description>
 		</sheet>
 	</element>
-</aurorahomebrew>
+</elements>

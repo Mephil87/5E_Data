@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Druid</name>
 		<description>The Druid class from the Player’s Handbook.</description>
 		<author url="http://dnd.wizards.com/products/tabletop-games/rpg-products/rpg_playershandbook">Wizards of the Coast</author>
 		<update version="0.2.9">
-			<file name="class-druid.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/core/players-handbook/classes/class-druid.xml" />
+			<file name="class-druid.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/core/players-handbook/classes/class-druid.xml" />
 		</update>
 	</info>
 
@@ -20,7 +20,7 @@
 			<p>Druids revere nature above all, gaining their spells and other magical powers either from the force of nature itself or from a nature deity. Many druids pursue a mystic spirituality of transcendent union with nature rather than devotion to a divine entity, while others serve gods of wild nature, animals, or elemental forces. The ancient druidic traditions are sometimes called the Old Faith, in contrast to the worship of gods in temples and shrines.</p>
 			<p class="indent">Druid spells are oriented toward nature and animals— the power of tooth and claw, of sun and moon, of fire and storm. Druids also gain the ability to take on animal forms, and some druids make a particular study of this practice, even to the point where they prefer animal form to their natural form.</p>
 			<h4>PRESERVE THE BALANCE</h4>
-			<p>For druids, nature exists in a precarious balance. The four aurorahomebrew that make up a world—air, earth, fire, and water—must remain in equilibrium. If one element were to gain power over the others, the world could be destroyed, drawn into one of the elemental planes and broken apart into its component aurorahomebrew. Thus, druids oppose cults of Elemental Evil and others who promote one element to the exclusion of others.</p>
+			<p>For druids, nature exists in a precarious balance. The four elements that make up a world—air, earth, fire, and water—must remain in equilibrium. If one element were to gain power over the others, the world could be destroyed, drawn into one of the elemental planes and broken apart into its component elements. Thus, druids oppose cults of Elemental Evil and others who promote one element to the exclusion of others.</p>
 			<p class="indent">Druids are also concerned with the delicate ecological balance that sustains plant and animal life, and the need for civilized folk to live in harmony with nature, not in opposition to it. Druids accept that which is cruel in nature, and they hate that which is unnatural, including aberrations (such as beholders and mind flayers) and undead (such as zombies and vampires). Druids sometimes lead raids against such creatures, especially when the monsters encroach on the druids’ territory.</p>
 			<p class="indent">Druids are often found guarding sacred sites or watching over regions of unspoiled nature. But when a significant danger arises, threatening nature’s balance or the lands they protect, druids take on a more active role in combating the threat, as adventurers.</p>
 			<h4>CREATING A DRUID</h4>
@@ -648,4 +648,4 @@
 			<grant type="Spell" id="ID_PHB_SPELL_ALTER_SELF" spellcasting="Druid" />
 		</rules>
 	</element>
-</aurorahomebrew>
+</elements>

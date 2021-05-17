@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Half-Elf</name>
 		<update version="0.2.0">
-			<file name="race-halfelf.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/core/players-handbook/races/race-halfelf.xml" />
+			<file name="race-halfelf.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/core/players-handbook/races/race-halfelf.xml" />
 		</update>
 	</info>
 	<element name="Half-Elf" type="Race" source="Player’s Handbook" id="ID_RACE_HALFELF">
@@ -123,4 +123,4 @@
 			<stat name="wisdom" value="1"/>
 		</rules>
 	</element>
-</aurorahomebrew>
+</elements>

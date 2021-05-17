@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Bard</name>
 		<update version="0.4.9">
-			<file name="class-bard.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/core/players-handbook/classes/class-bard.xml" />
+			<file name="class-bard.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/core/players-handbook/classes/class-bard.xml" />
 		</update>
 	</info>
 	
@@ -455,4 +455,4 @@
 			<description>When you use your action to cast a bard spell, you can make one weapon attack.</description>
 		</sheet>
 	</element>
-</aurorahomebrew>
+</elements>

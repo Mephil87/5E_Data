@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Firearms</name>
 		<update version="0.0.3">
-			<file name="items-firearms.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/core/dungeon-masters-guide/items/items-firearms.xml" />
+			<file name="items-firearms.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/core/dungeon-masters-guide/items/items-firearms.xml" />
 		</update>
 	</info>
 
 	<!-- firearms option -->
 	<element name="Firearms" type="Option" source="Dungeon Master’s Guide" id="ID_WOTC_DMG_OPTION_FIREARMS">
 		<description>
-			<p>If you want to model the swashbuckling style of The Three Musketeers and similar tales, you can introduce gunpowder weapons to your campaign that are associated with the Renaissance. Similarly, in a campaign where a spaceship has crashed or aurorahomebrew of modern-day Earth are present, futuristic or modern firearms might appear.</p>
+			<p>If you want to model the swashbuckling style of The Three Musketeers and similar tales, you can introduce gunpowder weapons to your campaign that are associated with the Renaissance. Similarly, in a campaign where a spaceship has crashed or elements of modern-day Earth are present, futuristic or modern firearms might appear.</p>
 		</description>
 		<setters>
 			<set name="short">You can introduce gunpowder, futuristic, or modern firearms to your campaign.</set>
@@ -394,4 +394,4 @@
 		</rules>
 	</append>
 
-</aurorahomebrew>
+</elements>

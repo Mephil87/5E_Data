@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Languages</name>
 		<update version="0.0.1">
-			<file name="languages.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/core/players-handbook/languages.xml" />
+			<file name="languages.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/core/players-handbook/languages.xml" />
 		</update>
 	</info>
 
@@ -209,4 +209,4 @@
 			<set name="speakers">Rogues</set>
 		</setters>
 	</element>	
-</aurorahomebrew>
+</elements>

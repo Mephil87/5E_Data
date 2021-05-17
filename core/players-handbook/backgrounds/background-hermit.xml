@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Hermit</name>
 		<description>Hermit Background</description>
 		<author url="http://dnd.wizards.com/products/tabletop-games/rpg-products/rpg_playershandbook">Wizards of the Coast</author>
 		<update version="0.0.6">
-			<file name="background-hermit.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/core/players-handbook/backgrounds/background-hermit.xml" />
+			<file name="background-hermit.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/core/players-handbook/backgrounds/background-hermit.xml" />
 		</update>
 	</info>
 
@@ -106,4 +106,4 @@
 			<description>The quiet seclusion of your extended hermitage gave you access to a unique and powerful discovery. The exact nature of this revelation depends on the nature of your seclusion. It might be a great truth about the cosmos, the deities, the powerful beings of the outer planes, or the forces of nature. It could be a site that no one else has ever seen. You might have uncovered a fact that has long been forgotten, or unearthed some relic of the past that could rewrite history. It might be information that would be damaging to the people who or consigned you to exile, and hence the reason for your return to society.</description>
 		</sheet>
 	</element>
-</aurorahomebrew>
+</elements>

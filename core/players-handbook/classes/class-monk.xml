@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Monk</name>
 		<description>The Monk class from the Player’s Handbook.</description>
 		<author url="http://dnd.wizards.com/products/tabletop-games/rpg-products/rpg_playershandbook">Wizards of the Coast</author>
 		<update version="0.2.8">
-			<file name="class-monk.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/core/players-handbook/classes/class-monk.xml" />
+			<file name="class-monk.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/core/players-handbook/classes/class-monk.xml" />
 		</update>
 	</info>
 
@@ -551,23 +551,23 @@
 		</sheet>
 	</element>
 
-	<element name="Way of the Four aurorahomebrew" type="Archetype" source="Player’s Handbook" id="ID_WOTC_PHB_ARCHETYPE_MONK_WAY_OF_THE_FOUR_aurorahomebrew">
+	<element name="Way of the Four Elements" type="Archetype" source="Player’s Handbook" id="ID_WOTC_PHB_ARCHETYPE_MONK_WAY_OF_THE_FOUR_ELEMENTS">
 		<supports>Monastic Tradition</supports>
 		<description>
-			<p>You follow a monastic tradition that teaches you to harness the aurorahomebrew. When you focus your ki, you can align yourself with the forces of creation and bend the four aurorahomebrew to your will, using them as an extension of your body. Some members of this tradition dedicate themselves to a single element, but others weave the aurorahomebrew together.</p>
+			<p>You follow a monastic tradition that teaches you to harness the elements. When you focus your ki, you can align yourself with the forces of creation and bend the four elements to your will, using them as an extension of your body. Some members of this tradition dedicate themselves to a single element, but others weave the elements together.</p>
 			<p class="indent">Many monks of this tradition tattoo their bodies with representations of their ki powers, commonly imagined as coiling dragons, but also as phoenixes, fish, plants, mountains, and cresting waves.</p>
-			<div element="ID_WOTC_PHB_ARCHETYPE_FEATURE_WAY_OF_THE_FOUR_aurorahomebrew_DISCIPLE_OF_THE_aurorahomebrew" />
+			<div element="ID_WOTC_PHB_ARCHETYPE_FEATURE_WAY_OF_THE_FOUR_ELEMENTS_DISCIPLE_OF_THE_ELEMENTS" />
 		</description>
 		<sheet display="false">
-			<description>You follow a monastic tradition that teaches you to harness the aurorahomebrew.</description>
+			<description>You follow a monastic tradition that teaches you to harness the elements.</description>
 		</sheet>
 		<rules>
-			<grant type="Archetype Feature" id="ID_WOTC_PHB_ARCHETYPE_FEATURE_WAY_OF_THE_FOUR_aurorahomebrew_DISCIPLE_OF_THE_aurorahomebrew" level="3"/>
+			<grant type="Archetype Feature" id="ID_WOTC_PHB_ARCHETYPE_FEATURE_WAY_OF_THE_FOUR_ELEMENTS_DISCIPLE_OF_THE_ELEMENTS" level="3"/>
 		</rules>
 	</element>
-	<element name="Disciple of the aurorahomebrew" type="Archetype Feature" source="Player’s Handbook" id="ID_WOTC_PHB_ARCHETYPE_FEATURE_WAY_OF_THE_FOUR_aurorahomebrew_DISCIPLE_OF_THE_aurorahomebrew">
+	<element name="Disciple of the Elements" type="Archetype Feature" source="Player’s Handbook" id="ID_WOTC_PHB_ARCHETYPE_FEATURE_WAY_OF_THE_FOUR_ELEMENTS_DISCIPLE_OF_THE_ELEMENTS">
 		<description>
-			<p>When you choose this tradition at 3rd level, you learn magical disciplines that harness the power of the four aurorahomebrew. A discipline requires you to spend ki points each time you use it.</p>
+			<p>When you choose this tradition at 3rd level, you learn magical disciplines that harness the power of the four elements. A discipline requires you to spend ki points each time you use it.</p>
 			<p class="indent">You know the Elemental Attunement discipline and one other elemental discipline of your choice, which are detailed in the “Elemental Disciplines” section below. You learn one additional elemental discipline of your choice at 6th, 11th, and 17th level.</p>
 			<p class="indent">Whenever you learn a new elemental discipline, you can also replace one elemental discipline that you already know with a different discipline.</p>
 			<p class="indent"><strong><em>Casting Elemental Spells.</em></strong> Some elemental disciplines allow you to cast spells. To cast one of these spells, you use its casting time and other rules, but you don’t need to provide material components for it.</p>
@@ -585,7 +585,7 @@
 			</table>
 		</description>
 		<sheet usage="Ki">
-			<description>You learn magical disciplines that harness the power of the four aurorahomebrew.</description>
+			<description>You learn magical disciplines that harness the power of the four elements.</description>
 			<description level="5">You can spend additional ki points (max 3) to increase the level of an elemental discipline spell that you cast. The spell’s level increases by 1 for each additional ki point you spend.</description>
 			<description level="9">You can spend additional ki points (max 4) to increase the level of an elemental discipline spell that you cast. The spell’s level increases by 1 for each additional ki point you spend.</description>
 			<description level="13">You can spend additional ki points (max 5) to increase the level of an elemental discipline spell that you cast. The spell’s level increases by 1 for each additional ki point you spend.</description>
@@ -851,4 +851,4 @@
 			<grant type="Spell" id="ID_PHB_SPELL_WALL_OF_STONE" />
 		</rules>
 	</element>
-</aurorahomebrew>
+</elements>

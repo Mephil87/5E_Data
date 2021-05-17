@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
     <info>
         <name>Companions</name>
         <update version="0.0.4">
-            <file name="companions.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/companions.xml" />
+            <file name="companions.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/companions.xml" />
         </update>
     </info>
         
@@ -304,4 +304,4 @@
 		</sheet>
 	</element>
     
-</aurorahomebrew>
+</elements>

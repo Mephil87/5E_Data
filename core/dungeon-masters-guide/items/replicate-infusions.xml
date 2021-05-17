@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<update version="0.0.1">
-			<file name="replicate-infusions.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/core/dungeon-masters-guide/items/replicate-infusions.xml" />
+			<file name="replicate-infusions.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/core/dungeon-masters-guide/items/replicate-infusions.xml" />
 		</update>
 	</info>
 	
@@ -752,4 +752,4 @@
 		</sheet>		
 	</element>
 
-</aurorahomebrew>
+</elements>

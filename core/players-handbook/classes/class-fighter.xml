@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Fighter</name>
 		<update version="0.4.1">
-			<file name="class-fighter.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/core/players-handbook/classes/class-fighter.xml" />
+			<file name="class-fighter.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/core/players-handbook/classes/class-fighter.xml" />
 		</update>
 	</info>
 
@@ -19,7 +19,7 @@
 			<p>Not every member of the city watch, the village militia, or the queen’s army is a fighter. Most of these troops are relatively untrained soldiers with only the most basic combat knowledge. Veteran soldiers, military officers, trained bodyguards, dedicated knights, and similar figures are fighters.</p>
 			<p class="indent">Some fighters feel drawn to use their training as adventurers. The dungeon delving, monster slaying, and other dangerous work common among adventurers is second nature for a fighter, not all that different from the life he or she left behind. There are greater risks, perhaps, but also much greater rewards—few fighters in the city watch have the opportunity to discover a magic flame tongue sword, for example.</p>
 			<h4>CREATING A FIGHTER</h4>
-			<p>As you build your fighter, think about two related aurorahomebrew of your character’s background: Where did you get your combat training, and what set you apart from the mundane warriors around you? Were you particularly ruthless? Did you get extra help from a mentor, perhaps because of your exceptional dedication? What drove you to this training in the first place? A threat to your homeland, a thirst for revenge, or a need to prove yourself might all have been factors.</p>
+			<p>As you build your fighter, think about two related elements of your character’s background: Where did you get your combat training, and what set you apart from the mundane warriors around you? Were you particularly ruthless? Did you get extra help from a mentor, perhaps because of your exceptional dedication? What drove you to this training in the first place? A threat to your homeland, a thirst for revenge, or a need to prove yourself might all have been factors.</p>
 			<p class="indent">You might have enjoyed formal training in a noble’s army or in a local militia. Perhaps you trained in a war academy, learning strategy, tactics, and military history. Or you might be self-taught—unpolished but well tested. Did you take up the sword as a way to escape the limits of life on a farm, or are you following a proud family tradition? Where did you acquire your weapons and armor? They might have been military issue or family heirlooms, or perhaps you scrimped and saved for years to buy them. Your armaments are now among your most important possessions—the only things that stand between you and death’s embrace.</p>
 			<h5>QUICK BUILD</h5>
 			<p>You can make a fighter quickly by following these suggestions. First, make Strength or Dexterity your highest ability score, depending on whether you want to focus on melee weapons or on archery (or finesse weapons). Your next-highest score should be Constitution. Second, choose the soldier background.</p>
@@ -747,4 +747,4 @@
 			<description>When you use your action to cast a spell, you can make one weapon attack as a bonus action.</description>
 		</sheet>
 	</element>
-</aurorahomebrew>
+</elements>

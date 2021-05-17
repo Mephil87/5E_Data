@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<update version="0.0.2">
-			<file name="sources.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/core/players-handbook/source.xml" />
+			<file name="sources.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/core/players-handbook/source.xml" />
 		</update>
 	</info>
 	<element name="Player’s Handbook" type="Source" source="Core" id="ID_WOTC_SOURCE_PLAYERS_HANDBOOK">
@@ -20,4 +20,4 @@
 			<set name="release">20140819</set>
 		</setters>
 	</element>
-</aurorahomebrew>
+</elements>

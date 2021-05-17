@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Elf</name>
 		<update version="0.2.2">
-			<file name="race-elf.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/core/players-handbook/races/race-elf.xml" />
+			<file name="race-elf.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/core/players-handbook/races/race-elf.xml" />
 		</update>
 	</info>
 
@@ -270,4 +270,4 @@
 			<select type="Proficiency" name="Simple/Martial Weapon or Tool (Drow Weapon Training)" number="3" supports="Weapon||Tool" requirements="ID_WOTC_TCOE_OPTION_CUSTOMIZED_PROFICIENCY" />
 		</rules>
 	</element>
-</aurorahomebrew>
+</elements>

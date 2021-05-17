@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Rogue</name>
 		<update version="0.3.2">
-			<file name="class-rogue.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/core/players-handbook/classes/class-rogue.xml" />
+			<file name="class-rogue.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/core/players-handbook/classes/class-rogue.xml" />
 		</update>
 	</info>
 
@@ -822,4 +822,4 @@
 		</rules>
 	</element>
 
-</aurorahomebrew>
+</elements>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Halfling</name>
 		<description></description>
 		<author url="http://dnd.wizards.com/products/tabletop-games/rpg-products/rpg_playershandbook">Wizards of the Coast</author>
 		<update version="0.1.7">
-			<file name="race-halfling.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/core/players-handbook/races/race-halfling.xml" />
+			<file name="race-halfling.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/core/players-handbook/races/race-halfling.xml" />
 		</update>
 	</info>
 
@@ -166,4 +166,4 @@
 		</rules>
 	</element>
 
-</aurorahomebrew>
+</elements>

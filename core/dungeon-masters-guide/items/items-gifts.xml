@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Supernatural Gifts</name>
 		<update version="0.0.1">
-			<file name="items-gifts.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/core/dungeon-masters-guide/items/items-gifts.xml" />
+			<file name="items-gifts.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/core/dungeon-masters-guide/items/items-gifts.xml" />
 		</update>
 	</info>
 	<element name="Blessing of Health" type="Magic Item" source="Dungeon Master’s Guide" id="ID_WOTC_DMG_MAGIC_ITEM_BLESSING_OF_HEALTH">
@@ -480,4 +480,4 @@
 			<stat name="stealth:misc" value="10" />
 		</rules>
 	</element>
-</aurorahomebrew>
+</elements>

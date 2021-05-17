@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Wands</name>
 		<update version="0.0.5">
-			<file name="items-wands.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/core/dungeon-masters-guide/items/items-wands.xml" />
+			<file name="items-wands.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/core/dungeon-masters-guide/items/items-wands.xml" />
 		</update>
 	</info>
 	
@@ -281,4 +281,4 @@
 			<stat name="spellcasting:attack" value="3" />
 		</rules>
 	</element>
-</aurorahomebrew>
+</elements>
