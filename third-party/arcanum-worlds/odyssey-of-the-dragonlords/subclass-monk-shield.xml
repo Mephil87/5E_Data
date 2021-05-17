@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
     <info>
 		<update version="0.0.1">
-			<file name="subclass-monk-shield.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/arcanum-worlds/odyssey-of-the-dragonlords/subclass-monk-shield.xml" />
+			<file name="subclass-monk-shield.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/arcanum-worlds/odyssey-of-the-dragonlords/subclass-monk-shield.xml" />
 		</update>
 	</info>
     <element name="Way of the Shield" type="Archetype" source="Odyssey of the Dragonlords" id="ID_AW_OOTD_ARCHETYPE_WAY_OF_THE_SHIELD">
@@ -82,4 +82,4 @@
             <description>You have advantage on all attacks made against creatures that are Huge in size or larger. Additionally, you cannot be frightened or paralyzed by spells or abilities used by such creatures.</description>
         </sheet>
     </element>
-</aurorahomebrew>
+</elements>

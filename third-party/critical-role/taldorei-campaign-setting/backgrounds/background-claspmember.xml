@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
     <info>
         <name>Clasp Member</name>
         <description>The Clasp Member background from the Tal’Dorei Campaign Setting.</description>
         <author url="https://geekandsundry.com/shows/critical-role/">Tal’Dorei Campaign Setting</author>
         <update version="0.0.4">
-            <file name="background-claspmember.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/critical-role/taldorei-campaign-setting/backgrounds/background-claspmember.xml" />
+            <file name="background-claspmember.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/critical-role/taldorei-campaign-setting/backgrounds/background-claspmember.xml" />
         </update>
     </info>
     <element name="Clasp Member" type="Background" source="Critical Role: Tal’Dorei Campaign Setting" id="ID_CRIT_TCS_BACKGROUND_CLASP_MEMBER">
@@ -78,4 +78,4 @@
         </description>
         <sheet alt="A Favor In Turn" />
     </element>
-</aurorahomebrew>
+</elements>

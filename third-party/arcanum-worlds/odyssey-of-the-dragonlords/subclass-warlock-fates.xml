@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
   <info>
 		<update version="0.0.1">
-			<file name="subclass-warlock-fates.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/arcanum-worlds/odyssey-of-the-dragonlords/subclass-warlock-fates.xml" />
+			<file name="subclass-warlock-fates.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/arcanum-worlds/odyssey-of-the-dragonlords/subclass-warlock-fates.xml" />
 		</update>
 	</info>
   <element name="The Fates" type="Archetype" source="Odyssey of the Dragonlords" id="ID_AW_OOTD_ARCHETYPE_WARLOCK_FATES">
@@ -94,4 +94,4 @@
       <description action="Action">Force a creature you can see to make a Wisdom saving throw. If the creature is unaware of your presence, then it has disadvantage on the roll. If the creature fails the saving throw, choose another creature that you can see. The first creature is compelled by fate to move toward the second creature for 1 minute. At the beginning of each of the first creature’s turns, if it is not located within 5 feet of the second creature, then the first creature takes 2d10 psychic damage, and it must use its full movement to move closer to the second creature, dashing if necessary, even if it cannot reach them. This effect ends if you or either of the creatures are reduced to 0 hp or knocked unconscious. Once you use this feature, you can’t use it again until you finish a long rest.</description>
     </sheet>
   </element>
-</aurorahomebrew>
+</elements>

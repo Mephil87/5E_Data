@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
   <info>
 		<update version="0.0.1">
-			<file name="subclass-cleric-prophecy.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/arcanum-worlds/odyssey-of-the-dragonlords/subclass-cleric-prophecy.xml" />
+			<file name="subclass-cleric-prophecy.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/arcanum-worlds/odyssey-of-the-dragonlords/subclass-cleric-prophecy.xml" />
 		</update>
 	</info>
   <element name="Prophecy Domain" type="Archetype" source="Odyssey of the Dragonlords" id="ID_AW_OOTD_ARCHETYPE_CLERIC_PROPHECY_DOMAIN">
@@ -121,4 +121,4 @@
       <description>When you enter a prophetic trance with Channel Divinity, you may choose to replace the result of either d20 prophecy roll with any number between 1 and 19 of your choice. Additionally, while you are in the trance, you gain darkvision out to a range of 60 feet, and you can see invisible creatures and objectives within 10 feet of you that are within line of sight.</description>
     </sheet>
   </element>
-</aurorahomebrew>
+</elements>

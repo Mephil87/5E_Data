@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<aurorahomebrew>
+<elements>
   <info>
 		<update version="0.0.1">
-			<file name="race-thyleanminotaur.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/arcanum-worlds/odyssey-of-the-dragonlords/race-thyleanminotaur.xml" />
+			<file name="race-thyleanminotaur.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/arcanum-worlds/odyssey-of-the-dragonlords/race-thyleanminotaur.xml" />
 		</update>
 	</info>
   <element name="Thylean Minotaur" type="Race" source="Odyssey of the Dragonlords" id="ID_AW_OOTD_RACE_THYLEAN_MINOTAUR">
@@ -96,4 +96,4 @@
       <description level="9">Transform yourself into a <b>dire bull</b> using the rules of the <i>polymorph</i> spell (no concentration required). This ability automatically triggers if you suffer prolonged exposure to very bright shades of red.</description>
     </sheet>
   </element>
-</aurorahomebrew>
+</elements>

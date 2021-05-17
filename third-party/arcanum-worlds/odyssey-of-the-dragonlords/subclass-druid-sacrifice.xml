@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
   <info>
 		<update version="0.0.1">
-			<file name="subclass-druid-sacrifice.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/arcanum-worlds/odyssey-of-the-dragonlords/subclass-druid-sacrifice.xml" />
+			<file name="subclass-druid-sacrifice.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/arcanum-worlds/odyssey-of-the-dragonlords/subclass-druid-sacrifice.xml" />
 		</update>
 	</info>
   <element name="Circle of Sacrifice" type="Archetype" source="Odyssey of the Dragonlords" id="ID_AW_OOTD_ARCHETYPE_DRUID_SACRIFICE">
@@ -107,4 +107,4 @@
       <grant type="Spell" id="ID_PHB_SPELL_TELEPORTATION_CIRCLE" spellcasting="Druid" prepared="true" />
     </rules>
   </element>
-</aurorahomebrew>
+</elements>

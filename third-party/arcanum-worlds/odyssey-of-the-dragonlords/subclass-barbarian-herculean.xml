@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
   <info>
 		<update version="0.0.1">
-			<file name="subclass-barbarian-herculean.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/arcanum-worlds/odyssey-of-the-dragonlords/subclass-barbarian-herculean.xml" />
+			<file name="subclass-barbarian-herculean.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/arcanum-worlds/odyssey-of-the-dragonlords/subclass-barbarian-herculean.xml" />
 		</update>
 	</info>
   <element name="Herculean Path" type="Archetype" source="Odyssey of the Dragonlords" id="ID_AW_OOTD_ARCHETYPE_BARBARIAN_HERCULEAN_PATH">
@@ -88,4 +88,4 @@
       <stat name="earthshaker:dc" value="proficiency" />
     </rules>
   </element>
-</aurorahomebrew>
+</elements>

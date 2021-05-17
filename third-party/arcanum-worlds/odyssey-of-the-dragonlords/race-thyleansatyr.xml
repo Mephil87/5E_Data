@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<aurorahomebrew>
+<elements>
   <info>
 		<update version="0.0.1">
-			<file name="race-thyleansatyr.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/arcanum-worlds/odyssey-of-the-dragonlords/race-thyleansatyr.xml" />
+			<file name="race-thyleansatyr.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/arcanum-worlds/odyssey-of-the-dragonlords/race-thyleansatyr.xml" />
 		</update>
 	</info>
   <element name="Thylean Satyr" type="Race" source="Odyssey of the Dragonlords" id="ID_AW_OOTD_RACE_THYLEAN_SATYR">
@@ -97,4 +97,4 @@
       <grant type="Spell" id="ID_PHB_SPELL_SUGGESTION" level="5" />
     </rules>
   </element>
-</aurorahomebrew>
+</elements>

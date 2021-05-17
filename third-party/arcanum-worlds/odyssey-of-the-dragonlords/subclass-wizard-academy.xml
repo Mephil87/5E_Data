@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
     <info>
 		<update version="0.0.1">
-			<file name="subclass-wizard-academy.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/arcanum-worlds/odyssey-of-the-dragonlords/subclass-wizard-academy.xml" />
+			<file name="subclass-wizard-academy.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/arcanum-worlds/odyssey-of-the-dragonlords/subclass-wizard-academy.xml" />
 		</update>
 	</info>
 	<element name="Academy Philosopher" type="Archetype" source="Odyssey of the Dragonlords" id="ID_AW_OOTD_ARCHETYPE_WIZARD_ACADEMY">
@@ -153,4 +153,4 @@
             <description>You have advantage on ability checks to detect visual illusions and on saving throws against effects imposed by them. You also have advantage on saving throws against spells and effects that would charm you.</description>
         </sheet>
     </element>
-</aurorahomebrew>
+</elements>

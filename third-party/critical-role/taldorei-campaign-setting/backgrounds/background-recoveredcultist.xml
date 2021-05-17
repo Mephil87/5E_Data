@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
     <info>
         <name>Recovered Cultist</name>
         <description>The Recovered Cultist background from the Tal’Dorei Campaign Setting.</description>
         <author url="https://geekandsundry.com/shows/critical-role/">Tal’Dorei Campaign Setting</author>
         <update version="0.0.4">
-            <file name="background-recoveredcultist.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/critical-role/taldorei-campaign-setting/backgrounds/background-recoveredcultist.xml" />
+            <file name="background-recoveredcultist.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/critical-role/taldorei-campaign-setting/backgrounds/background-recoveredcultist.xml" />
         </update>
     </info>
     <element name="Recovered Cultist" type="Background" source="Critical Role: Tal’Dorei Campaign Setting" id="ID_CRIT_TCS_BACKGROUND_RECOVERED_CULTIST">
@@ -73,4 +73,4 @@
         </description>
         <sheet alt="Wicked Awareness" />
     </element>
-</aurorahomebrew>
+</elements>

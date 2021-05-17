@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
     <info>
         <name>Order of the Lycan</name>
         <description>The Order of the Lycan archetype for the Blood Hunter class.</description>
         <author url="http://www.dmsguild.com/product/175606/Order-of-the-Lycan-for-Blood-Hunters">Matthew Mercer</author>
         <update version="0.1.5">
-            <file name="bloodhunter-orderofthelycan.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/critical-role/classes/bloodhunter-orderofthelycan.xml" />
+            <file name="bloodhunter-orderofthelycan.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/critical-role/classes/bloodhunter-orderofthelycan.xml" />
         </update>
     </info>
     <element name="Order of the Lycan" type="Archetype" source="Critical Role" id="ID_CRIT_ARCHETYPE_BLOOD_HUNTER_ORDER_OF_THE_LYCAN">
@@ -253,4 +253,4 @@
             <stat name="blood curse howl:dc" value="wisdom:modifier" />
         </rules>
     </element>
-</aurorahomebrew>
+</elements>

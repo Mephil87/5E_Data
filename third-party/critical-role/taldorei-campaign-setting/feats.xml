@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
     <info>
         <name>Feats</name>
         <description>The Feats from Tal’Dorei Campaign Setting.</description>
         <author url="https://geekandsundry.com/shows/critical-role/">Tal’Dorei Campaign Setting</author>
         <update version="0.0.5">
-            <file name="feats.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/critical-role/taldorei-campaign-setting/feats.xml" />
+            <file name="feats.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/critical-role/taldorei-campaign-setting/feats.xml" />
         </update>
     </info>
     <element name="Cruel" type="Feat" source="Critical Role: Tal’Dorei Campaign Setting" id="ID_CRIT_TCS_FEAT_CRUEL">
@@ -135,4 +135,4 @@
             <select type="Ability Score Improvement" name="Ability Score Improvement (Thrown Arms Master)" supports="ID_PHB_FEAT_ASI_STRENGTH|ID_PHB_FEAT_ASI_DEXTERITY" />
         </rules>
     </element>
-</aurorahomebrew>
+</elements>

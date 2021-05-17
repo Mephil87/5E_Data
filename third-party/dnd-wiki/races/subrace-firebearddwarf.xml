@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
     <info>
         <update version="0.0.4">
-            <file name="subrace-firebearddwarf.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/dnd-wiki/races/subrace-firebearddwarf.xml" />
+            <file name="subrace-firebearddwarf.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/dnd-wiki/races/subrace-firebearddwarf.xml" />
         </update>
     </info>
 
-	<!-- content moved: https://github.com/community-aurorahomebrew/aurorahomebrew-dndwiki -->
+	<!-- content moved: https://github.com/community-elements/elements-dndwiki -->
 
-</aurorahomebrew>
+</elements>

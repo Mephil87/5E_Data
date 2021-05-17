@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
   <info>
 		<update version="0.0.1">
-			<file name="subclass-bard-epicpoetry.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/arcanum-worlds/odyssey-of-the-dragonlords/subclass-bard-epicpoetry.xml" />
+			<file name="subclass-bard-epicpoetry.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/arcanum-worlds/odyssey-of-the-dragonlords/subclass-bard-epicpoetry.xml" />
 		</update>
 	</info>
   <element name="College of Epic Poetry" type="Archetype" source="Odyssey of the Dragonlords" id="ID_AW_OOTD_ARCHETYPE_BARD_COLLEGE_OF_EPIC_POETRY">
@@ -506,4 +506,4 @@
       <set name="stackable">true</set>
     </setters>
   </element>
-</aurorahomebrew>
+</elements>

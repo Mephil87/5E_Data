@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
     <info>
         <name>Blood Domain</name>
         <description>The Blood Domain archetype from the Tal’Dorei Campaign Setting.</description>
         <author url="https://geekandsundry.com/shows/critical-role/">Tal’Dorei Campaign Setting</author>
         <update version="0.0.4">
-            <file name="cleric-blooddomain.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/critical-role/taldorei-campaign-setting/archetypes/cleric-blooddomain.xml" />
+            <file name="cleric-blooddomain.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/critical-role/taldorei-campaign-setting/archetypes/cleric-blooddomain.xml" />
         </update>
     </info>
     <element name="Blood Domain" type="Archetype" source="Critical Role: Tal’Dorei Campaign Setting" id="ID_CRIT_TCS_ARCHETYPE_CLERIC_BLOOD_DOMAIN">
@@ -121,4 +121,4 @@
             <description>Aura 30ft. For 1 minute, any enemy creatures with blood that begin their turn within the aura or enter it for the first time on their turn immediately suffer 2d6 necrotic damage. Any enemy creature with blood that would regain hit points while within the aura only regains half of the intended number of hit points (rounded up).</description>
         </sheet>
     </element>
-</aurorahomebrew>
+</elements>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
     <info>
         <name>Blood Hunter</name>
         <description>The Blood Hunter class (v2.0).</description>
         <author url="http://www.dmsguild.com/product/170777/Blood-Hunter-Class">Matthew Mercer</author>
         <update version="0.1.9">
-            <file name="class-bloodhunter.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/critical-role/classes/class-bloodhunter.xml" />
+            <file name="class-bloodhunter.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/critical-role/classes/class-bloodhunter.xml" />
         </update>
     </info>
     <element name="Blood Hunter" type="Class" source="Critical Role" id="ID_CRIT_CLASS_BLOOD_HUNTER">
@@ -14,7 +14,7 @@
             <p class="indent">Some, however, are so fanatical and bent on destroying the anethema that plagues the countryside that they embrace dark, forbidden knowledge. They sacrifice some of their own vital force in dubious, forgotten blood rituals to better understand their enemies. Their methods sometimes blur the line between themselves and the evils they hunt, calling their own humanity into question.</p>
             <p class="indent">These folk are called ‘Blood Hunters’.</p>
             <h4>BECOME THE ENEMY TO UNDERSTAND THE ENEMY</h4>
-            <p>These warriors have chosen to merge the martial pursuit of deadly weapon paly with aurorahomebrew of vicious blood magic to create impressively effective combat techniques. They surrender their own vitality to form a bond with their weapon, allowing them to harness the aurorahomebrew in a whirlwind of dangerous strikes. Their deep knowledge and unnatural connection with wicked creatures allows them an advantage in tracking, hunting, and destroying even the most resilient of abhorrent fiends. By mastering control over their own lifeblood and the lifeblood of others, they gain insight into their foes and the ability to manipulate them from the inside. Some brew crude, poisonous alchemical tonics from the harvested organs of felled monsters, mutating their blood and bodies to be even further in tune with their quarry, becoming something other than human themselves. Others go further, reaching out and making a pact with lesser dark entities in hopes of using their grim gifts against greaters evils. Many blood hunters push too far for their goals, falling to their own hubris and becoming the monsters they’ve chosen to hunt. This is the greatest feat of a blood hunter, and of the societies at large that shun them.</p>
+            <p>These warriors have chosen to merge the martial pursuit of deadly weapon paly with elements of vicious blood magic to create impressively effective combat techniques. They surrender their own vitality to form a bond with their weapon, allowing them to harness the elements in a whirlwind of dangerous strikes. Their deep knowledge and unnatural connection with wicked creatures allows them an advantage in tracking, hunting, and destroying even the most resilient of abhorrent fiends. By mastering control over their own lifeblood and the lifeblood of others, they gain insight into their foes and the ability to manipulate them from the inside. Some brew crude, poisonous alchemical tonics from the harvested organs of felled monsters, mutating their blood and bodies to be even further in tune with their quarry, becoming something other than human themselves. Others go further, reaching out and making a pact with lesser dark entities in hopes of using their grim gifts against greaters evils. Many blood hunters push too far for their goals, falling to their own hubris and becoming the monsters they’ve chosen to hunt. This is the greatest feat of a blood hunter, and of the societies at large that shun them.</p>
             <h4>ALMOST AS FEARED AS THEIR PREY</h4>
             <p>The nature of their abilities and training has bred many rumors across the lands, some of which aren’t too far from the truth. Common folk consider them cursed, often turning them away at the door. Nobles see them as occasionally convenient, but a generally reviled nuisance. Mages find them useful allies if kept at arm’s length, while pious clerics and paladins keep their distance with a watchful eye. To be a blood hunter is to accept a life of solitude until proven trustworthy and dependable.</p>
             <h4>CREATING A BLOOD HUNTER</h4>
@@ -1036,7 +1036,7 @@
             <description>Your body has begun producing one of your toxins naturally. Choose one of your known mutagen formulas. You gain the benefits and side effects of this mutagen permanently, at all times. You cannot change this choice of formula after this feature is aqcuired.</description>
         </sheet>
         <rules>
-            <!-- todo: implement a 'from existing' selection from existing aurorahomebrew existing="true" -->
+            <!-- todo: implement a 'from existing' selection from existing elements existing="true" -->
             <!-- <select type="Archetype Feature" name="Exalted Mutation" supports="Mutagen Formula" existing="true" /> -->
         </rules>
     </element>
@@ -1249,4 +1249,4 @@
         </rules>
     </element>
     <!-- /Mutagens -->
-</aurorahomebrew>
+</elements>

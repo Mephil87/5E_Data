@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
     <info>
 		<update version="0.0.1">
-			<file name="subclass-ranger-amazonian.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/arcanum-worlds/odyssey-of-the-dragonlords/subclass-ranger-amazonian.xml" />
+			<file name="subclass-ranger-amazonian.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/arcanum-worlds/odyssey-of-the-dragonlords/subclass-ranger-amazonian.xml" />
 		</update>
 	</info>
     <element name="Amazonian" type="Archetype" source="Odyssey of the Dragonlords" id="ID_AW_OOTD_ARCHETYPE_RANGER_AMAZONIAN">
@@ -244,4 +244,4 @@
             <stat name="stimfay:attackbonus" value="proficiency" />
         </rules>-->
 	</element>
-</aurorahomebrew>
+</elements>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Path of the Juggernaut</name>
 		<description>The Path of the Juggernaut archetype from the Tal’Dorei Campaign Setting.</description>
 		<author url="https://geekandsundry.com/shows/critical-role/">Tal’Dorei Campaign Setting</author>
 		<update version="0.0.3">
-			<file name="barbarian-juggernaut.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/critical-role/classes/barbarian-juggernaut.xml" />
+			<file name="barbarian-juggernaut.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/critical-role/classes/barbarian-juggernaut.xml" />
 		</update>
 	</info>
 	
@@ -75,4 +75,4 @@
 			<description>While raging, your speed cannot be reduced, and you are immune to the frightened, paralyzed, and stunned conditions.</description>
 		</sheet>
 	</element>
-</aurorahomebrew>
+</elements>

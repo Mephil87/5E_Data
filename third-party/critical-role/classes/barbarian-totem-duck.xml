@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Totem of The Duck</name>
 		<description>Inspired by the creative inquiries of actor Jon Heder in the development of the majestic Half-Ore Barbarian Lionel Gayheart, you too can now harness this unstoppable source of power. Quack quack, motherfucker.</description>
 		<author url="https://www.dmsguild.com/product/239392/Totem-of-the-Duck--Option-for-Totem-Warrior-Barbarians">Matthew Mercer</author>
 		<update version="0.0.4">
-			<file name="barbarian-totem-duck.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/critical-role/classes/barbarian-totem-duck.xml" />
+			<file name="barbarian-totem-duck.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/critical-role/classes/barbarian-totem-duck.xml" />
 		</update>
 	</info>
 
@@ -48,4 +48,4 @@
 			<stat name="flapflap:dc" value="wisdom:modifier" />
 		</rules>
 	</element>
-</aurorahomebrew>
+</elements>

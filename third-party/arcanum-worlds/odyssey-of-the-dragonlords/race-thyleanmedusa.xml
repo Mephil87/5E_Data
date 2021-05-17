@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<aurorahomebrew>
+<elements>
   <info>
 		<update version="0.0.1">
-			<file name="race-thyleanmedusa.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/arcanum-worlds/odyssey-of-the-dragonlords/race-thyleanmedusa.xml" />
+			<file name="race-thyleanmedusa.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/arcanum-worlds/odyssey-of-the-dragonlords/race-thyleanmedusa.xml" />
 		</update>
 	</info>
   <element name="Thylean Medusa" type="Race" source="Odyssey of the Dragonlords" id="ID_AW_OOTD_RACE_THYLEAN_MEDUSA">
@@ -105,4 +105,4 @@
       </description>
     </sheet>
   </element>
-</aurorahomebrew>
+</elements>
