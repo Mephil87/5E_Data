@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Oath of Providence</name>
 		<update version="0.0.1">
-			<file name="paladin-providence.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/dms-guild/xanathars-lost-notes-to-everything-else/archetypes/paladin-providence.xml" />
+			<file name="paladin-providence.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/dms-guild/xanathars-lost-notes-to-everything-else/archetypes/paladin-providence.xml" />
 		</update>
 	</info>
 	
@@ -124,4 +124,4 @@
 			<description>For 1 minute, an argent glow shines dim light from you in 30- foot radius. Whenever an enemy creature starts its turn in your glow, it has disadvantage on attacks and saving throws, while you and friendly creatures have advantage on attack rolls and saving throws. As the glow fades away, you regain all expended uses of Channel Divinity, Favor the Bold, and your Gift of Foresight features.</description>
 		</sheet>
 	</element>	
-</aurorahomebrew>
+</elements>

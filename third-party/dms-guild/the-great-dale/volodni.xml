@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<update version="0.0.1">
-			<file name="volodni.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/dms-guild/the-great-dale/volodni.xml" />
+			<file name="volodni.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/dms-guild/the-great-dale/volodni.xml" />
 		</update>
 	</info>
 	<element name="Volodni" type="Race" source="The Great Dale" id="ID_DMSG_TGD_RACE_VOLODNI">
@@ -107,4 +107,4 @@
 			<description>You know one cantrip of your choice from the druid spell list. Wisdom is your spellcasting ability for it.</description>
 		</sheet>
 	</element>	
-</aurorahomebrew>
+</elements>

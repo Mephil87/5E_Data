@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>House Agent Background</name>
 		<update version="0.0.3">
-			<file name="background-houseagent.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/dms-guild/wayfinders-guide-to-eberron/backgrounds/background-houseagent.xml" />
+			<file name="background-houseagent.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/dms-guild/wayfinders-guide-to-eberron/backgrounds/background-houseagent.xml" />
 		</update>
 	</info>
 
@@ -250,4 +250,4 @@
 			<grant type="Proficiency" id="ID_PROFICIENCY_TOOL_PROFICIENCY_HERBALISM_KIT" />
 		</rules>
 	</element>
-</aurorahomebrew>
+</elements>

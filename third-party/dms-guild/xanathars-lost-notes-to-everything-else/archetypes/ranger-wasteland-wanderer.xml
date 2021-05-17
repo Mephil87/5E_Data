@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Wasteland Wanderer</name>
 		<update version="0.0.1">
-			<file name="ranger-wasteland-wanderer.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/dms-guild/xanathars-lost-notes-to-everything-else/archetypes/ranger-wasteland-wanderer.xml" />
+			<file name="ranger-wasteland-wanderer.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/dms-guild/xanathars-lost-notes-to-everything-else/archetypes/ranger-wasteland-wanderer.xml" />
 		</update>
 	</info>
 	
@@ -104,4 +104,4 @@
 			<stat name="safety in numbers:usage" value="wisdom:modifier" bonus="minimum" />
 		</rules>
 	</element>
-</aurorahomebrew>
+</elements>

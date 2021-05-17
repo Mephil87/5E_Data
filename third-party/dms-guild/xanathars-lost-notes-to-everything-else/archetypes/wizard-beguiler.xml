@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Beguiler</name>
 		<update version="0.0.2">
-			<file name="wizard-beguiler.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/dms-guild/xanathars-lost-notes-to-everything-else/archetypes/wizard-beguiler.xml" />
+			<file name="wizard-beguiler.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/dms-guild/xanathars-lost-notes-to-everything-else/archetypes/wizard-beguiler.xml" />
 		</update>
 	</info>
 	
@@ -88,4 +88,4 @@
 			In addition, when you are concentrating on an enchantment or illusion spell that affects one creature and that creature dies or falls unconscious, you can use your reaction to target a new creature with the spell for the remainder of its duration, until you lose concentration, or become incapacitated by any means. If the spell requires the target to make saving throw, the new target attempts the saving throw before the spell’s conditions take effect.</description>
 		</sheet>
 	</element>	
-</aurorahomebrew>
+</elements>

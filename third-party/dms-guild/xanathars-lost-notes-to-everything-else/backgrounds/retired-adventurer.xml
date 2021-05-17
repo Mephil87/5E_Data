@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Retired Adventurer Background</name>
 		<update version="0.0.3">
-			<file name="retired-adventurer.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/dms-guild/xanathars-lost-notes-to-everything-else/backgrounds/retired-adventurer.xml" />
+			<file name="retired-adventurer.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/dms-guild/xanathars-lost-notes-to-everything-else/backgrounds/retired-adventurer.xml" />
 		</update>
 	</info>
 	
@@ -75,4 +75,4 @@
 		</description>
 		<sheet alt="C-List Celebrity" />
 	</element>	
-</aurorahomebrew>
+</elements>

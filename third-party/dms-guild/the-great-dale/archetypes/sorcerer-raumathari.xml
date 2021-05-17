@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<update version="0.0.1">
-			<file name="sorcerer-raumathari.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/dms-guild/the-great-dale/archetypes/sorcerer-raumathari.xml" />
+			<file name="sorcerer-raumathari.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/dms-guild/the-great-dale/archetypes/sorcerer-raumathari.xml" />
 		</update>
 	</info>
 	<element name="Raumathari Battlemage" type="Archetype" source="The Great Dale" id="ID_DMSG_TGD_ARCHETYPE_RAUMATHARI_BATTLEMAGE">
@@ -82,4 +82,4 @@
 			<description>When you hit a creature with your bonded weapon, you can spend 6 sorcery points to weaken the creature’s resistance against your spells. If you do, the next time you damage that creature with a spell, the creature has vulnerability to all of that spell’s damage.</description>
 		</sheet>
 	</element>	
-</aurorahomebrew>
+</elements>

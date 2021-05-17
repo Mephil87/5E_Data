@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Path of the Red Reaver</name>
 		<update version="0.0.1">
-			<file name="barbarian-red-reaver.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/dms-guild/xanathars-lost-notes-to-everything-else/archetypes/barbarian-red-reaver.xml" />
+			<file name="barbarian-red-reaver.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/dms-guild/xanathars-lost-notes-to-everything-else/archetypes/barbarian-red-reaver.xml" />
 		</update>
 	</info>
 	
@@ -94,4 +94,4 @@
 			If you already score a critical hit on a roll lower than 20 due to other class features or effects, this feature allows you to expand your critical range even further.</description>
 		</sheet>
 	</element>
-</aurorahomebrew>
+</elements>

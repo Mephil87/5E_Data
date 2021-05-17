@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<update version="0.0.1">
-			<file name="items.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/dms-guild/the-great-dale/items.xml" />
+			<file name="items.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/dms-guild/the-great-dale/items.xml" />
 		</update>
 	</info>	
 	<element name="Bluewood" type="Item" source="The Great Dale" id="ID_DMSG_TGD_ITEM_BLUEWOOD">
@@ -235,4 +235,4 @@
 			<set name="rarity">Uncommon</set>
 		</setters>
 	</element>	
-</aurorahomebrew>
+</elements>

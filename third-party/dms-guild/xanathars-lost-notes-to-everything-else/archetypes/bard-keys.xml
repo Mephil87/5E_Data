@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>College of Keys</name>
 		<update version="0.0.1">
-			<file name="bard-keys.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/dms-guild/xanathars-lost-notes-to-everything-else/archetypes/bard-keys.xml" />
+			<file name="bard-keys.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/dms-guild/xanathars-lost-notes-to-everything-else/archetypes/bard-keys.xml" />
 		</update>
 	</info>
 	
@@ -84,4 +84,4 @@
 			<description>As an action, you can expend one use of your Bardic Inspiration to strike a frequency that suspends the magical and mechanical enhancements locks, traps, and wards within a 30-foot radius of you. Once you use this feature, roll a Bardic Inspiration die. The number rounds these impediments are suspended is equal to the result.</description>
 		</sheet>
 	</element>	
-</aurorahomebrew>
+</elements>

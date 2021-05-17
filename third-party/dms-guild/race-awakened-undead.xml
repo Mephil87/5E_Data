@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
     <info>
         <name>Awakened Undead</name>
         <description>Awakened Undead Race from DM's Guild.</description>
         <author url="https://www.dmsguild.com/browse.php?author=Walrock%20Homebrew">Walrock Homebrew</author>
         <update version="0.0.5">
-            <file name="race-awakened-undead.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/dms-guild/race-awakened-undead.xml" />
+            <file name="race-awakened-undead.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/dms-guild/race-awakened-undead.xml" />
         </update>
     </info>
 		
@@ -1082,4 +1082,4 @@
         </setters>
     </element>
 
-</aurorahomebrew>
+</elements>

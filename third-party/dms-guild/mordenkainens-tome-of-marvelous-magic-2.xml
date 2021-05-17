@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Mordenkainen’s Tome of Marvelous Magic II</name>
 		<update version="0.0.1">
-			<file name="mordenkainens-tome-of-marvelous-magic-2.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/dms-guild/mordenkainens-tome-of-marvelous-magic-2.xml" />
+			<file name="mordenkainens-tome-of-marvelous-magic-2.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/dms-guild/mordenkainens-tome-of-marvelous-magic-2.xml" />
 		</update>
 	</info>
 
@@ -303,9 +303,9 @@
 	</element>
 	<element name="Lightning Rod" type="Magic Item" source="Mordenkainen’s Tome of Marvelous Magic II" id="ID_DMSG_MTMM2_MAGIC_ITEM_LIGHTNING_ROD">
 		<description>
-			<p>This plain shaft of black wrought iron bristles with static electricity. While holding this rod, you have resistance to lightning damage, and you can use a reaction to cast the 3rd-level version of the absorb aurorahomebrew spell from it.</p>
+			<p>This plain shaft of black wrought iron bristles with static electricity. While holding this rod, you have resistance to lightning damage, and you can use a reaction to cast the 3rd-level version of the absorb elements spell from it.</p>
 			<div class="reference">
-				<div element="ID_XGTE_SPELL_ABSORB_aurorahomebrew" />
+				<div element="ID_XGTE_SPELL_ABSORB_ELEMENTS" />
 			</div>
 		</description>
 		<setters>
@@ -1942,9 +1942,9 @@
 	</element>
 	<element name="Staff of Gathering" type="Magic Item" source="Mordenkainen’s Tome of Marvelous Magic II" id="ID_DMSG_MTMM2_MAGIC_ITEM_STAFF_OF_GATHERING">
 		<description>
-			<p>This dark wooden staff is topped by a glass sphere filled with smoke. This staff can be wielded as a magic quarterstaff that grants a +1 bonus to attack and damage rolls made with it. This staff has 3 charges and regains 1d3 expended charges daily at dawn. While holding the staff, you can use a reaction to expend 1 charge to cast the absorb aurorahomebrew spell from it.</p>
+			<p>This dark wooden staff is topped by a glass sphere filled with smoke. This staff can be wielded as a magic quarterstaff that grants a +1 bonus to attack and damage rolls made with it. This staff has 3 charges and regains 1d3 expended charges daily at dawn. While holding the staff, you can use a reaction to expend 1 charge to cast the absorb elements spell from it.</p>
 			<div class="reference">
-				<div element="ID_XGTE_SPELL_ABSORB_aurorahomebrew" />
+				<div element="ID_XGTE_SPELL_ABSORB_ELEMENTS" />
 			</div>
 		</description>
 		<setters>
@@ -2597,4 +2597,4 @@
 			<stat name="darkvision:range" value="darkvision:increase" bonus="increase" requirements="!ID_DMSG_MTMM2_GRANTS_DARKVISION_INCREASE_60_DARKVISION" />
 		</rules>
 	</element>
-</aurorahomebrew>
+</elements>

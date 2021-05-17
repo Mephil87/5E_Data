@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Treasures of the Deep</name>
 		<update version="0.0.2">
-			<file name="treasures-of-the-deep.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/treasures-of-the-deep.xml" />
+			<file name="treasures-of-the-deep.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/treasures-of-the-deep.xml" />
 		</update>
 	</info>
 
@@ -400,4 +400,4 @@
 			<grant type="Proficiency" id="ID_PROFICIENCY_TOOL_PROFICIENCY_NAVIGATORS_TOOLS" />
 		</rules>
 	</element>
-</aurorahomebrew>
+</elements>

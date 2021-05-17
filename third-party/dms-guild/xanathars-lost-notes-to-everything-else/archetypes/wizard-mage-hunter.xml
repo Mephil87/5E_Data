@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Mage Hunter</name>
 		<update version="0.0.1">
-			<file name="wizard-mage-hunter.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/dms-guild/xanathars-lost-notes-to-everything-else/archetypes/wizard-mage-hunter.xml" />
+			<file name="wizard-mage-hunter.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/dms-guild/xanathars-lost-notes-to-everything-else/archetypes/wizard-mage-hunter.xml" />
 		</update>
 	</info>
 	
@@ -111,4 +111,4 @@
 			<description>Your Arcana skill proficiency is doubled with checks made to identify persistent magic, magical items, or the presence of magical and otherworldly creatures.</description>
 		</sheet>
 	</element>	
-</aurorahomebrew>
+</elements>

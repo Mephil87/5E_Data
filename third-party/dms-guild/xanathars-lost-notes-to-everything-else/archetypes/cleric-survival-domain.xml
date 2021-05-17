@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Survival Domain</name>
 		<update version="0.0.1">
-			<file name="cleric-survival-domain.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/dms-guild/xanathars-lost-notes-to-everything-else/archetypes/cleric-survival-domain.xml" />
+			<file name="cleric-survival-domain.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/dms-guild/xanathars-lost-notes-to-everything-else/archetypes/cleric-survival-domain.xml" />
 		</update>
 	</info>
 	
@@ -124,4 +124,4 @@
 			<description>You can use a bonus action to make one allied creature who you can see immune to damage for a short time. The chosen creature is immune to all damage until the start of your next turn.</description>
 		</sheet>
 	</element>	
-</aurorahomebrew>
+</elements>

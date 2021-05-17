@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Warforged</name>
 		<description></description>
 		<author url="https://www.dmsguild.com/product/247882/Wayfinders-Guide-to-Eberron-5e">Wizards of the Coast</author>
 		<update version="0.0.8">
-			<file name="race-warforged.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/dms-guild/wayfinders-guide-to-eberron/races/race-warforged.xml" />
+			<file name="race-warforged.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/dms-guild/wayfinders-guide-to-eberron/races/race-warforged.xml" />
 		</update>
 	</info>
 
@@ -17,7 +17,7 @@
 			<p style="text-align: right">— Keith Baker, <i>The Shattered Land</i></p>
 			<p>The warforged were built to fight in the Last War. The first warforged were mindless automatons, but House Cannith devoted vast resources to improving these steel soldiers. An unexpected breakthrough produced fully sentient soldiers, blending organic and inorganic materials. Warforged are made from wood and metal, but they can feel pain and emotion. Built as weapons, they must now find a purpose beyond the war. A warforged can be a steadfast ally, a cold-hearted killing machine, or a visionary in search of purpose and meaning.</p>
 			<h4>LIVING STEEL AND STONE</h4>
-			<p>Warforged are formed from a blend of organic and inorganic materials. Root-like cords infused with alchemical fluids serve as their muscles, wrapped around a framework of steel, darkwood or stone. Armored plates form a protective outer shell and reinforce joints. All warforged share a common facial design, with a hinged jaw and crystal eyes embedded beneath a reinforced brow ridge. A sigil is engraved into the center of the forehead; this is unique to each warforged. Beyond these common aurorahomebrew of warforged design, the precise materials and build of a warforged vary based on the purpose for which it was designed. A juggernaut warrior is a massive brute with a heavy steel frame, while a skirmisher can be crafted from wood and light mithral to grant it lithe and elegant movement.</p>
+			<p>Warforged are formed from a blend of organic and inorganic materials. Root-like cords infused with alchemical fluids serve as their muscles, wrapped around a framework of steel, darkwood or stone. Armored plates form a protective outer shell and reinforce joints. All warforged share a common facial design, with a hinged jaw and crystal eyes embedded beneath a reinforced brow ridge. A sigil is engraved into the center of the forehead; this is unique to each warforged. Beyond these common elements of warforged design, the precise materials and build of a warforged vary based on the purpose for which it was designed. A juggernaut warrior is a massive brute with a heavy steel frame, while a skirmisher can be crafted from wood and light mithral to grant it lithe and elegant movement.</p>
 			<p class="indent">While they’re formed from stone and steel, warforged are living humanoids. Resting, healing magic, and the Medicine skill all provide the same benefits to warforged that they do to other humanoids. A warforged can focus its mind on its body as it rests, adjusting its shape and form to assume one of a few defensive postures. A warforged who expects heavy combat might focus on durability, while during a time of peace they might be content to adopt a lighter, less aggressive form.</p>
 			<h4>WARFORGED PERSONALITY</h4>
 			<p>The warforged were built to serve and to fight. For most of their existence, warforged had a clearly defined funtion and were encouraged to focus purely on that role. The Treaty of Thronehold gave them freedom, but many warforged struggle both to find a place in the post-war world and to relate to the creatures that created them.</p>
@@ -227,10 +227,10 @@
 			<description>A tool you’re proficienct with is integrated into your body, and you double your proficiency bonus for any ability checks you make with it. You must have your hands free to use this integrated tool.</description>
 		</sheet>
 		<rules>
-			<!-- todo: select from existing tools much like skill expertise, but skill expertise has class feature aurorahomebrew for each skill -->
+			<!-- todo: select from existing tools much like skill expertise, but skill expertise has class feature elements for each skill -->
 			<!-- <select type="Proficiency" name="Integrated Tool" supports="Tool" existing="true" /> -->
 			
-			<!-- generate expertise aurorahomebrew automatically for each tool proficiency instead? -->
+			<!-- generate expertise elements automatically for each tool proficiency instead? -->
 		</rules>
 	</element>
 
@@ -381,4 +381,4 @@
 			<stat name="charisma" value="1" alt="Envoy Warforged" />
 		</rules>
 	</element>
-</aurorahomebrew>
+</elements>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Legendary Lineage Background</name>
 		<update version="0.0.3">
-			<file name="legendary-lineage.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/dms-guild/xanathars-lost-notes-to-everything-else/backgrounds/legendary-lineage.xml" />
+			<file name="legendary-lineage.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/dms-guild/xanathars-lost-notes-to-everything-else/backgrounds/legendary-lineage.xml" />
 		</update>
 	</info>
 	
@@ -72,4 +72,4 @@
 		</description>
 		<sheet alt="Good Reputation" />
 	</element>
-</aurorahomebrew>
+</elements>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Oath of Predation</name>
 		<update version="0.0.1">
-			<file name="paladin-predation.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/dms-guild/xanathars-lost-notes-to-everything-else/archetypes/paladin-predation.xml" />
+			<file name="paladin-predation.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/dms-guild/xanathars-lost-notes-to-everything-else/archetypes/paladin-predation.xml" />
 		</update>
 	</info>
 	
@@ -184,4 +184,4 @@
 			<stat name="hand of manipulation:damage" value="charisma:modifier" bonus="base" />
 		</rules>
 	</element>
-</aurorahomebrew>
+</elements>

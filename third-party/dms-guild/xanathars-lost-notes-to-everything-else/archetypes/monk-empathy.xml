@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Way of Empathy</name>
 		<update version="0.0.1">
-			<file name="monk-empathy.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/dms-guild/xanathars-lost-notes-to-everything-else/archetypes/monk-empathy.xml" />
+			<file name="monk-empathy.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/dms-guild/xanathars-lost-notes-to-everything-else/archetypes/monk-empathy.xml" />
 		</update>
 	</info>
 	
@@ -99,4 +99,4 @@
 			You can end one or both links on your turn as a bonus action.</description>
 		</sheet>
 	</element>	
-</aurorahomebrew>
+</elements>

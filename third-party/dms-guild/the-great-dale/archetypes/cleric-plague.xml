@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<update version="0.0.1">
-			<file name="cleric-plague.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/dms-guild/the-great-dale/archetypes/cleric-plague.xml" />
+			<file name="cleric-plague.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/dms-guild/the-great-dale/archetypes/cleric-plague.xml" />
 		</update>
 	</info>	
 	<element name="Plague Domain" type="Archetype" source="The Great Dale" id="ID_DMSG_TGD_ARCHETYPE_PLAGUE_DOMAIN">
@@ -90,7 +90,7 @@
 	</element>
 	<element name="Protection of Body" type="Archetype Feature" source="The Great Dale" id="ID_DMSG_TGD_ARCHETYPE_FEATURE_PLAGUE_DOMAIN_PROTECTION_OF_BODY">
 		<description>
-			<p>Beginning at 6th level, you can lessen some of the destructive aurorahomebrew that exist in the world. When you or a creature within 30 feet of you takes poison or necrotic damage, you can use your reaction to grant resistance to the creature against that instance of the damage.</p>
+			<p>Beginning at 6th level, you can lessen some of the destructive elements that exist in the world. When you or a creature within 30 feet of you takes poison or necrotic damage, you can use your reaction to grant resistance to the creature against that instance of the damage.</p>
 		</description>
 		<sheet action="Reaction">
 			<description>When you or a creature within 30 feet of you takes poison or necrotic damage, you can grant resistance to the creature against that instance of the damage.</description>
@@ -113,4 +113,4 @@
 			<description>You may create three instances of the mist instead of one when you use Mist of Disease and the range of where you can place them increases to 60 feet. These instances of the mist cannot overlap.</description>
 		</sheet>
 	</element>
-</aurorahomebrew>
+</elements>

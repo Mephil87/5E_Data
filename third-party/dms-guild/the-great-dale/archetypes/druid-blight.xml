@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<update version="0.0.1">
-			<file name="druid-blight.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/dms-guild/the-great-dale/archetypes/druid-blight.xml" />
+			<file name="druid-blight.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/dms-guild/the-great-dale/archetypes/druid-blight.xml" />
 		</update>
 	</info>	
 	<element name="Circle of Blight" type="Archetype" source="The Great Dale" id="ID_DMSG_TGD_ARCHETYPE_CIRCLE_OF_BLIGHT">
@@ -108,4 +108,4 @@
 			<grant type="Condition" id="ID_INTERNAL_CONDITION_DAMAGE_IMMUNITY_POISON" />
 		</rules>
 	</element>	
-</aurorahomebrew>
+</elements>

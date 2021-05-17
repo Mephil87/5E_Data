@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Polymorphed Background</name>
 		<update version="0.0.3">
-			<file name="polymorphed.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/dms-guild/xanathars-lost-notes-to-everything-else/backgrounds/polymorphed.xml" />
+			<file name="polymorphed.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/dms-guild/xanathars-lost-notes-to-everything-else/backgrounds/polymorphed.xml" />
 		</update>
 	</info>
 	
@@ -80,4 +80,4 @@
 			<description>You have spent so much time in the form of another creature that you aren’t easily shocked by bodily manipulation and mutilation. Whenever such a sight would cause you to save against a madness effect you automatically succeed.</description>
 		</sheet>
 	</element>
-</aurorahomebrew>
+</elements>

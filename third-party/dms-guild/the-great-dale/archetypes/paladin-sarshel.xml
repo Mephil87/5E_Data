@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<update version="0.0.1">
-			<file name="paladin-sarshel.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/dms-guild/the-great-dale/archetypes/paladin-sarshel.xml" />
+			<file name="paladin-sarshel.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/dms-guild/the-great-dale/archetypes/paladin-sarshel.xml" />
 		</update>
 	</info>	
 	<element name="Oath of Sarshel" type="Archetype" source="The Great Dale" id="ID_DMSG_TGD_ARCHETYPE_Oath_of_Sarshel">
@@ -127,4 +127,4 @@
 			You have advantage on all saving throws against the harmful effects of fiends or undead (their attacks, spells, and other effects), and you are resistant to any damage they inflict.</description>
 		</sheet>
 	</element>	
-</aurorahomebrew>
+</elements>

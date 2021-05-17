@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>School of Reconstruction</name>
 		<update version="0.0.1">
-			<file name="wizard-reconstruction.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/dms-guild/xanathars-lost-notes-to-everything-else/archetypes/wizard-reconstruction.xml" />
+			<file name="wizard-reconstruction.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/dms-guild/xanathars-lost-notes-to-everything-else/archetypes/wizard-reconstruction.xml" />
 		</update>
 	</info>
 	
@@ -85,4 +85,4 @@
 			<select type="Spell" name="Spell, Overheal" supports="Cleric, 5" spellcasting="Wizard" />
 		</rules>
 	</element>	
-</aurorahomebrew>
+</elements>

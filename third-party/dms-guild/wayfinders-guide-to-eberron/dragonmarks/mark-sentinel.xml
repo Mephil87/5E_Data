@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Dragonmarked Human variants</name>
 		<description>Dragonmarked Human variants from Wayfinder’s Guide to Eberron</description>
 		<author url="https://www.dmsguild.com/product/247882/Wayfinders-Guide-to-Eberron-5e">Wizards of the Coast</author>
 		<update version="0.0.3">
-			<file name="mark-sentinel.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/dms-guild/wayfinders-guide-to-eberron/dragonmarks/mark-sentinel.xml" />
+			<file name="mark-sentinel.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/dms-guild/wayfinders-guide-to-eberron/dragonmarks/mark-sentinel.xml" />
 		</update>
 	</info>
 	<element name="The Mark of Sentinel" type="Race Variant" source="Wayfinder’s Guide to Eberron" id="ID_WOTC_WGTE_VARIANT_HUMAN_SENTINEL">
@@ -63,4 +63,4 @@
 			<description>As an action, you can designate an ally you can see as your ward. You have advantage on Wisdom (Insight) and Wisdom (Perception) checks made to spot threats to your ward. In addition, when you are within 5 feet of your ward, and that creature is the target of an attack that you can see, you can use your reaction to swap places with your ward. When you do, you become the target of the attack.</description>
 		</sheet>
 	</element>
-</aurorahomebrew>
+</elements>

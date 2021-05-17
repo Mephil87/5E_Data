@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>College of Discord</name>
 		<update version="0.0.1">
-			<file name="bard-discord.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/dms-guild/xanathars-lost-notes-to-everything-else/archetypes/bard-discord.xml" />
+			<file name="bard-discord.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/dms-guild/xanathars-lost-notes-to-everything-else/archetypes/bard-discord.xml" />
 		</update>
 	</info>
 	
@@ -88,4 +88,4 @@
 			When your solo ends, you can’t move or take actions until after your next turn, as a wave of exhaustion sweeps over you.</description>
 		</sheet>
 	</element>
-</aurorahomebrew>
+</elements>

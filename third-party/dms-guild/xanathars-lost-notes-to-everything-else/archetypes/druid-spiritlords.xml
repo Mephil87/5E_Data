@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Circle of The Spiritlords</name>
 		<update version="0.0.1">
-			<file name="druid-spiritlords.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/dms-guild/xanathars-lost-notes-to-everything-else/archetypes/druid-spiritlords.xml" />
+			<file name="druid-spiritlords.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/dms-guild/xanathars-lost-notes-to-everything-else/archetypes/druid-spiritlords.xml" />
 		</update>
 	</info>
 	
 	<element name="Circle of The Spiritlords" type="Archetype" source="Xanathar’s Lost Notes to Everything Else" id="ID_XLN_ARCHETYPE_CIRCLE_OF_THE_SPIRITLORDS">
 		<supports>Druid Circle</supports>
 		<description>
-			<p>Ages ago, nature priests with a greater connection to the spirit realm believed the world itself to be formed from a group of elemental and primordial spirits, each specifically charged to harness one of the major aurorahomebrew of creation. This band of tribal druids developed a set of ritual practices that allowed them to summon these spirits, whose essence now resides in every rock, tree, and breath of air, controlling the ebb and flow of nature not only in their homeland, but in all lands beyond. This order of priests were known as spiritlords.</p>
+			<p>Ages ago, nature priests with a greater connection to the spirit realm believed the world itself to be formed from a group of elemental and primordial spirits, each specifically charged to harness one of the major elements of creation. This band of tribal druids developed a set of ritual practices that allowed them to summon these spirits, whose essence now resides in every rock, tree, and breath of air, controlling the ebb and flow of nature not only in their homeland, but in all lands beyond. This order of priests were known as spiritlords.</p>
 			<p class="indent">Spiritlords begin their journey with the rites handed down by those before them, specifically, the ritual to create a special mask from an ironwood tree. This mask allows the spiritlord to play host to the spirit-elementals roaming this world.</p>
 			<p class="indent">As the spiritlord grows in power and gains a heightened level of attunement to the spirit world, their mask transforms along with them, being altered with new carvings, ritual paints, and brands that symbolize the bond between the druid and the spirits they carry within.</p>
 			<div element="ID_XLN_ARCHETYPE_FEATURE_SPIRITLORDS_SPIRIT_BOND" />
@@ -155,10 +155,10 @@
 	</element>	
 	<element name="Honored Host" type="Archetype Feature" source="Xanathar’s Lost Notes to Everything Else" id="ID_XLN_ARCHETYPE_FEATURE_SPIRITLORDS_HONORED_HOST">
 		<description>
-			<p>At 14th level, you have become a beacon for the spirits who wish to affect the world through you. You gain access to all of the spirit-aurorahomebrew listed on the Spirit Bond table, and can switch between them with a bonus action, and your spells ignore resistance and immunity to that damage type.</p>
+			<p>At 14th level, you have become a beacon for the spirits who wish to affect the world through you. You gain access to all of the spirit-elements listed on the Spirit Bond table, and can switch between them with a bonus action, and your spells ignore resistance and immunity to that damage type.</p>
 		</description>
 		<sheet>
-			<description>You gain access to all of the spirit-aurorahomebrew listed on the Spirit Bond table, and can switch between them with a bonus action, and your spells ignore resistance and immunity to that damage type.</description>
+			<description>You gain access to all of the spirit-elements listed on the Spirit Bond table, and can switch between them with a bonus action, and your spells ignore resistance and immunity to that damage type.</description>
 		</sheet>
 		<rules>
 			<grant type="Archetype Feature" id="ID_XLN_ARCHETYPE_FEATURE_SPIRITLORDS_SPIRIT_BOND_EARTH" />
@@ -268,4 +268,4 @@
 		</rules>
 	</element>
 
-</aurorahomebrew>
+</elements>

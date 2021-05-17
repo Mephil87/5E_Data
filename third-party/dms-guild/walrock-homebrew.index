@@ -2,10 +2,10 @@
 <index>
 	<info>
 		<update version="0.0.1">
-			<file name="walrock-homebrew.index" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/dms-guild/walrock-homebrew.index" />
+			<file name="walrock-homebrew.index" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/dms-guild/walrock-homebrew.index" />
 		</update>
 	</info>
 	<files>
-		<file name="race-shardminds.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/dms-guild/walrock-homebrew/race-shardminds.xml" />
+		<file name="race-shardminds.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/dms-guild/walrock-homebrew/race-shardminds.xml" />
 	</files>
 </index>

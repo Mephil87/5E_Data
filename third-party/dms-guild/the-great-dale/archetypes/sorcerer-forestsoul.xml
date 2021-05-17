@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<update version="0.0.1">
-			<file name="sorcerer-forestsoul.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/dms-guild/the-great-dale/archetypes/sorcerer-forestsoul.xml" />
+			<file name="sorcerer-forestsoul.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/dms-guild/the-great-dale/archetypes/sorcerer-forestsoul.xml" />
 		</update>
 	</info>	
 	<element name="Forest Soul" type="Archetype" source="The Great Dale" id="ID_DMSG_TGD_ARCHETYPE_FOREST_SOUL">
@@ -107,4 +107,4 @@
 			You remain in this form for 1 minute. It ends early if you are incapacitated, if you die, or if you dismiss it as a bonus action.</description>
 		</sheet>
 	</element>	
-</aurorahomebrew>
+</elements>

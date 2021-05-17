@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Feyblood</name>
 		<update version="0.0.2">
-			<file name="feyblood.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/dms-guild/xanathars-lost-notes-to-everything-else/feyblood.xml" />
+			<file name="feyblood.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/dms-guild/xanathars-lost-notes-to-everything-else/feyblood.xml" />
 		</update>
 	</info>
 	
@@ -127,4 +127,4 @@
 			<description>While perfectly still, you are invisible when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena. At 6th level, when you are hidden in this way, you can use your action to cast invisibility with no material components, and you can’t use this feature again until you finish a long rest.</description>
 		</sheet>
 	</element>
-</aurorahomebrew>
+</elements>

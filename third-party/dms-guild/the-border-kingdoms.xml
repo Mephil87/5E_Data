@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>The Border Kingdoms</name>
 		<update version="0.0.1">
-			<file name="the-border-kingdoms.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/dms-guild/the-border-kingdoms.xml" />
+			<file name="the-border-kingdoms.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/dms-guild/the-border-kingdoms.xml" />
 		</update>
 	</info>
 	<element name="The Border Kingdoms" type="Source" source="Core" id="ID_DMSG_TBK_SOURCE_THE_BORDER_KINGDOMS">
@@ -771,4 +771,4 @@
 		</description>
 		<sheet alt="Stevedore Engineering" />
 	</element>	
-</aurorahomebrew>
+</elements>

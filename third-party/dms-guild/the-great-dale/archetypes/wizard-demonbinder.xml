@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<update version="0.0.1">
-			<file name="wizard-demonbinder.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/dms-guild/the-great-dale/archetypes/wizard-demonbinder.xml" />
+			<file name="wizard-demonbinder.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/dms-guild/the-great-dale/archetypes/wizard-demonbinder.xml" />
 		</update>
 	</info>
 	
@@ -94,4 +94,4 @@
 			<set name="slot">neck</set>
 		</setters>
 	</element>	
-</aurorahomebrew>
+</elements>

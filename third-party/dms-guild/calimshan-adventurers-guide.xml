@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<update version="0.0.1">
-			<file name="calimshan-adventurers-guide.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/dms-guild/calimshan-adventurers-guide.xml" />
+			<file name="calimshan-adventurers-guide.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/dms-guild/calimshan-adventurers-guide.xml" />
 		</update>
 	</info>
 
@@ -828,4 +828,4 @@
 			<grant type="Condition" id="ID_INTERNAL_CONDITION_DAMAGE_IMMUNITY_PSYCHIC" />
 		</rules>
 	</element>
-</aurorahomebrew>
+</elements>

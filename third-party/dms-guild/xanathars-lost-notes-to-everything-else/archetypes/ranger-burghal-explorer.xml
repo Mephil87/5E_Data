@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Burghal Explorer</name>
 		<update version="0.0.1">
-			<file name="ranger-burghal-explorer.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/dms-guild/xanathars-lost-notes-to-everything-else/archetypes/ranger-burghal-explorer.xml" />
+			<file name="ranger-burghal-explorer.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/dms-guild/xanathars-lost-notes-to-everything-else/archetypes/ranger-burghal-explorer.xml" />
 		</update>
 	</info>
 	
@@ -117,4 +117,4 @@
 		<sheet />
 	</element>
 
-</aurorahomebrew>
+</elements>

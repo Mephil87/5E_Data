@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Divine Herald</name>
 		<update version="0.0.2">
-			<file name="rogue-divine-herald.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/dms-guild/xanathars-lost-notes-to-everything-else/archetypes/rogue-divine-herald.xml" />
+			<file name="rogue-divine-herald.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/dms-guild/xanathars-lost-notes-to-everything-else/archetypes/rogue-divine-herald.xml" />
 		</update>
 	</info>
 	
@@ -155,4 +155,4 @@
 			This damage increases by 1d6 if the target is undead, fiend, or celestial.</description>
 		</sheet>
 	</element>	
-</aurorahomebrew>
+</elements>

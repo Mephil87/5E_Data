@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
     <info>
         <update version="0.0.1">
-            <file name="race-shardminds.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/dms-guild/walrock-homebrew/race-shardminds.xml" />
+            <file name="race-shardminds.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/dms-guild/walrock-homebrew/race-shardminds.xml" />
         </update>
     </info>
 
@@ -177,4 +177,4 @@
             <grant type="Spell" id="ID_XGTE_SPELL_MAGIC_STONE" />
         </rules>
     </element>
-</aurorahomebrew>
+</elements>

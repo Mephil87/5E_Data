@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<update version="0.0.1">
-			<file name="rogue-thug.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/dms-guild/the-great-dale/archetypes/rogue-thug.xml" />
+			<file name="rogue-thug.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/dms-guild/the-great-dale/archetypes/rogue-thug.xml" />
 		</update>
 	</info>	
 	<element name="Thug" type="Archetype" source="The Great Dale" id="ID_DMSG_TGD_ARCHETYPE_THUG">
@@ -101,4 +101,4 @@
 			<stat name="thug stunning strike:dc" value="constitution:modifier" />
 		</rules>
 	</element>	
-</aurorahomebrew>
+</elements>

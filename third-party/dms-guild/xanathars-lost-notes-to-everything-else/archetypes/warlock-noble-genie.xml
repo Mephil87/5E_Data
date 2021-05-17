@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>The Noble Genie</name>
 		<update version="0.0.2">
-			<file name="warlock-noble-genie.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/dms-guild/xanathars-lost-notes-to-everything-else/archetypes/warlock-noble-genie.xml" />
+			<file name="warlock-noble-genie.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/dms-guild/xanathars-lost-notes-to-everything-else/archetypes/warlock-noble-genie.xml" />
 		</update>
 	</info>
 	
@@ -259,4 +259,4 @@
 
 	<!-- todo: gen familiars -->
 
-</aurorahomebrew>
+</elements>

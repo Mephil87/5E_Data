@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Dragonmarked Human variants</name>
 		<description>Dragonmarked Human variants from Wayfinder’s Guide to Eberron</description>
 		<author url="https://www.dmsguild.com/product/247882/Wayfinders-Guide-to-Eberron-5e">Wizards of the Coast</author>
 		<update version="0.0.3">
-			<file name="mark-passage.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/dms-guild/wayfinders-guide-to-eberron/dragonmarks/mark-passage.xml" />
+			<file name="mark-passage.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/dms-guild/wayfinders-guide-to-eberron/dragonmarks/mark-passage.xml" />
 		</update>
 	</info>
 	<element name="The Mark of Passage" type="Race Variant" source="Wayfinder’s Guide to Eberron" id="ID_WOTC_WGTE_VARIANT_HUMAN_PASSAGE">
@@ -61,4 +61,4 @@
 		</sheet>
 	</element>
 
-</aurorahomebrew>
+</elements>

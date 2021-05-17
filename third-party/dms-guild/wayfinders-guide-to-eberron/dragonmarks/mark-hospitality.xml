@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<update version="0.0.3">
-			<file name="mark-hospitality.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/dms-guild/wayfinders-guide-to-eberron/dragonmarks/mark-hospitality.xml" />
+			<file name="mark-hospitality.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/dms-guild/wayfinders-guide-to-eberron/dragonmarks/mark-hospitality.xml" />
 		</update>
 	</info>
 
@@ -51,4 +51,4 @@
 		</sheet>
 	</element>
 
-</aurorahomebrew>
+</elements>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Halfling Dragonmarks</name>
 		<description></description>
 		<author url="https://www.dmsguild.com/product/247882/Wayfinders-Guide-to-Eberron-5e">Wizards of the Coast</author>
 		<update version="0.0.3">
-			<file name="mark-healing.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/dms-guild/wayfinders-guide-to-eberron/dragonmarks/mark-healing.xml" />
+			<file name="mark-healing.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/dms-guild/wayfinders-guide-to-eberron/dragonmarks/mark-healing.xml" />
 		</update>
 	</info>
 
@@ -47,4 +47,4 @@
 			<description>Roll one of your hit die, add {{wisdom:modifier}}, and the either you or a creature regains a number of hit points equal to the total.</description>
 		</sheet>
 	</element>
-</aurorahomebrew>
+</elements>

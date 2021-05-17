@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>College of Mourning</name>
 		<update version="0.0.1">
-			<file name="bard-mourning.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/dms-guild/xanathars-lost-notes-to-everything-else/archetypes/bard-mourning.xml" />
+			<file name="bard-mourning.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/dms-guild/xanathars-lost-notes-to-everything-else/archetypes/bard-mourning.xml" />
 		</update>
 	</info>
 	
@@ -80,4 +80,4 @@
 			<stat name="dread parade:number" value="charisma:modifier" bonus="base" />
 		</rules>
 	</element>	
-</aurorahomebrew>
+</elements>

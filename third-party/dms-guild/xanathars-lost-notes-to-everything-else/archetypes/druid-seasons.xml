@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Circle of Seasons</name>
 		<update version="0.0.1">
-			<file name="druid-seasons.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/dms-guild/xanathars-lost-notes-to-everything-else/archetypes/druid-seasons.xml" />
+			<file name="druid-seasons.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/dms-guild/xanathars-lost-notes-to-everything-else/archetypes/druid-seasons.xml" />
 		</update>
 	</info>
 	
@@ -128,4 +128,4 @@
 			Additionally, while you concentrate on your shroud, you can cast a concentration spell at the same time. The first time you would fail a saving throw to maintain concentration the spell fails, and the shroud remains.</description>
 		</sheet>
 	</element>	
-</aurorahomebrew>
+</elements>

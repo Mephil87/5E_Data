@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Dragoon</name>
 		<update version="0.0.1">
-			<file name="fighter-dragoon.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/dms-guild/xanathars-lost-notes-to-everything-else/archetypes/fighter-dragoon.xml" />
+			<file name="fighter-dragoon.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/dms-guild/xanathars-lost-notes-to-everything-else/archetypes/fighter-dragoon.xml" />
 		</update>
 	</info>
 	
@@ -62,7 +62,7 @@
 			When unarmored, or wearing light armor, your proficiency bonus is doubled for any attack rolls you make with your cavalry weapon, in addition to the benefits of wearing medium armor, and your speed increases by an additional 5 feet, to a total of 10 feet. While you’re mounted, the speed of your mount also increases in this way.
 			Additionally, when you use the Attack action to attack with a cavalry weapon, you can use a bonus action to attack with a loaded one-handed ranged weapon you are holding. Being within 5 feet of a hostile creature doesn’t impose disadvantage on this ranged attack.</description>
 		</sheet>
-		<!-- todo: conditional aurorahomebrew? -->
+		<!-- todo: conditional elements? -->
 	</element>
 	<element name="Line Breaker" type="Archetype Feature" source="Xanathar’s Lost Notes to Everything Else" id="ID_XLN_ARCHETYPE_FEATURE_DRAGOON_LINE_BREAKER">
 		<description>
@@ -111,4 +111,4 @@
 			While tracking other creatures, you also learn their exact numbers, their sizes and how long ago they passed through the area.</description>
 		</sheet>
 	</element>	
-</aurorahomebrew>
+</elements>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Fey Magic</name>
 		<update version="0.0.1">
-			<file name="sorcerer-fey-magic.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/dms-guild/xanathars-lost-notes-to-everything-else/archetypes/sorcerer-fey-magic.xml" />
+			<file name="sorcerer-fey-magic.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/dms-guild/xanathars-lost-notes-to-everything-else/archetypes/sorcerer-fey-magic.xml" />
 		</update>
 	</info>
 	
@@ -90,4 +90,4 @@
 			Additionally, once per turn when you cast a spell of 1st level or higher you can spend all of your movement speed on your turn to teleport up to 15 feet to an unoccupied space that you can see.</description>
 		</sheet>
 	</element>	
-</aurorahomebrew>
+</elements>

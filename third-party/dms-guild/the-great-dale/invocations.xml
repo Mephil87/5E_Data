@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<update version="0.0.1">
-			<file name="invocations.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/dms-guild/the-great-dale/archetypes/invocations.xml" />
+			<file name="invocations.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/dms-guild/the-great-dale/archetypes/invocations.xml" />
 		</update>
 	</info>
 	<element name="Belial’s Bracing Word" type="Class Feature" source="The Great Dale" id="ID_DMSG_TGD_CLASS_FEATURE_BELIALS_BRACING_WORD">
@@ -143,4 +143,4 @@
 			<description>When a creature within 30 feet of you damages you with an attack, you can cast true strike against it. If the attack empowered by true strike hits the target, the target takes {{charisma:modifier}} additional psychic damage.</description>
 		</sheet>
 	</element>
-</aurorahomebrew>
+</elements>

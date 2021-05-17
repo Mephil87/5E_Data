@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<update version="0.0.1">
-			<file name="rogue-blackflame.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/dms-guild/the-great-dale/archetypes/rogue-blackflame.xml" />
+			<file name="rogue-blackflame.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/dms-guild/the-great-dale/archetypes/rogue-blackflame.xml" />
 		</update>
 	</info>
 	<element name="Black Flame Zealot" type="Archetype" source="The Great Dale" id="ID_DMSG_TGD_ARCHETYPE_BLACK_FLAME_ZEALOT">
@@ -143,4 +143,4 @@
 			<description>Any creature you reduce to 0 hit points is immediately consumed by Kossuth’s ebon flames and reduced to a fine black ash. The only way to restore life to a being slain in this manner is through a true resurrection spell.</description>
 		</sheet>
 	</element>	
-</aurorahomebrew>
+</elements>

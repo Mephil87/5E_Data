@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>The Chaos</name>
 		<update version="0.0.1">
-			<file name="warlock-chaos.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/dms-guild/xanathars-lost-notes-to-everything-else/archetypes/warlock-chaos.xml" />
+			<file name="warlock-chaos.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/dms-guild/xanathars-lost-notes-to-everything-else/archetypes/warlock-chaos.xml" />
 		</update>
 	</info>
 	
@@ -306,4 +306,4 @@
 		</rules>
 	</element>
 
-</aurorahomebrew>
+</elements>

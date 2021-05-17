@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Mordenkainen’s Tome of Marvelous Magic</name>
 		<update version="0.0.5">
-			<file name="mordenkainens-tome-of-marvelous-magic.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/dms-guild/mordenkainens-tome-of-marvelous-magic.xml" />
+			<file name="mordenkainens-tome-of-marvelous-magic.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/dms-guild/mordenkainens-tome-of-marvelous-magic.xml" />
 		</update>
 	</info>
 	<element name="Mordenkainen’s Tome of Marvelous Magic" type="Source" source="Core" id="ID_DMSG_MTMM_SOURCE_MORDENKAINENS_TOME_OF_MARVELOUS_MAGIC">
@@ -2091,7 +2091,7 @@
 			<set name="slot">onehand</set>
 		</setters>
 	</element>
-	<element name="Rattle of aurorahomebrew" type="Magic Item" source="Mordenkainen’s Tome of Marvelous Magic" id="ID_DMSG_MTMM_MAGIC_ITEM_RATTLE_OF_aurorahomebrew">
+	<element name="Rattle of Elements" type="Magic Item" source="Mordenkainen’s Tome of Marvelous Magic" id="ID_DMSG_MTMM_MAGIC_ITEM_RATTLE_OF_ELEMENTS">
 		<description>
 			<p>When you shake this tin rattle, you call forth an elemental servant. Choose an area of air, earth, fire, or water that fills a 10-foot cube within range. An elemental of challenge rating 5 or lower appropriate to the area you chose appears in an unoccupied space within 10 feet the area. For example, a <strong>fire elemental</strong> could emerge from a bonfire. The elemental disappears when it drops to 0 hit points or after 1 hour. The summoned creature is friendly to you and your companions and obeys any verbal commands that you issue to it.</p>
 			<p class="indent">Once you have used this property of the rattle, it can’t be used again until the next dawn.</p>
@@ -2716,4 +2716,4 @@
 			<set name="slot">misc</set>
 		</setters>
 	</element>
-</aurorahomebrew>
+</elements>

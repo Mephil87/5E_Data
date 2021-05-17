@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Entropy Domain</name>
 		<update version="0.0.1">
-			<file name="cleric-entropy-domain.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/dms-guild/xanathars-lost-notes-to-everything-else/archetypes/cleric-entropy-domain.xml" />
+			<file name="cleric-entropy-domain.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/dms-guild/xanathars-lost-notes-to-everything-else/archetypes/cleric-entropy-domain.xml" />
 		</update>
 	</info>
 	
@@ -102,4 +102,4 @@
 			<description>You have advantage on saving throws against spells. In addition, when you succeed on a saving throw against a spell, you gain 5 temporary hit points for each slot level of the spell.</description>
 		</sheet>
 	</element>
-</aurorahomebrew>
+</elements>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<update version="0.0.1">
-			<file name="warlock-eltab.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/dms-guild/the-great-dale/archetypes/warlock-eltab.xml" />
+			<file name="warlock-eltab.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/dms-guild/the-great-dale/archetypes/warlock-eltab.xml" />
 		</update>
 	</info>	
 	<element name="Eltab, Lord of the Hidden Layer" type="Archetype" source="The Great Dale" id="ID_DMSG_TGD_ARCHETYPE_ELTAB_LORD_OF_THE_HIDDEN_LAYER">
@@ -75,4 +75,4 @@
 	
 	<!-- todo: enhance with CountsAs once implemented -->
 	
-</aurorahomebrew>
+</elements>

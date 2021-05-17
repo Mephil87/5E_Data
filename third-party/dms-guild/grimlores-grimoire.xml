@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Grimlore’s Grimoire</name>
 		<description></description>
 		<author url="https://www.dmsguild.com/product/250265/Grimlores-Grimoire">Grim Press, Trevor Armstrong</author>
 		<update version="0.0.5">
-			<file name="grimlores-grimoire.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/dms-guild/grimlores-grimoire.xml" />
+			<file name="grimlores-grimoire.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/dms-guild/grimlores-grimoire.xml" />
 		</update>
 	</info>
 
@@ -2416,10 +2416,10 @@
 		</setters>
 	</element>
 
-	<element name="Veil of aurorahomebrew" type="Spell" source="Grimlore’s Grimoire" id="ID_DMSG_GRGR_SPELL_VEIL_OF_aurorahomebrew">
+	<element name="Veil of Elements" type="Spell" source="Grimlore’s Grimoire" id="ID_DMSG_GRGR_SPELL_VEIL_OF_ELEMENTS">
 		<supports>Sorcerer, Wizard</supports>
 		<description>
-			<p>You summon a swirling mass of aurorahomebrew in a 15-foot-radius, 40-foot-tall cylinder centered on a point you can see within range. Each creature that begins their turn in the veil or moves into it during their turn must make a Dexterity saving throw. A creature takes 3d6 damage from an element of your choosing (cold, fire, lightning, thunder) on a failed save, or half as much on a successful one, which expends that damage type from the veil. </p>
+			<p>You summon a swirling mass of elements in a 15-foot-radius, 40-foot-tall cylinder centered on a point you can see within range. Each creature that begins their turn in the veil or moves into it during their turn must make a Dexterity saving throw. A creature takes 3d6 damage from an element of your choosing (cold, fire, lightning, thunder) on a failed save, or half as much on a successful one, which expends that damage type from the veil. </p>
 			<p class="indent">The spell ends once all four damage types are expended, or the spell’s duration is reached. </p>
 			<p class="indent"><i><b>At Higher Levels.</b></i> When you cast this spell using a spell slot of 3rd level or higher, the damage from each element increases 1d6 for each slot level above 2nd.</p>
 		</description>
@@ -5020,4 +5020,4 @@
 		</setters>
 	</element>
 
-</aurorahomebrew>
+</elements>

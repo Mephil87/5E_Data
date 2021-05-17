@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>One Grung Above</name>
 		<update version="0.0.5">
-			<file name="one-grung-above.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/dms-guild/one-grung-above.xml" />
+			<file name="one-grung-above.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/dms-guild/one-grung-above.xml" />
 		</update>
 	</info>
 
 	<!-- obsolete, moved to supplements/extra-life -->
 
-</aurorahomebrew>
+</elements>

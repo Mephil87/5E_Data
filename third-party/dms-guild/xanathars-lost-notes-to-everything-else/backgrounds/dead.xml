@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Dead Background</name>
 		<update version="0.0.4">
-			<file name="dead.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/dms-guild/xanathars-lost-notes-to-everything-else/backgrounds/dead.xml" />
+			<file name="dead.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/dms-guild/xanathars-lost-notes-to-everything-else/backgrounds/dead.xml" />
 		</update>
 	</info>
 	
@@ -75,4 +75,4 @@
 		</description>
 		<sheet alt="Spirit Talk" />
 	</element>
-</aurorahomebrew>
+</elements>

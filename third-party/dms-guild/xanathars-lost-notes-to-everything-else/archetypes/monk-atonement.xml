@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Way of Atonement</name>
 		<update version="0.0.1">
-			<file name="monk-atonement.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/dms-guild/xanathars-lost-notes-to-everything-else/archetypes/monk-atonement.xml" />
+			<file name="monk-atonement.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/dms-guild/xanathars-lost-notes-to-everything-else/archetypes/monk-atonement.xml" />
 		</update>
 	</info>
 	
@@ -108,4 +108,4 @@
 			You can’t use this feature again until you complete a short or long rest. If you use this feature to deceive or bribe, you can’t use it again until you complete a long rest.</description>
 		</sheet>
 	</element>	
-</aurorahomebrew>
+</elements>

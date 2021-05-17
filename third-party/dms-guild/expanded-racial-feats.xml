@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Expanded Racial Feats</name>
 		<update version="0.0.3">
-			<file name="expanded-racial-feats.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/dms-guild/expanded-racial-feats.xml" />
+			<file name="expanded-racial-feats.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/dms-guild/expanded-racial-feats.xml" />
 		</update>
 	</info>
 
@@ -407,4 +407,4 @@
 		</rules>
 	</element>
 
-</aurorahomebrew>
+</elements>

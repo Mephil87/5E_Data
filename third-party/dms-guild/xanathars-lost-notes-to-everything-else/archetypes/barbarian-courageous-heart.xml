@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Path of the Courageous Heart</name>
 		<update version="0.0.1">
-			<file name="barbarian-courageous-heart.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/dms-guild/xanathars-lost-notes-to-everything-else/archetypes/barbarian-courageous-heart.xml" />
+			<file name="barbarian-courageous-heart.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/dms-guild/xanathars-lost-notes-to-everything-else/archetypes/barbarian-courageous-heart.xml" />
 		</update>
 	</info>
 	
@@ -80,4 +80,4 @@
 			Rallying. Your heroic refusal to die fills your allies with confidence. All allies within 30 feet of you that can see or hear you gain advantage on the next attack roll they make within the next 1 minute.</description>
 		</sheet>
 	</element>
-</aurorahomebrew>
+</elements>

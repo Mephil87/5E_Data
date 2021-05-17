@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<update version="0.0.1">
-			<file name="feats.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/dms-guild/the-great-dale/feats.xml" />
+			<file name="feats.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/dms-guild/the-great-dale/feats.xml" />
 		</update>
 	</info>		
 	<element name="Circle Magic" type="Feat" source="The Great Dale" id="ID_DMSG_TGD_FEAT_CIRCLE_MAGIC">
@@ -126,4 +126,4 @@
 			<p class="indent"><strong><em>Duration.</em></strong> The leader of the circle may hold the pool of magic energy received for up to 24 hours. Any unused magical energy in the pool dissipates after 24 hours and is forever lost.</p>
 		</description>
 	</element>	
-</aurorahomebrew>
+</elements>

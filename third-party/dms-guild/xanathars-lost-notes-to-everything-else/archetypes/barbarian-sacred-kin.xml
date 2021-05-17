@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Path of Sacred Kin</name>
 		<update version="0.0.1">
-			<file name="barbarian-sacred-kin.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/dms-guild/xanathars-lost-notes-to-everything-else/archetypes/barbarian-sacred-kin.xml" />
+			<file name="barbarian-sacred-kin.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/dms-guild/xanathars-lost-notes-to-everything-else/archetypes/barbarian-sacred-kin.xml" />
 		</update>
 	</info>
 	
@@ -345,4 +345,4 @@
 			Additionally, you have advantage on saving throws against spells and other magical effects.</description>
 		</sheet>
 	</element>
-</aurorahomebrew>
+</elements>

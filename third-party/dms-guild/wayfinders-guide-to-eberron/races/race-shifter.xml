@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Shifter</name>
 		<description></description>
 		<author url="https://www.dmsguild.com/product/247882/Wayfinders-Guide-to-Eberron-5e">Wizards of the Coast</author>
 		<update version="0.0.3">
-			<file name="race-shifter.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/dms-guild/wayfinders-guide-to-eberron/races/race-shifter.xml" />
+			<file name="race-shifter.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/dms-guild/wayfinders-guide-to-eberron/races/race-shifter.xml" />
 		</update>
 	</info>
 
@@ -260,4 +260,4 @@
 			<description>While shifted, you have advantage on Wisdom checks.</description>
 		</sheet>
 	</element>
-</aurorahomebrew>
+</elements>
