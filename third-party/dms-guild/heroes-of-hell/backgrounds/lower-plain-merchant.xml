@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<update version="0.0.2">
-			<file name="lower-plain-merchant.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/dms-guild/heroes-of-hell/backgrounds/lower-plain-merchant.xml" />
+			<file name="lower-plain-merchant.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/dms-guild/heroes-of-hell/backgrounds/lower-plain-merchant.xml" />
 		</update>
 	</info>	
 	<element name="Lower Planar Merchant" type="Background" source="Heroes of Hell" id="ID_DMSG_HOH_BACKGROUND_LOWER_PLANAR_MERCHANT">
@@ -36,4 +36,4 @@
 			<description>You can always tell the approximate value of strange currency, as well as the exotic trade goods and equipment found in the markets of Hell. You can always find a local market or trading house no matter where you travel, and know the correct procedures to obtain permits to trade in the various hubs and cities.</description>
 		</sheet>
 	</element>
-</aurorahomebrew>
+</elements>

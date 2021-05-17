@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<update version="0.0.1">
-			<file name="barbarian-fiendslayer.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/dms-guild/heroes-of-hell/archetypes/barbarian-fiendslayer.xml" />
+			<file name="barbarian-fiendslayer.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/dms-guild/heroes-of-hell/archetypes/barbarian-fiendslayer.xml" />
 		</update>
 	</info>	
 	<element name="Fiend Slayer" type="Archetype" source="Heroes of Hell" id="ID_DMSG_HOH_ARCHETYPE_FIEND_SLAYER">
@@ -71,4 +71,4 @@
 			<description>When you drop to 0 hit points you are not incapacitated, and may continue to take actions, making death saving throws on your turn as normal until you stabilise (in which case you fall unconscious), die or regain at least 1 hit point. You do not suffer death saving throw failures as a result of taking damage during this time.</description>
 		</sheet>
 	</element>
-</aurorahomebrew>
+</elements>

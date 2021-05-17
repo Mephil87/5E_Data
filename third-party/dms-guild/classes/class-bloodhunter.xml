@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Bloodhunter</name>
 		<description>2020 Version</description>
 		<update version="0.0.4">
-			<file name="class-bloodhunter.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/dms-guild/classes/class-bloodhunter.xml" />
+			<file name="class-bloodhunter.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/dms-guild/classes/class-bloodhunter.xml" />
 		</update>
 	</info>
 	
@@ -33,7 +33,7 @@
 			<p class="indent">Often feared or misunderstood, and driven by an unending drive to destroy the wicked, blood hunters are clever, arcane warriors who have bound their essence to the dark creatures they hunt to better stalk and survive their prey. Armed with the rites of forbidden blood magic and a willingness to sacrifice their own vitality and humanity for the cause, they protect the realms from the shadows, ever vigilant to avoid becoming the same monsters they choose to hunt.</p>
 			<h4>SACRIFICE TO PRESERVE LIFE</h4>
 			<p>While most of the classic schools of magical study are well known and widely respected, the less refined and macabre incantations of Hemocraft have long been forbidden and lost to most of the civilized world. Blood Hunters have reclaimed these techniques away from the judging eyes of society, finding blood magic’s esoteric nature effective against the evils that often defy the divine powers that historically hold the line.</p>
-			<p class="indent">Through careful study and practice, blood hunters have honed the rites of hemocraft into their combat prowess, forfeiting a facet of their health to infuse their weapons with powerful blood magic and summoning the aurorahomebrew to envelop their strikes.</p>
+			<p class="indent">Through careful study and practice, blood hunters have honed the rites of hemocraft into their combat prowess, forfeiting a facet of their health to infuse their weapons with powerful blood magic and summoning the elements to envelop their strikes.</p>
 			<p class="indent">They can sear an arcane brand into the body of their quarry that hinders their foe’s abilities and punishes their aggression, or call blood curses upon their enemies, manipulating their bodies from the inside. Willing to suffer whatever it takes to achieve victory, these adept warriors have forged themselves into a potent force against the terrors that threaten the innocent.</p>
 			<h4>A MONSTER TO FIGHT MONSTERS</h4>
 			<p>Whether driven by the wish to make a difference in a dangerous world, the need to take vengeance for a great wrong they have suffered, being inspired by witnessing the strange and powerful techniques of another blood hunter in person, or just seeking a place to belong in an uncaring world, the reasons one may take up the Hunter’s Bane and choose this life are many and varied. In joining an order of blood hunters, one is also joining a tight family bound by service to each other and the common cause. For many, this is the only family they have known or have left, so the kinship felt between members of an order is a bond neigh unbreakable.</p>
@@ -1574,4 +1574,4 @@
 		</sheet>
 	</element>
 
-</aurorahomebrew>
+</elements>

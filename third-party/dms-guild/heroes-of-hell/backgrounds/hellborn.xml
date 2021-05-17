@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<update version="0.0.2">
-			<file name="hellborn.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/dms-guild/heroes-of-hell/backgrounds/hellborn.xml" />
+			<file name="hellborn.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/dms-guild/heroes-of-hell/backgrounds/hellborn.xml" />
 		</update>
 	</info>
 	<element name="Hellborn" type="Background" source="Heroes of Hell" id="ID_DMSG_HOH_BACKGROUND_HELLBORN">
@@ -36,4 +36,4 @@
 			<description>Living your entire life in Hell, you have adapted in some ways. You have advantage to all saving throws to endure environmental conditions that impose exhaustion.</description>
 		</sheet>
 	</element>
-</aurorahomebrew>
+</elements>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Shifter</name>
 		<author url="https://www.dmsguild.com/browse.php?author=Keith%20Baker">Keith Baker &amp; Ruty Rutenberg</author>
 		<update version="0.0.1">
-			<file name="subrace-shifter.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/dms-guild/morgrave-miscellany/races/subrace-shifter.xml" />
+			<file name="subrace-shifter.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/dms-guild/morgrave-miscellany/races/subrace-shifter.xml" />
 		</update>
 	</info>
 	<element name="Cliffwalk Shifter" type="Sub Race" source="Morgrave Miscellany" id="ID_DMSG_MGMS_SUBRACE_SHIFTER_CLIFFWALK">
@@ -119,4 +119,4 @@
 			<description>While shifting, you can breathe underwater, you have resistance to cold damage, and you ignore any of the drawbacks caused by a deep, underwater environment.</description>
 		</sheet>
 	</element>
-</aurorahomebrew>
+</elements>

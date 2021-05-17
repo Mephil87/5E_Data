@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Swordmage</name>
 		<update version="0.0.1">
-			<file name="class-swordmage.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/dms-guild/classes/class-swordmage.xml" />
+			<file name="class-swordmage.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/dms-guild/classes/class-swordmage.xml" />
 		</update>
 	</info>
 	<element name="The Swordmage" type="Source" source="Core" id="ID_DMSG_AA_SOURCE_THE_SWORDMAGE">
@@ -680,7 +680,7 @@
 		<supports>AASM_Swordmage</supports>
 	</append>
 
-	<append id="ID_XGTE_SPELL_ABSORB_aurorahomebrew">
+	<append id="ID_XGTE_SPELL_ABSORB_ELEMENTS">
 		<supports>AASM_Swordmage</supports>
 	</append>
 	<append id="ID_PHB_SPELL_BURNING_HANDS">
@@ -903,4 +903,4 @@
 		<supports>AASM_Swordmage</supports>
 	</append>
 
-</aurorahomebrew>
+</elements>

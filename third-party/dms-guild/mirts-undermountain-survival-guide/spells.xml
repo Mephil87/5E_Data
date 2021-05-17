@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<update version="0.0.1">
-			<file name="spells.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/dms-guild/mirts-undermountain-survival-guide/spells.xml" />
+			<file name="spells.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/dms-guild/mirts-undermountain-survival-guide/spells.xml" />
 		</update>
 	</info>
 	<element name="Angelskin" type="Spell" source="Mirt’s Undermountain Survival Guide" id="ID_DMSG_MUSG_SPELL_ANGELSKIN">
@@ -523,4 +523,4 @@
 			<set name="isRitual">false</set>
 		</setters>
 	</element>
-</aurorahomebrew>
+</elements>

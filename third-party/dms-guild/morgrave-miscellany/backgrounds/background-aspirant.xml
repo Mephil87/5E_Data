@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Aspirant</name>
 		<description>The Aspirant Background from Morgrave Miscellany.</description>
 		<author url="https://www.dmsguild.com/browse.php?author=Keith%20Baker">Keith Baker &amp; Ruty Rutenberg</author>
 		<update version="0.0.2">
-			<file name="background-aspirant.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/dms-guild/morgrave-miscellany/backgrounds/background-aspirant.xml" />
+			<file name="background-aspirant.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/dms-guild/morgrave-miscellany/backgrounds/background-aspirant.xml" />
 		</update>
 	</info>
 	
@@ -73,4 +73,4 @@
 		</description>
 		<sheet alt="Wild Hospitality" />
 	</element>
-</aurorahomebrew>
+</elements>

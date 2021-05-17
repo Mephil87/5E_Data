@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<update version="0.0.2">
-			<file name="class-factotum.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/dms-guild/mirts-undermountain-survival-guide/class-factotum.xml" />
+			<file name="class-factotum.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/dms-guild/mirts-undermountain-survival-guide/class-factotum.xml" />
 		</update>
 	</info>
 
@@ -551,4 +551,4 @@
 			<description>You magically assume the shape of a beast that you have seen before with a CR of 1 or lower. At the end of the duration you revert to your normal form unless you use this feature again and expend another 5 ingenuity points. You revert to your normal form after 1 minute or by using a bonus action on your turn. You automatically revert if you fall unconscious, drop to 0 hit points, or die.</description>
 		</sheet>
 	</element>
-</aurorahomebrew>
+</elements>

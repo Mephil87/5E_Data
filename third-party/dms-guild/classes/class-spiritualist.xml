@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>The Spiritualist</name>
 		<update version="0.0.3">
-			<file name="class-spiritualist.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/dms-guild/classes/class-spiritualist.xml" />
+			<file name="class-spiritualist.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/dms-guild/classes/class-spiritualist.xml" />
 		</update>
 	</info>
 	
@@ -1683,4 +1683,4 @@
 		<supports>HUFF_Spiritualist_Plague_Poison</supports>
 	</append>
 
-</aurorahomebrew>
+</elements>

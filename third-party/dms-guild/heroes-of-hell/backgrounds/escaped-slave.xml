@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<update version="0.0.2">
-			<file name="escaped-slave.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/dms-guild/heroes-of-hell/backgrounds/escaped-slave.xml" />
+			<file name="escaped-slave.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/dms-guild/heroes-of-hell/backgrounds/escaped-slave.xml" />
 		</update>
 	</info>	
 	<element name="Escaped Slave" type="Background" source="Heroes of Hell" id="ID_DMSG_HOH_BACKGROUND_ESCAPED_SLAVE">
@@ -36,4 +36,4 @@
 			<description>You are able to find enough food and water for yourself and up to 5 other people to survive whilst in Hell – though often is it unpleasant or unpalatable. You are also able to always find or cobble together a rudimentary set of tools for any trade from scraps, cast offs and detritus. These are poor tools, and any checks with them are made at disadvantage.</description>
 		</sheet>
 	</element>
-</aurorahomebrew>
+</elements>

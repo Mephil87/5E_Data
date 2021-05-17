@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<update version="0.0.1">
-			<file name="sorcerer-hellfire.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/dms-guild/heroes-of-hell/archetypes/sorcerer-hellfire.xml" />
+			<file name="sorcerer-hellfire.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/dms-guild/heroes-of-hell/archetypes/sorcerer-hellfire.xml" />
 		</update>
 	</info>	
 	<element name="Hellfire Sorcerer" type="Archetype" source="Heroes of Hell" id="ID_DMSG_HOH_ARCHETYPE_HELLFIRE_SORCERER">
@@ -70,4 +70,4 @@
 			<grant type="Condition" id="ID_INTERNAL_CONDITION_DAMAGE_IMMUNITY_NECROTIC" />
 		</rules>
 	</element>
-</aurorahomebrew>
+</elements>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Way of the Iron Embrace</name>
 		<update version="0.0.2">
-			<file name="monk-iron-embrace.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/dms-guild/archetypes/monk-iron-embrace.xml" />
+			<file name="monk-iron-embrace.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/dms-guild/archetypes/monk-iron-embrace.xml" />
 		</update>
 	</info>	
 	<element name="Way of the Iron Embrace" type="Source" source="Core" id="ID_DMSG_WIE_SOURCE_WAY_OF_THE_IRON_EMBRACE">
@@ -84,4 +84,4 @@
 			In addition, when you successfully grapple a creature, you subject that creature to the restrained condition until the grapple ends.</description>
 		</sheet>
 	</element>
-</aurorahomebrew>
+</elements>

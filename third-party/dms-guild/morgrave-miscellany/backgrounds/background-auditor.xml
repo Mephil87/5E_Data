@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Auditor</name>
 		<description>The Auditor Background from Morgrave Miscellany.</description>
 		<author url="https://www.dmsguild.com/browse.php?author=Keith%20Baker">Keith Baker &amp; Ruty Rutenberg</author>
 		<update version="0.0.2">
-			<file name="background-auditor.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/dms-guild/morgrave-miscellany/backgrounds/background-auditor.xml" />
+			<file name="background-auditor.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/dms-guild/morgrave-miscellany/backgrounds/background-auditor.xml" />
 		</update>
 	</info>	
 	<element name="Auditor" type="Background" source="Morgrave Miscellany" id="ID_DMSG_MGMS_BACKGROUND_AUDITOR">
@@ -70,4 +70,4 @@
 		</description>
 		<sheet alt="Keeper of Vaults" />
 	</element>
-</aurorahomebrew>
+</elements>

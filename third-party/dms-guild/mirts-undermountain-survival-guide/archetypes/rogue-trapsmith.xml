@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<update version="0.0.1">
-			<file name="rogue-trapsmith.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/dms-guild/mirts-undermountain-survival-guide/archetype/rogue-trapsmith.xml" />
+			<file name="rogue-trapsmith.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/dms-guild/mirts-undermountain-survival-guide/archetype/rogue-trapsmith.xml" />
 		</update>
 	</info>
 	<element name="Trapsmith" type="Archetype" source="Mirt’s Undermountain Survival Guide" id="ID_DMSG_MUSG_ARCHETYPE_TRAPSMITH">
@@ -142,4 +142,4 @@
 			<description>When you are adjacent to or are one of the targets of a sprung trap, you may use a reaction to quickly disable the trap and prevent its effects from occurring. You must succeed in a DC{{booby traps:dc}} Dexterity check using your thieves’ tools to disarm the trap; if you fail, the trap activates as normal.</description>
 		</sheet>
 	</element>
-</aurorahomebrew>
+</elements>

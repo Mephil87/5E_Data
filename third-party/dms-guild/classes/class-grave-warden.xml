@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Grave Warden</name>
 		<update version="0.0.2">
-			<file name="class-grave-warden.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/dms-guild/classes/class-grave-warden.xml" />
+			<file name="class-grave-warden.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/dms-guild/classes/class-grave-warden.xml" />
 		</update>
 	</info>
 	
@@ -1786,4 +1786,4 @@
 		</rules>
     </element>
 	
-</aurorahomebrew>
+</elements>

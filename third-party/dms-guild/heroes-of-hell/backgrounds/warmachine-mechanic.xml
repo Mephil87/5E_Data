@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<update version="0.0.2">
-			<file name="warmachine-mechanic.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/dms-guild/heroes-of-hell/backgrounds/warmachine-mechanic.xml" />
+			<file name="warmachine-mechanic.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/dms-guild/heroes-of-hell/backgrounds/warmachine-mechanic.xml" />
 		</update>
 	</info>	
 	<element name="Infernal Warmachine Mechanic" type="Background" source="Heroes of Hell" id="ID_DMSG_HOH_BACKGROUND_INFERNAL_WARMACHINE_MECHANIC">
@@ -36,4 +36,4 @@
 			<description>You are able to scrounge, scavenge and repurpose the various detritus in Avernus to keep infernal war machines running well after they should have failed. Any war machine your work on takes half the usual time to affect repairs, and gains {{level}} additional hit points.</description>			
 		</sheet>
 	</element>
-</aurorahomebrew>
+</elements>

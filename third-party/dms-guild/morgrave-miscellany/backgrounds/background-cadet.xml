@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Cadet</name>
 		<description>The Cadet Background from Morgrave Miscellany.</description>
 		<author url="https://www.dmsguild.com/browse.php?author=Keith%20Baker">Keith Baker &amp; Ruty Rutenberg</author>
 		<update version="0.0.2">
-			<file name="background-cadet.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/dms-guild/morgrave-miscellany/backgrounds/background-cadet.xml" />
+			<file name="background-cadet.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/dms-guild/morgrave-miscellany/backgrounds/background-cadet.xml" />
 		</update>
 	</info>	
 	<element name="Cadet" type="Background" source="Morgrave Miscellany" id="ID_DMSG_MGMS_BACKGROUND_CADET">
@@ -72,4 +72,4 @@
 		</description>
 		<sheet alt="Pupil of Conflict" />
 	</element>
-</aurorahomebrew>
+</elements>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>The Magus</name>
 		<update version="0.0.4">
-			<file name="class-magus.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/dms-guild/classes/class-magus.xml" />
+			<file name="class-magus.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/dms-guild/classes/class-magus.xml" />
 		</update>
 	</info>
 	
@@ -2573,7 +2573,7 @@
 	<append id="ID_XGTE_SPELL_SHAPE_WATER">
 		<supports>HUFF_Magus,Magus Primordial Seal</supports>
 	</append>
-	<append id="ID_XGTE_SPELL_ABSORB_aurorahomebrew">
+	<append id="ID_XGTE_SPELL_ABSORB_ELEMENTS">
 		<supports>HUFF_Magus,Magus Primordial Seal</supports>
 	</append>
 	<append id="ID_PHB_SPELL_ALARM">
@@ -3472,4 +3472,4 @@
 	<append id="ID_PHB_SPELL_WALL_OF_THORNS">
 		<supports>HUFF_Magus,Magus Sylvan Circle</supports>
 	</append>
-</aurorahomebrew>
+</elements>

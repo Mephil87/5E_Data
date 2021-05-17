@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<update version="0.0.1">
-			<file name="warlock-dark.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/dms-guild/mirts-undermountain-survival-guide/archetype/warlock-dark.xml" />
+			<file name="warlock-dark.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/dms-guild/mirts-undermountain-survival-guide/archetype/warlock-dark.xml" />
 		</update>
 	</info>
 	<element name="The Dark" type="Archetype" source="Mirt’s Undermountain Survival Guide" id="ID_DMSG_MUSG_ARCHETYPE_THE_DARK">
@@ -115,4 +115,4 @@
 			When using this feature, you can curse an ally to make all of their attacks, saving throws, and ability checks with disadvantage for the duration, and the target can then make its first attack each round with advantage.</description>
 		</sheet>
 	</element>
-</aurorahomebrew>
+</elements>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Extreme Explorer</name>
 		<description>The Extreme Explorer from Morgrave Miscellany</description>
 		<author url="https://www.dmsguild.com/browse.php?author=Keith%20Baker">Keith Baker &amp; Ruty Rutenberg</author>
 		<update version="0.0.1">
-			<file name="barbarian-extreme-explorer.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/dms-guild/morgrave-miscellany/classes/barbarian-extreme-explorer.xml" />
+			<file name="barbarian-extreme-explorer.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/dms-guild/morgrave-miscellany/classes/barbarian-extreme-explorer.xml" />
 		</update>
 	</info>
 	<!-- Path of the Extreme Explorer -->
@@ -16,7 +16,7 @@
 			<p class="indent">Rather than being driven by rage, an extreme explorer is guided by remarkable luck and fueled by pure adrenaline. Every extreme explorer is a unique individual, and background helps to define their story. The adventurous Morgrave scholar could be a sage, who’s equally comfortable in a library or a jungle. A bold crypt raider might take the criminal background, reflecting a knack for dealing with traps and useful contacts when it comes to fencing recovered artifacts. An urchin born in Sharn has no interest in gold or glory, but has never met a tower that couldn’t be climbed. Most of all, an extreme explorer is an adventurer, ever ready for the next challenge.</p>
 			<div element="ID_DMSG_MGMS_ARCHETYPE_FEATURE_EXTREME_EXPLORER_ADRENALINE_RUSH" />
 			<div element="ID_DMSG_MGMS_ARCHETYPE_FEATURE_EXTREME_EXPLORER_CUNNING_ARTISAN" />
-			<div element="ID_DMSG_MGMS_ARCHETYPE_FEATURE_EXTREME_EXPLORER_ADAPTIVE_aurorahomebrew" />
+			<div element="ID_DMSG_MGMS_ARCHETYPE_FEATURE_EXTREME_EXPLORER_ADAPTIVE_ELEMENTS" />
 			<div element="ID_DMSG_MGMS_ARCHETYPE_FEATURE_EXTREME_EXPLORER_EXTREME_RUSH" />
 			<div element="ID_DMSG_MGMS_ARCHETYPE_FEATURE_EXTREME_EXPLORER_ELEVATED_EXPLORATION" />
 			<div element="ID_DMSG_MGMS_ARCHETYPE_FEATURE_EXTREME_EXPLORER_CONDITIONED_ENDURANCE" />
@@ -27,7 +27,7 @@
 		<rules>
 			<grant type="Archetype Feature" id="ID_DMSG_MGMS_ARCHETYPE_FEATURE_EXTREME_EXPLORER_ADRENALINE_RUSH" level="3" />
 			<grant type="Archetype Feature" id="ID_DMSG_MGMS_ARCHETYPE_FEATURE_EXTREME_EXPLORER_CUNNING_ARTISAN" level="3" />
-			<grant type="Archetype Feature" id="ID_DMSG_MGMS_ARCHETYPE_FEATURE_EXTREME_EXPLORER_ADAPTIVE_aurorahomebrew" level="6" />
+			<grant type="Archetype Feature" id="ID_DMSG_MGMS_ARCHETYPE_FEATURE_EXTREME_EXPLORER_ADAPTIVE_ELEMENTS" level="6" />
 			<grant type="Archetype Feature" id="ID_DMSG_MGMS_ARCHETYPE_FEATURE_EXTREME_EXPLORER_EXTREME_RUSH" level="6" />
 			<grant type="Archetype Feature" id="ID_DMSG_MGMS_ARCHETYPE_FEATURE_EXTREME_EXPLORER_ELEVATED_EXPLORATION" level="10" />
 			<grant type="Archetype Feature" id="ID_DMSG_MGMS_ARCHETYPE_FEATURE_EXTREME_EXPLORER_CONDITIONED_ENDURANCE" level="14" />
@@ -51,13 +51,13 @@
 			<description>As part of a short rest, you can harvest bone and hide from a slain beast, construct, dragon, monstrosity, or plant creature of size Small or larger to create one of the following items: a shield, a club, a javelin, 1d4 darts or blowgun needles.</description>
 		</sheet>
 	</element>
-	<element name="Adaptive aurorahomebrew" type="Archetype Feature" source="Morgrave Miscellany" id="ID_DMSG_MGMS_ARCHETYPE_FEATURE_EXTREME_EXPLORER_ADAPTIVE_aurorahomebrew">
+	<element name="Adaptive Elements" type="Archetype Feature" source="Morgrave Miscellany" id="ID_DMSG_MGMS_ARCHETYPE_FEATURE_EXTREME_EXPLORER_ADAPTIVE_ELEMENTS">
 		<description>
-			<p>Starting at 6th level, as part of a short rest, you can spend 10 minutes insulating you or your equipment against the aurorahomebrew. You must have access to cloth, furs, paper, plants, and other naturally occurring materials to create your insulation.</p>
+			<p>Starting at 6th level, as part of a short rest, you can spend 10 minutes insulating you or your equipment against the elements. You must have access to cloth, furs, paper, plants, and other naturally occurring materials to create your insulation.</p>
 			<p class="indent">Once you are insulated in this way, you gain resistance to cold or fire damage, and the choice you make allows you to tolerate temperatures as low as −50, or as high as 150, degrees Fahrenheit without any additional protection. You choose when you complete the short rest.</p>
 		</description>
 		<sheet>
-			<description>As part of a short rest, you can spend 10 minutes insulating you or your equipment against the aurorahomebrew. You must have access to materials to create your insulation which can withstand temperatures as low as −50, or as high as 150, degrees Fahrenheit. You choose when you complete the short rest.</description>
+			<description>As part of a short rest, you can spend 10 minutes insulating you or your equipment against the elements. You must have access to materials to create your insulation which can withstand temperatures as low as −50, or as high as 150, degrees Fahrenheit. You choose when you complete the short rest.</description>
 		</sheet>
 	</element>
 	<element name="Extreme Rush" type="Archetype Feature" source="Morgrave Miscellany" id="ID_DMSG_MGMS_ARCHETYPE_FEATURE_EXTREME_EXPLORER_EXTREME_RUSH">
@@ -93,4 +93,4 @@
 			<description>When you roll a Hit Die to fuel one of your Extreme Explorer features, and the number is less than {{proficiency}}, you don’t expend the Hit Die after you add the number to your roll.</description>
 		</sheet>
 	</element>
-</aurorahomebrew>
+</elements>

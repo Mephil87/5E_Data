@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<update version="0.0.1">
-			<file name="cleric-cavern-domain.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/dms-guild/mirts-undermountain-survival-guide/archetype/cleric-cavern-domain.xml" />
+			<file name="cleric-cavern-domain.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/dms-guild/mirts-undermountain-survival-guide/archetype/cleric-cavern-domain.xml" />
 		</update>
 	</info>
 	<element name="Cavern Domain" type="Archetype" source="Mirt’s Undermountain Survival Guide" id="ID_DMSG_MUSG_ARCHETYPE_CAVERN_DOMAIN">
@@ -115,4 +115,4 @@
 			<description>You can burrow through nonmagical, unworked earth and stone at your walking speed. While doing so, you do not disturb the material you move through and leave no tunnel behind you. While burrowing, you have 30 feet of tremorsense.</description>
 		</sheet>
 	</element>
-</aurorahomebrew>
+</elements>

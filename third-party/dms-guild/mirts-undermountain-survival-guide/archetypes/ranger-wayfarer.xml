@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<update version="0.0.2">
-			<file name="ranger-wayfarer.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/dms-guild/mirts-undermountain-survival-guide/archetype/ranger-wayfarer.xml" />
+			<file name="ranger-wayfarer.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/dms-guild/mirts-undermountain-survival-guide/archetype/ranger-wayfarer.xml" />
 		</update>
 	</info>
 	<element name="Wayfarer" type="Archetype" source="Mirt’s Undermountain Survival Guide" id="ID_DMSG_MUSG_ARCHETYPE_WAYFARER">
@@ -72,4 +72,4 @@
 			<description>Allies within 10 feet of you also gain the benefits of your danger sense.</description>
 		</sheet>
 	</element>
-</aurorahomebrew>
+</elements>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Cook</name>
 		<description>The cook class from DM’s Guild.</description>
 		<author url="https://www.dmsguild.com/product/232212/The-cook-Class">Sam Grierson</author>
 		<update version="0.0.2">
-			<file name="class-cook.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/dms-guild/classes/class-cook.xml" />
+			<file name="class-cook.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/dms-guild/classes/class-cook.xml" />
 		</update>
 	</info>
 
@@ -1045,7 +1045,7 @@
 		<prerequisite>15th level</prerequisite>
 		<requirements>[cook:15]</requirements>
 		<description>
-			<p>A pastry with a fruity filling swirled together with the primal elemental salts. When ingested, the power of the aurorahomebrew manifests itself inside the target’s body. For 1 minute, the target gains resistance to Acid, Fire, Poison, Lightning, and Thunder damage. They also gain a flying and swimming speed equal to their walking speed for the duration.</p>
+			<p>A pastry with a fruity filling swirled together with the primal elemental salts. When ingested, the power of the elements manifests itself inside the target’s body. For 1 minute, the target gains resistance to Acid, Fire, Poison, Lightning, and Thunder damage. They also gain a flying and swimming speed equal to their walking speed for the duration.</p>
 		</description>
 		<sheet>
 			<description>For 1 min, the target gains resistance to Acid, Fire, Poison, Lightning, and Thunder damage. They also gain flying and swimming speed equal to their movement speed for the duration.</description>
@@ -1294,4 +1294,4 @@
 			<description level="20">A friendly target heals 7d6, a hostile target makes a constitution save and takes 7d6 acid damage on a fail or half as much on a success.</description>
 		</sheet>
 	</element>
-</aurorahomebrew>
+</elements>

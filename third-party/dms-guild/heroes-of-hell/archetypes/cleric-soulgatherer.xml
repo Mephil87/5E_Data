@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<update version="0.0.1">
-			<file name="cleric-soulgatherer.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/dms-guild/heroes-of-hell/archetypes/cleric-soulgatherer.xml" />
+			<file name="cleric-soulgatherer.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/dms-guild/heroes-of-hell/archetypes/cleric-soulgatherer.xml" />
 		</update>
 	</info>	
 	<element name="Soul Gatherer Domain" type="Archetype" source="Heroes of Hell" id="ID_DMSG_HOH_ARCHETYPE_SOUL_GATHERER_DOMAIN">
@@ -132,4 +132,4 @@
 			Soul Guard – Your host infuses your soul and you are protected from death. If you are reduced to 0 hit points you immediately gain a number of hit points equal to your cleric level. The channel divinity automatically ends after the effect.</description>
 		</sheet>
 	</element>
-</aurorahomebrew>
+</elements>

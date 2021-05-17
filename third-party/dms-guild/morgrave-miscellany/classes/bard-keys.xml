@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>College of Keys</name>
 		<description>The College of Keys from Morgrave Miscellany.</description>
 		<author url="https://www.dmsguild.com/browse.php?author=Keith%20Baker">Keith Baker &amp; Ruty Rutenberg</author>
 		<update version="0.0.1">
-			<file name="bard-keys.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/dms-guild/morgrave-miscellany/classes/bard-keys.xml" />
+			<file name="bard-keys.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/dms-guild/morgrave-miscellany/classes/bard-keys.xml" />
 		</update>
 	</info>
 	<element name="College of Keys" type="Archetype" source="Morgrave Miscellany" id="ID_DMSG_MGMS_ARCHETYPE_COLLEGE_OF_KEYS">
@@ -82,4 +82,4 @@
 			<description>You can expend one use of Bardic Inspiration to disarm all traps and open all locks within 30 feet for a number of rounds equal to the number you roll on the Bardic Inspiration die.</description>
 		</sheet>
 	</element>
-</aurorahomebrew>
+</elements>

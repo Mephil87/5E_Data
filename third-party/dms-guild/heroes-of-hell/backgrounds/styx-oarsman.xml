@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<update version="0.0.2">
-			<file name="styx-oarsman.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/dms-guild/heroes-of-hell/backgrounds/styx-oarsman.xml" />
+			<file name="styx-oarsman.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/dms-guild/heroes-of-hell/backgrounds/styx-oarsman.xml" />
 		</update>
 	</info>	
 	<element name="Styx Oarsman" type="Background" source="Heroes of Hell" id="ID_DMSG_HOH_BACKGROUND_STYX_OARSMAN">
@@ -36,4 +36,4 @@
 			<description>You have been exposed to the memory stealing properties of the waters of the Styx so many times you have actually developed a slight resistance to memory altering effects - not to mention there's very little left to alter. You have advantage on saving throws against spells or abilities that alter or affect your memory. This includes exposure to the waters of the river Styx.</description>
 		</sheet>
 	</element>
-</aurorahomebrew>
+</elements>

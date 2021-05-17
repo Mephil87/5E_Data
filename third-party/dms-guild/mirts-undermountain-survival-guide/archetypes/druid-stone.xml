@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<update version="0.0.1">
-			<file name="druid-stone.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/dms-guild/mirts-undermountain-survival-guide/archetype/druid-stone.xml" />
+			<file name="druid-stone.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/dms-guild/mirts-undermountain-survival-guide/archetype/druid-stone.xml" />
 		</update>
 	</info>
 	<element name="Cirle of Stone" type="Archetype" source="Mirt’s Undermountain Survival Guide" id="ID_DMSG_MUSG_ARCHETYPE_CIRLE_OF_STONE">
@@ -93,4 +93,4 @@
 			<description>You can move through solid earth or stone as if it was air and without destabilizing it, but you can’t end your movement there. If you do so, you are ejected to the nearest unoccupied space, and you are stunned until the end of your next turn.</description>
 		</sheet>
 	</element>
-</aurorahomebrew>
+</elements>

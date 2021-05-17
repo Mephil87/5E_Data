@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Eberron: Heroes of the Planes</name>
 		<update version="0.0.1">
-			<file name="eberron-heroes-of-the-planes.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/dms-guild/archetypes/eberron-heroes-of-the-planes.xml" />
+			<file name="eberron-heroes-of-the-planes.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/dms-guild/archetypes/eberron-heroes-of-the-planes.xml" />
 		</update>
 	</info>
 
@@ -1346,4 +1346,4 @@
 		</sheet>
 	</element>
 
-</aurorahomebrew>
+</elements>

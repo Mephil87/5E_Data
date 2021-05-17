@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
     <info>
         <name>Prism: Light &amp; Magic</name>
         <update version="0.0.4">
-            <file name="class-prism.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/dms-guild/classes/class-prism.xml" />
+            <file name="class-prism.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/dms-guild/classes/class-prism.xml" />
         </update>
     </info>
     
@@ -22,4 +22,4 @@
 		</setters>
 	</element>
     
-</aurorahomebrew>
+</elements>

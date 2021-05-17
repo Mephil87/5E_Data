@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Pact of the Host</name>
 		<description>The Pact of the Host from Morgrave Miscellany</description>
 		<author url="https://www.dmsguild.com/browse.php?author=Keith%20Baker">Keith Baker &amp; Ruty Rutenberg</author>
 		<update version="0.0.1">
-			<file name="warlock-host-pact.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/dms-guild/morgrave-miscellany/classes/warlock-host-pact.xml" />
+			<file name="warlock-host-pact.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/dms-guild/morgrave-miscellany/classes/warlock-host-pact.xml" />
 		</update>
 	</info>
 	
@@ -184,4 +184,4 @@
 			<description level="17">While in symbiosis you can spray one creature or object within 60 ft with acid. The target takes 4d8 acid damage and its speed is reduced by 10 feet unless it succeeds on a Dexterity saving throw (DC {{spellcasting:dc:wis}}). </description>
 		</sheet>
 	</element>
-</aurorahomebrew>
+</elements>

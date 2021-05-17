@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<update version="0.0.1">
-			<file name="rogue-relichunter.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/dms-guild/heroes-of-hell/archetypes/rogue-relichunter.xml" />
+			<file name="rogue-relichunter.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/dms-guild/heroes-of-hell/archetypes/rogue-relichunter.xml" />
 		</update>
 	</info>	
 	<element name="Relic Hunter" type="Archetype" source="Heroes of Hell" id="ID_DMSG_HOH_ARCHETYPE_RELIC_HUNTER">
@@ -72,4 +72,4 @@
 			<stat name="attunement:max" value="1" />
 		</rules>
 	</element>
-</aurorahomebrew>
+</elements>

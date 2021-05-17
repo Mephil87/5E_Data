@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Mark of Death</name>
 		<description>Mark of Death from Morgrave Miscellany</description>
 		<author url="https://www.dmsguild.com/browse.php?author=Keith%20Baker">Keith Baker &amp; Ruty Rutenberg</author>
 		<update version="0.0.1">
-			<file name="mark-death.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/dms-guild/morgrave-miscellany/races/mark-death.xml" />
+			<file name="mark-death.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/dms-guild/morgrave-miscellany/races/mark-death.xml" />
 		</update>
 	</info>
 	<element name="The Mark of Death" type="Sub Race" source="Morgrave Miscellany" id="ID_DMSG_MGMS_SUB_RACE_DRAGONMARK_DEATH">
@@ -45,4 +45,4 @@
 			<description>You establish a telepathic link with one undead creature you touch that isn’t hostile toward you. For the next 10 minutes, the link is active while you and the creature are within line of sight of each other. Through the link, the undead creature can understand your telepathic messages to it, and it can telepathically communicate simple emotions and concepts back to you. While the link is active, the undead creature gains advantage on attack rolls against any creature within 5 feet of you that you can see.</description>
 		</sheet>
 	</element>
-</aurorahomebrew>
+</elements>

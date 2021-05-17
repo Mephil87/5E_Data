@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<update version="0.0.1">
-			<file name="paladin-shacklebreaker.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/dms-guild/heroes-of-hell/archetypes/paladin-shacklebreaker.xml" />
+			<file name="paladin-shacklebreaker.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/dms-guild/heroes-of-hell/archetypes/paladin-shacklebreaker.xml" />
 		</update>
 	</info>	
 	<element name="Oath of the Shacklebreaker" type="Archetype" source="Heroes of Hell" id="ID_DMSG_HOH_ARCHETYPE_SHACKLEBREAKER">
@@ -138,4 +138,4 @@
 			<stat name="ac:armored:enhancement" value="2" bonus="enhancement" />
 		</rules>
 	</element>
-</aurorahomebrew>
+</elements>
