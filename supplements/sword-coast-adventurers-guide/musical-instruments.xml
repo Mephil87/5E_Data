@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Musical Instruments</name>
 		<description>The Musical Instruments from the Sword Coast Adventurer’s Guide.</description>
 		<author url="http://dnd.wizards.com/products/tabletop-games/rpg-products/sc-adventurers-guide">Wizards of the Coast</author>
 		<update version="0.1.3">
-			<file name="musical-instruments.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/supplements/sword-coast-adventurers-guide/musical-instruments.xml" />
+			<file name="musical-instruments.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/supplements/sword-coast-adventurers-guide/musical-instruments.xml" />
 		</update>
 	</info>
 
@@ -238,4 +238,4 @@
 			<p>A complex pump organ that originated with the zulkirs of Thay, who use it in the casting of their spells. It is considered to have a dramatic, but sinister, sound.</p>
 		</description>
 	</element>
-</aurorahomebrew>
+</elements>

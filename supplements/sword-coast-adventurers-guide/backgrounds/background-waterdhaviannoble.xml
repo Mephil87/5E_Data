@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Waterdhavian Noble</name>
 		<description>Waterdhavian Noble Background</description>
 		<author url="http://dnd.wizards.com/products/tabletop-games/rpg-products/sc-adventurers-guide">Wizards of the Coast</author>
 		<update version="0.1.3">
-			<file name="background-waterdhaviannoble.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/supplements/sword-coast-adventurers-guide/backgrounds/background-waterdhaviannoble.xml" />
+			<file name="background-waterdhaviannoble.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/supplements/sword-coast-adventurers-guide/backgrounds/background-waterdhaviannoble.xml" />
 		</update>
 	</info>
 
@@ -80,4 +80,4 @@
 		</description>
 		<sheet alt="Kept in Style" />
 	</element>
-</aurorahomebrew>
+</elements>

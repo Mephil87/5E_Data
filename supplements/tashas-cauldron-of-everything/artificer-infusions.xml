@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<update version="0.0.1">
-			<file name="artificer-infusions.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/supplements/tashas-cauldron-of-everything/artificer-infusions.xml" />
+			<file name="artificer-infusions.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/supplements/tashas-cauldron-of-everything/artificer-infusions.xml" />
 		</update>
 	</info>
 	
@@ -246,4 +246,4 @@
 	</element>	
 
 
-</aurorahomebrew>
+</elements>

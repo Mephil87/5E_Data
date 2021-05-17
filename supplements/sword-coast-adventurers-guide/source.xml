@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<update version="0.1">
-			<file name="source.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/supplements/sword-coast-adventurers-guide/source.xml" />
+			<file name="source.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/supplements/sword-coast-adventurers-guide/source.xml" />
 		</update>
 	</info>
 	<element name="Sword Coast Adventurer’s Guide" type="Source" source="Core" id="ID_WOTC_SOURCE_SWORD_COAST_ADVENTURERS_GUIDE">
@@ -19,4 +19,4 @@
 			<set name="release">20151103</set>
 		</setters>
 	</element>
-</aurorahomebrew>
+</elements>

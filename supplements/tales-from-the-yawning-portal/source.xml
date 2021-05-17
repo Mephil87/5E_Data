@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<update version="0.1">
-			<file name="source.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/supplements/tales-from-the-yawning-portal/source.xml" />
+			<file name="source.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/supplements/tales-from-the-yawning-portal/source.xml" />
 		</update>
 	</info>
 	<element name="Tales from the Yawning Portal" type="Source" source="Core" id="ID_WOTC_SOURCE_TALES_FROM_THE_YAWNING_PORTAL">
@@ -19,4 +19,4 @@
 			<set name="release">20170404</set>
 		</setters>
 	</element>
-</aurorahomebrew>
+</elements>

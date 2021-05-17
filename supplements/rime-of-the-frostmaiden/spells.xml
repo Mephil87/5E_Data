@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<update version="0.1.1">
-			<file name="spells.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/supplements/rime-of-the-frostmaiden/spells.xml" />
+			<file name="spells.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/supplements/rime-of-the-frostmaiden/spells.xml" />
 		</update>
 	</info>	
 	<element name="Blade of Disaster" type="Spell" source="Icewind Dale: Rime of the Frostmaiden" id="ID_WOTC_IDROTF_SPELL_BLADE_OF_DISASTER">
@@ -71,4 +71,4 @@
 			<set name="isRitual">false</set>
 		</setters>
 	</element>
-</aurorahomebrew>
+</elements>

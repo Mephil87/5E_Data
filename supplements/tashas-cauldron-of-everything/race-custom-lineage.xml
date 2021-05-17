@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<update version="0.0.3">
-			<file name="race-custom-lineage.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/supplements/tashas-cauldron-of-everything/race-custom-lineage.xml" />
+			<file name="race-custom-lineage.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/supplements/tashas-cauldron-of-everything/race-custom-lineage.xml" />
 		</update>
 	</info>
 
@@ -82,4 +82,4 @@
 			<grant type="Vision" id="ID_VISION_DARKVISION" />
 		</rules>
 	</element>
-</aurorahomebrew>
+</elements>

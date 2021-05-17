@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<update version="0.1">
-			<file name="items.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/supplements/rime-of-the-frostmaiden/items.xml" />
+			<file name="items.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/supplements/rime-of-the-frostmaiden/items.xml" />
 		</update>
 	</info>	
 	<element name="Snowshoes" type="Item" source="Icewind Dale: Rime of the Frostmaiden" id="ID_WOTC_IDROTF_ITEM_SNOWSHOES">
@@ -592,4 +592,4 @@
 			<set name="valuable">true</set>
 		</setters>
 	</element>
-</aurorahomebrew>
+</elements>

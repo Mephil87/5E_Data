@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<update version="0.1.1">
-			<file name="source.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/supplements/rime-of-the-frostmaiden/source.xml" />
+			<file name="source.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/supplements/rime-of-the-frostmaiden/source.xml" />
 		</update>
 	</info>	
 	<element name="Icewind Dale: Rime of the Frostmaiden" type="Source" source="Core" id="ID_WOTC_SOURCE_ICEWIND_DALE_RIME_OF_THE_FROSTMAIDEN">
@@ -22,4 +22,4 @@
 			<set name="release">20200915</set>
 		</setters>
 	</element>
-</aurorahomebrew>
+</elements>

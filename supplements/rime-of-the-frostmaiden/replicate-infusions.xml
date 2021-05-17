@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<update version="0.0.1">
-			<file name="replicate-infusions.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/supplements/rime-of-the-frostmaiden/replicate-infusions.xml" />
+			<file name="replicate-infusions.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/supplements/rime-of-the-frostmaiden/replicate-infusions.xml" />
 		</update>
 	</info>
 	
@@ -32,4 +32,4 @@
 		</sheet>		
 	</element>
 
-</aurorahomebrew>
+</elements>

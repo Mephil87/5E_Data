@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Genasi</name>
 		<update version="0.1.8">
-			<file name="race-genasi.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/supplements/princes-of-the-apocalypse/races/race-genasi.xml" />
+			<file name="race-genasi.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/supplements/princes-of-the-apocalypse/races/race-genasi.xml" />
 		</update>
 	</info>
     
 	<element name="Genasi" type="Race" source="Princes of the Apocalypse" id="ID_WOTC_POTA_RACE_GENASI">
 		<description>
 			<p>Those who think of other planes at all consider them remote, distant realms, but planar influence can be felt throughout the world. It sometimes manifests in beings who, through an accident of birth, carry the power of the planes in their blood. The genasi are one such people, the offspring of genies and mortals.</p>
-			<p class="indent">The Elemental Planes are often inhospitable to natives of the Material Plane: crushing earth, searing flames, boundless skies, and endless seas make visiting these places dangerous for even a short time. The powerful genies, however, don’t face such troubles when venturing into the mortal world. They adapt well to the mingled aurorahomebrew of the Material Plane, and they sometimes visit—whether of their own volition or compelled by magic. Some genies can adopt mortal guise and travel incognito.</p>
+			<p class="indent">The Elemental Planes are often inhospitable to natives of the Material Plane: crushing earth, searing flames, boundless skies, and endless seas make visiting these places dangerous for even a short time. The powerful genies, however, don’t face such troubles when venturing into the mortal world. They adapt well to the mingled elements of the Material Plane, and they sometimes visit—whether of their own volition or compelled by magic. Some genies can adopt mortal guise and travel incognito.</p>
 			<p class="indent">During these visits, a mortal might catch a genie’s eye. Friendship forms, romance blooms, and sometimes children result. These children are genasi: individuals with ties to two worlds, yet belonging to neither. Some genasi are born of mortal–genie unions, others have two genasi as parents, and a rare few have a genie further up their family tree, manifesting an elemental heritage that’s lain dormant for generations.</p>
 			<p class="indent">Occasionally, genasi result from exposure to a surge of elemental power, through phenomena such as an eruption from the Inner Planes or a planar convergence. Elemental energy saturates any creatures in the area and might alter their nature enough that their offspring with other mortals are born as genasi.</p>
 			<h4>HEIRS TO ELEMENTAL POWER</h4>
@@ -259,4 +259,4 @@
 			<grant type="Spell" id="ID_PHB_SPELL_CREATE_OR_DESTROY_WATER" level="3" />
 		</rules>
 	</element>
-</aurorahomebrew>
+</elements>

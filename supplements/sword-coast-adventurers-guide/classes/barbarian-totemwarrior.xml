@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Totem Warrior Extensions</name>
 		<update version="0.1.3">
-			<file name="barbarian-totemwarrior.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/supplements/sword-coast-adventurers-guide/classes/barbarian-totemwarrior.xml" />
+			<file name="barbarian-totemwarrior.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/supplements/sword-coast-adventurers-guide/classes/barbarian-totemwarrior.xml" />
 		</update>
 	</info>
 
@@ -74,4 +74,4 @@
 			<description>While you’re raging, if you move at least 20 feet in a straight line toward a Large or smaller target right before making a melee weapon attack against it, you can use a bonus action to make an additional melee weapon attack against it.</description>
 		</sheet>
 	</element>
-</aurorahomebrew>
+</elements>

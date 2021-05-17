@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Swashbuckler</name>
 		<update version="0.1.3">
-			<file name="archetype-swashbuckler.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/supplements/sword-coast-adventurers-guide/classes/archetype-swashbuckler.xml" />
+			<file name="archetype-swashbuckler.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/supplements/sword-coast-adventurers-guide/classes/archetype-swashbuckler.xml" />
 		</update>
 	</info>
 	<element name="Swashbuckler" type="Archetype" source="Sword Coast Adventurer’s Guide" id="ID_WOTC_SCAG_ARCHETYPE_SWASHBUCKLER">
@@ -74,4 +74,4 @@
 			<description>If you miss with an attack roll, you can roll it again with advantage.</description>
 		</sheet>
 	</element>
-</aurorahomebrew>
+</elements>
