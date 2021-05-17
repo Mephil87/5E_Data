@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
         <name>Gambler</name>
 		<update version="0.0.2">
-			<file name="gambler.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/supplements/acquisitions-incorporated/backgrounds/gambler.xml" />
+			<file name="gambler.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/supplements/acquisitions-incorporated/backgrounds/gambler.xml" />
 		</update>
 	</info>
     <element name="Gambler" type="Background" source="Acquisitions Incorporated" id="ID_WOTC_ACQINC_BACKGROUND_GAMBLER">
@@ -71,4 +71,4 @@
 		</description>
 		<sheet alt="Never Tell Me the Odds" />
 	</element>
-</aurorahomebrew>
+</elements>

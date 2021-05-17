@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
         <name>Celebrity Adventurer’s Scion</name>
 		<update version="0.0.2">
-			<file name="celebrity-adventurers-scion.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/supplements/acquisitions-incorporated/backgrounds/celebrity-adventurers-scion.xml" />
+			<file name="celebrity-adventurers-scion.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/supplements/acquisitions-incorporated/backgrounds/celebrity-adventurers-scion.xml" />
 		</update>
 	</info>
 	<element name="Celebrity Adventurer’s Scion" type="Background" source="Acquisitions Incorporated" id="ID_WOTC_ACQINC_BACKGROUND_CELEBRITY_ADVENTURERS_SCION">
@@ -73,4 +73,4 @@
 		</description>
 		<sheet alt="Name Dropping" />
 	</element>    
-</aurorahomebrew>
+</elements>

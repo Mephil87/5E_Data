@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<update version="0.0.2">
-			<file name="mark-of-hospitality.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/supplements/eberron-rising-from-the-last-war/dragonmarks/mark-of-hospitality.xml" />
+			<file name="mark-of-hospitality.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/supplements/eberron-rising-from-the-last-war/dragonmarks/mark-of-hospitality.xml" />
 		</update>
 	</info>
 	<element name="Mark of Hospitality" type="Sub Race" source="Eberron: Rising from the Last War" id="ID_WOTC_ERLW_SUB_RACE_MARK_OF_HOSPITALITY">
@@ -85,4 +85,4 @@
 			<extend>ID_PHB_SPELL_HALLOW</extend>
 		</spellcasting>
 	</element>	
-</aurorahomebrew>
+</elements>

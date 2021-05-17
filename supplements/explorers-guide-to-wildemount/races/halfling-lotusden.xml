@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<update version="0.0.2">
-			<file name="halfling-lotusden.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/supplements/explorers-guide-to-wildemount/races/halfling-lotusden.xml" />
+			<file name="halfling-lotusden.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/supplements/explorers-guide-to-wildemount/races/halfling-lotusden.xml" />
 		</update>
 	</info>	
 	<element name="Lotusden Halfling" type="Sub Race" source="Explorer’s Guide to Wildemount" id="ID_WOTC_EGTW_SUB_RACE_LOTUSDEN_HALFLING">
@@ -42,4 +42,4 @@
 			<description>Ability checks made to track you have disadvantage, and you can move across difficult terrain made of nonmagical plants and undergrowth without expending extra movement.</description>
 		</sheet>
 	</element>
-</aurorahomebrew>
+</elements>

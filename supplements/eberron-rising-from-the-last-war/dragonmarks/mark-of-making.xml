@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<update version="0.0.2">
-			<file name="mark-of-making.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/supplements/eberron-rising-from-the-last-war/dragonmarks/mark-of-making.xml" />
+			<file name="mark-of-making.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/supplements/eberron-rising-from-the-last-war/dragonmarks/mark-of-making.xml" />
 		</update>
 	</info>
 	<element name="Mark of Making" type="Race Variant" source="Eberron: Rising from the Last War" id="ID_WOTC_ERLW_RACE_VARIANT_MARK_OF_MAKING">
@@ -101,4 +101,4 @@
 			<extend>ID_PHB_SPELL_CREATION</extend>
 		</spellcasting>
 	</element>
-</aurorahomebrew>
+</elements>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<update version="0.0.1">
-			<file name="supernatural-gifts.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/supplements/explorers-guide-to-wildemount/supernatural-gifts.xml" />
+			<file name="supernatural-gifts.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/supplements/explorers-guide-to-wildemount/supernatural-gifts.xml" />
 		</update>
 	</info>
 	<element name="Hollow One" type="Magic Item" source="Explorer’s Guide to Wildemount" id="ID_WOTC_EGTW_MAGIC_ITEM_HOLLOW_ONE">
@@ -62,4 +62,4 @@
 			<description>You can unsettle a creature you can see within 15 feet of you. The target has disadvantage on the next save it makes within the next minute. Constructs, undead, and creatures that can’t be frightened are immune to this feature.</description>
 		</sheet>
 	</element>		
-</aurorahomebrew>
+</elements>

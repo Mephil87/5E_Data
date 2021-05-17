@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
         <name>Failed Merchant</name>
 		<update version="0.0.2">
-			<file name="failed-merchant.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/supplements/acquisitions-incorporated/backgrounds/failed-merchant.xml" />
+			<file name="failed-merchant.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/supplements/acquisitions-incorporated/backgrounds/failed-merchant.xml" />
 		</update>
 	</info>
     <element name="Failed Merchant" type="Background" source="Acquisitions Incorporated" id="ID_WOTC_ACQINC_BACKGROUND_FAILED_MERCHANT">
@@ -72,4 +72,4 @@
 		</description>
 		<sheet alt="Supply Chain" />
 	</element>
-</aurorahomebrew>
+</elements>

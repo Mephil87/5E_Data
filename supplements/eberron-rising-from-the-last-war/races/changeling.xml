@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<update version="0.0.4">
-			<file name="changeling.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/supplements/eberron-rising-from-the-last-war/races/changeling.xml" />
+			<file name="changeling.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/supplements/eberron-rising-from-the-last-war/races/changeling.xml" />
 		</update>
 	</info>	
 	<element name="Changeling" type="Race" source="Eberron: Rising from the Last War" id="ID_WOTC_ERLW_RACE_CHANGELING">
@@ -75,4 +75,4 @@
 			<select type="Proficiency" name="Customized Skill Proficiency, Changeling Instincts"  number="2" supports="Skill" requirements="ID_WOTC_TCOE_OPTION_CUSTOMIZED_PROFICIENCY" />
 		</rules>
 	</element>	
-</aurorahomebrew>
+</elements>

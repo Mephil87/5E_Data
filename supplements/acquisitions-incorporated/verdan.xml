@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
         <name>Verdan</name>
 		<update version="0.0.3">
-			<file name="verdan.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/supplements/acquisitions-incorporated/verdan.xml" />
+			<file name="verdan.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/supplements/acquisitions-incorporated/verdan.xml" />
 		</update>
 	</info>    
 	<element name="Verdan" type="Race" source="Acquisitions Incorporated" id="ID_WOTC_ACQINC_RACE_VERDAN">
@@ -103,4 +103,4 @@
 			<grant type="Size" id="ID_SIZE_MEDIUM" level="5" />
 		</rules>
 	</element>
-</aurorahomebrew>
+</elements>

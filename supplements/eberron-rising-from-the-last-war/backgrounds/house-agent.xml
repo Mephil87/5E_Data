@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<update version="0.0.2">
-			<file name="house-agent.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/supplements/eberron-rising-from-the-last-war/backgrounds/house-agent.xml" />
+			<file name="house-agent.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/supplements/eberron-rising-from-the-last-war/backgrounds/house-agent.xml" />
 		</update>
 	</info>	
 	<element name="House Agent" type="Background" source="Eberron: Rising from the Last War" id="ID_WOTC_ERLW_BACKGROUND_HOUSE_AGENT">
@@ -273,4 +273,4 @@
 			<grant type="Proficiency" id="ID_PROFICIENCY_TOOL_PROFICIENCY_VEHICLES_LAND" />
 		</rules>
 	</element>
-</aurorahomebrew>
+</elements>

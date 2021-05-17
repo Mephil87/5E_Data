@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<update version="0.0.1">
-			<file name="deities.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/supplements/explorers-guide-to-wildemount/deities.xml" />
+			<file name="deities.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/supplements/explorers-guide-to-wildemount/deities.xml" />
 		</update>
 	</info>
 
@@ -50,7 +50,7 @@
 		<description>
 			<p>Guardian of spring, beauty, and the arts, Corellon is the patron of arcane magic and the fey. The Founding inspired them to wander the twisted lands, seeding them with the first arcane magics and raising the most ancient of forests. It was by the Arch Heart’s hand that the first elves wandered from the Feywild, and for this reason they are considered the Mother and Father of all elves. Those who seek art in all their work, whether magical or mundane, often worship at the altar of Corellon. They loathe the Spider Queen and her priestesses for leading the drow astray.</p>
 			<p class="indent">Corellon watches the business of mortals and gods from within the palace of Crescent Grove in the beautiful realm of Arborea, surrounded by towering white trees and pillars of marble.</p>
-			<p class="indent"><strong><em>Depiction.</em></strong> Most modern tapestries and tomes depict the Arch Heart as an elven being of impossible grace and beauty, androgynous and alluring, framed by long, wavy, golden hair. They were the inspiration for many early elven art pieces, and aurorahomebrew of their visage or symbol are included in most elven architecture.</p>
+			<p class="indent"><strong><em>Depiction.</em></strong> Most modern tapestries and tomes depict the Arch Heart as an elven being of impossible grace and beauty, androgynous and alluring, framed by long, wavy, golden hair. They were the inspiration for many early elven art pieces, and elements of their visage or symbol are included in most elven architecture.</p>
 			<p class="indent"><strong><em>Holy Day.</em></strong> Corellon’s holy day is called Elvendawn, or Midsummer. It is celebrated on the twentieth day of the sixth month, and commemorates the elves’ first emergence from the Feywild. Though the Dwendalian Empire doesn’t promote the worship of the Arch Heart, the elves of Bysaes Tyl quietly celebrate in private by opening small doors to the Feywild and having a little more wine than usual.</p>
 			<h5 class="caption">COMMANDMENTS OF CORELLON</h5>
 			<ul>
@@ -132,7 +132,7 @@
 			<p class="indent">Followers of the Raven Queen also show respect to the Wild Mother as the caretaker of what remains when the Matron of Death’s work is done. Those of Ki’Nau descent often make offerings to Melora, considering her a collective entity that represents their ancient nature gods within a singular feminine form. Druids of Melora the Wild Mother and clerics of her lover, Erathis the Law Bearer, work together to preserve the balance of nature and civilization. However, worship of Melora was outlawed in the Dwendalian Empire, causing disagreement between clerics of Erathis within Western Wynandir, where many blame poor weather and natural disasters on the ire of their deity’s partner.</p>
 			<p class="indent">Eschewing a permanent realm, Melora prefers to wander the planes to oversee natural life. She is often found among the unearthly beauty of Arvandor’s infinite expanse of deep woods, hunting unnatural things that corrupt the wilds.</p>
 			<p class="indent"><strong><em>Depiction.</em></strong> Immortalized through wooden reliefs and carved idols in hidden, overgrown groves and rural shrines, the Wild Mother is shown as a beautiful woman with green skin nearly swallowed by a wild, tangled wreath of hair, leaves, and vines that dwarf her lithe form.</p>
-			<p class="indent"><strong><em>Holy Day.</em></strong> Melora’s holy day is Wild’s Grandeur, which is celebrated on the vernal equinox, usually the twentieth day of the third month. The people of the Menagerie Coast set aside this day to sail for no reason other than the pleasure of observing the natural beauty of their surroundings. Those who still partake in aurorahomebrew of Ki’Nau culture take this day to appreciate the fruits and foods granted by the sea, leaving offerings of delicacies and small handmade crafts at temporary altars of twisted roots and grasses.</p>
+			<p class="indent"><strong><em>Holy Day.</em></strong> Melora’s holy day is Wild’s Grandeur, which is celebrated on the vernal equinox, usually the twentieth day of the third month. The people of the Menagerie Coast set aside this day to sail for no reason other than the pleasure of observing the natural beauty of their surroundings. Those who still partake in elements of Ki’Nau culture take this day to appreciate the fruits and foods granted by the sea, leaving offerings of delicacies and small handmade crafts at temporary altars of twisted roots and grasses.</p>
 			<h5 class="caption">COMMANDMENTS OF MELORA</h5>
 			<ul>
 				<li>Protect the untamed wilderness from exploitation and destruction.</li>
@@ -442,7 +442,7 @@
 			<p><strong>Ruin’s Wake.</strong> This Gruumsh-blessed ivory spear can effortlessly pierce armor and transforms into lightning when hurled. The life force of a balor named Yarrowish was used to forge the weapon.</p>
 			<p><strong>Silken Spite.</strong> This rapier has a blade forged from spider silk that gives the wielder Lolth’s blessing. The life force of a yochlol named Sinnafex was used to forge the weapon.</p>
 			<p><strong>The Bloody End.</strong> This adamantine morningstar bears the boon of Bane, and has yet to be found after the Calamity. It has the power to subjugate the wielder’s enemies. The life force of a pit fiend named Izeelzee was used to forge the weapon.</p>
-			<p><strong>Will of the Talon.</strong> This war pick bears the mark of Tiamat and makes the wielder impervious to the aurorahomebrew and grants them the power of dragon breath. The life force of an bone devil named Ashtyrlon was used to forge the weapon.</p>
+			<p><strong>Will of the Talon.</strong> This war pick bears the mark of Tiamat and makes the wielder impervious to the elements and grants them the power of dragon breath. The life force of an bone devil named Ashtyrlon was used to forge the weapon.</p>
 		</description>
 		<setters>
 			<set name="setting">Wildemount</set>
@@ -586,4 +586,4 @@
 			<set name="symbol">Single blackened wing</set>
 		</setters>
 	</element>	
-</aurorahomebrew>
+</elements>

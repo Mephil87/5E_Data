@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<update version="0.0.4">
-			<file name="source.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/supplements/explorers-guide-to-wildemount/source.xml" />
+			<file name="source.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/supplements/explorers-guide-to-wildemount/source.xml" />
 		</update>
 	</info>
 	<element name="Explorer’s Guide to Wildemount" type="Source" source="Core" id="ID_WOTC_SOURCE_EXPLORERS_GUIDE_TO_WILDEMOUNT">
@@ -26,4 +26,4 @@
 			<set name="release">20200317</set>
 		</setters>
 	</element>	
-</aurorahomebrew>
+</elements>

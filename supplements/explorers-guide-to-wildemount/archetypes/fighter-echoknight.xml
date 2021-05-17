@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<update version="0.0.2">
-			<file name="fighter-echoknight.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/supplements/explorers-guide-to-wildemount/archetypes/fighter-echoknight.xml" />
+			<file name="fighter-echoknight.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/supplements/explorers-guide-to-wildemount/archetypes/fighter-echoknight.xml" />
 		</update>
 	</info>
 	<element name="Echo Knight" type="Archetype" source="Explorer’s Guide to Wildemount" id="ID_WOTC_EGTW_ARCHETYPE_FIGHTER_ECHO_KNIGHT">
@@ -108,4 +108,4 @@
 			When you roll initiative and have no uses of your Unleash Incarnation feature left, you regain one use of that feature.</description>
 		</sheet>
 	</element>	
-</aurorahomebrew>
+</elements>

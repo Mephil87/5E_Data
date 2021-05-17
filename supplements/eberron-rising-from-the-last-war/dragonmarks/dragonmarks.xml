@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<update version="0.0.1">
-			<file name="dragonmarks.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/supplements/eberron-rising-from-the-last-war/dragonmarks/dragonmarks.xml" />
+			<file name="dragonmarks.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/supplements/eberron-rising-from-the-last-war/dragonmarks/dragonmarks.xml" />
 		</update>
 	</info>
 	
@@ -178,4 +178,4 @@
 			<stat name="charisma" value="1" alt="Dragonmark" />
 		</rules>
 	</element>
-</aurorahomebrew>
+</elements>

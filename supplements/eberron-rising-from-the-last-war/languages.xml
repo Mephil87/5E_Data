@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<update version="0.0.2">
-			<file name="languages.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/supplements/eberron-rising-from-the-last-war/languages.xml" />
+			<file name="languages.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/supplements/eberron-rising-from-the-last-war/languages.xml" />
 		</update>
 	</info>
 	<element name="Riedran" type="Language" source="Eberron: Rising from the Last War" id="ID_WOTC_ERLW_LANGUAGE_RIEDRAN">
@@ -32,4 +32,4 @@
 			<set name="exotic">true</set>
 		</setters>
 	</element>
-</aurorahomebrew>
+</elements>

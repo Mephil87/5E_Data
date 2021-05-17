@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
         <name>Items</name>
 		<update version="0.0.3">
-			<file name="items.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/supplements/acquisitions-incorporated/items.xml" />
+			<file name="items.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/supplements/acquisitions-incorporated/items.xml" />
 		</update>
 	</info>
 	<element name="Orrery of the Wanderer" type="Magic Item" source="Acquisitions Incorporated" id="ID_WOTC_ACQINC_MAGIC_ITEM_ORRERY_OF_THE_WANDERER">
@@ -161,4 +161,4 @@
 			<stat name="wisdom:save:misc" value="1" />			
 		</rules>
 	</element>
-</aurorahomebrew>
+</elements>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
         <name>Rival Intern</name>
 		<update version="0.0.2">
-			<file name="rival-intern.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/supplements/acquisitions-incorporated/backgrounds/rival-intern.xml" />
+			<file name="rival-intern.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/supplements/acquisitions-incorporated/backgrounds/rival-intern.xml" />
 		</update>
 	</info>
 	<element name="Rival Intern" type="Background" source="Acquisitions Incorporated" id="ID_WOTC_ACQINC_BACKGROUND_RIVAL_INTERN">
@@ -72,4 +72,4 @@
 		</description>
 		<sheet alt="Inside Informant" />
 	</element>
-</aurorahomebrew>
+</elements>

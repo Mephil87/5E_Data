@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<update version="0.0.4">
-			<file name="warforged.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/supplements/eberron-rising-from-the-last-war/races/warforged.xml" />
+			<file name="warforged.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/supplements/eberron-rising-from-the-last-war/races/warforged.xml" />
 		</update>
 	</info>	
 	<element name="Warforged" type="Race" source="Eberron: Rising from the Last War" id="ID_WOTC_ERLW_RACE_WARFORGED">
 		<description>
 			<p>The warforged were built to fight in the Last War. While the first warforged were mindless automatons, House Cannith devoted vast resources to improving these steel soldiers. An unexpected breakthrough produced sapient soldiers, giving rise to what some have only grudgingly accepted as a new species. Warforged are made from wood and metal, but they can feel pain and emotion. Built as weapons, they must now find a purpose beyond war. A warforged can be a steadfast ally, a cold-hearted killer, or a visionary in search of meaning.</p>
 			<h4>LIVING STEEL AND STONE</h4>
-			<p>Warforged are formed from a blend of organic and inorganic materials. Root-like cords infused with alchemical fluids serve as their muscles, wrapped around a framework of steel, darkwood, or stone. Armored plates form a protective outer shell and reinforce joints. Warforged share a common facial design, with a hinged jaw and crystal eyes embedded beneath a reinforced brow ridge. Beyond these common aurorahomebrew of warforged design, the precise materials and build of a warforged vary based on the purpose for which it was designed.</p>
+			<p>Warforged are formed from a blend of organic and inorganic materials. Root-like cords infused with alchemical fluids serve as their muscles, wrapped around a framework of steel, darkwood, or stone. Armored plates form a protective outer shell and reinforce joints. Warforged share a common facial design, with a hinged jaw and crystal eyes embedded beneath a reinforced brow ridge. Beyond these common elements of warforged design, the precise materials and build of a warforged vary based on the purpose for which it was designed.</p>
 			<p class="indent">Although they were manufactured, warforged are living humanoids. Resting, healing magic, and the Medicine skill all provide the same benefits to warforged that they do to other humanoids.</p>
 			<h4>WARFORGED PERSONALITY</h4>
 			<p>The warforged were built to serve and to fight. For most of their existence, warforged had a clearly defined function and were encouraged to focus purely on that role. The Treaty of Thronehold gave them freedom, but many still struggle both to find a place in the post-war world and to relate to the creatures who created them.</p>
@@ -140,4 +140,4 @@
 			<select type="Proficiency" name="Simple Weapon or Tool, Specialized Design" supports="Simple||Tool" requirements="ID_WOTC_TCOE_OPTION_CUSTOMIZED_PROFICIENCY" />
 		</rules>
 	</element>
-</aurorahomebrew>
+</elements>

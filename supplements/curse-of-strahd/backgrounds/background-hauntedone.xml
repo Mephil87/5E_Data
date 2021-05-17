@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
     <info>
         <name>Haunted One</name>
         <update version="0.0.9">
-            <file name="background-hauntedone.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/supplements/curse-of-strahd/backgrounds/background-hauntedone.xml" />
+            <file name="background-hauntedone.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/supplements/curse-of-strahd/backgrounds/background-hauntedone.xml" />
         </update>
     </info>
     <element name="Haunted One" type="Background" source="Curse of Strahd" id="ID_COS_BACKGROUND_HAUNTED_ONE">
@@ -198,4 +198,4 @@
 		<trinket>A black wooden pipe that creates puffs of smoke that look like skulls.</trinket>
 		<trinket>A vial of perfume, the scent of which only certain creatures can detect.</trinket>
 	</trinkets> -->
-</aurorahomebrew>
+</elements>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
     <info>
         <name>Vehicles</name>
         <update version="0.0.1">
-            <file name="vehicles.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/supplements/acquisitions-incorporated/vehicles.xml" />
+            <file name="vehicles.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/supplements/acquisitions-incorporated/vehicles.xml" />
         </update>
     </info>
 	<element name="Battle Balloon" type="Item" source="Acquisitions Incorporated" id="ID_WOTC_ACQINC_ITEM_BATTLE_BALLOON">
@@ -36,4 +36,4 @@
 			<set name="type">Vehicle</set>
 		</setters>
 	</element>    
-</aurorahomebrew>
+</elements>

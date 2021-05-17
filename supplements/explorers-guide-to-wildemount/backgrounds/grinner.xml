@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<update version="0.0.1">
-			<file name="grinner.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/supplements/explorers-guide-to-wildemount/backgrounds/grinner.xml" />
+			<file name="grinner.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/supplements/explorers-guide-to-wildemount/backgrounds/grinner.xml" />
 		</update>
 	</info>
 	<element name="Grinner" type="Background" source="Explorer’s Guide to Wildemount" id="ID_WOTC_EGTW_BACKGROUND_GRINNER">
@@ -85,4 +85,4 @@
 		</description>
 		<sheet alt="Ballad of the Grinning Fool" />
 	</element>	
-</aurorahomebrew>
+</elements>

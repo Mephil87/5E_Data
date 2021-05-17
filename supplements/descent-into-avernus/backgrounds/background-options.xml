@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
     <info>
         <name>Character Backgrounds</name>
         <update version="0.0.1">
-            <file name="background-options.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/supplements/descent-into-avernus/backgrounds/background-options.xml" />
+            <file name="background-options.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/supplements/descent-into-avernus/backgrounds/background-options.xml" />
         </update>
     </info>	
 	<element name="Baldur’s Gate Feature: Religious Community" type="Background Feature" source="Baldur’s Gate: Descent into Avernus" id="ID_WOCT_BGDIA_BACKGROUND_FEATURE_RELIGIOUS_COMMUNITY">
@@ -180,4 +180,4 @@
 			<grant type="Grants" id="ID_INTERNAL_GRANT_OPTIONAL_BACKGROUND_FEATURE" />
 		</rules>
 	</element>	
-</aurorahomebrew>
+</elements>

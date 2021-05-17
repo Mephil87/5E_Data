@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<update version="0.0.1">
-			<file name="wizard-chronurgy.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/supplements/explorers-guide-to-wildemount/archetypes/wizard-chronurgy.xml" />
+			<file name="wizard-chronurgy.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/supplements/explorers-guide-to-wildemount/archetypes/wizard-chronurgy.xml" />
 		</update>
 	</info>
 	<element name="Chronurgy Magic" type="Archetype" source="Explorer’s Guide to Wildemount" id="ID_WOTC_EGTW_ARCHETYPE_WIZARD_CHRONURGY_MAGIC">
@@ -83,4 +83,4 @@
 			When you use this feature, you gain one level of exhaustion. Only by finishing a long rest can you remove a level of exhaustion gained in this way.</description>
 		</sheet>
 	</element>	
-</aurorahomebrew>
+</elements>

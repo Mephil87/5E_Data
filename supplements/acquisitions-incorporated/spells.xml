@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
         <name>Spells</name>
 		<update version="0.0.2">
-			<file name="spells.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/supplements/acquisitions-incorporated/spells.xml" />
+			<file name="spells.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/supplements/acquisitions-incorporated/spells.xml" />
 		</update>
 	</info>
 	<element name="Distort Value" type="Spell" source="Acquisitions Incorporated" id="ID_WOTC_ACQINC_SPELL_DISTORT_VALUE">
@@ -159,4 +159,4 @@
 			<set name="isRitual">false</set>
 		</setters>
 	</element>
-</aurorahomebrew>
+</elements>

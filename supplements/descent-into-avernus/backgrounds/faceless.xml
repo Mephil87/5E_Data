@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Faceless</name>
 		<update version="0.0.3">
-			<file name="faceless.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/supplements/descent-into-avernus/backgrounds/faceless.xml" />
+			<file name="faceless.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/supplements/descent-into-avernus/backgrounds/faceless.xml" />
 		</update>
 	</info>
 
@@ -103,4 +103,4 @@
 		</description>
 		<sheet alt="Dual Personalities" />
 	</element>
-</aurorahomebrew>
+</elements>

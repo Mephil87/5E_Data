@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Items</name>
 		<description>The Items from Candlekeep Mysteries</description>
 		<author url="http://dnd.wizards.com/products/tabletop-games/rpg-products/candlekeep-mysteries">Candlekeep Mysteries</author>
 		<update version="0.0.1">
-			<file name="items.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/supplements/candlekeep-mysteries/items.xml" />
+			<file name="items.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/supplements/candlekeep-mysteries/items.xml" />
 		</update>
 	</info>
 	<element name="Alchemy Jug (Blue)" type="Magic Item" source="Candlekeep Mysteries" id="ID_WOTC_CM_MAGIC_ITEM_ALCHEMY_JUG_BLUE"> <!--pg 144-->
@@ -264,4 +264,4 @@
 			<stat name="ac:armored:enhancement" value="1" bonus="enhancement" />
 		</rules>
 	</element>
-</aurorahomebrew>
+</elements>

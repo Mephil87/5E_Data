@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
     <info>
         <name>Black Fist Double Agent</name>
         <description>The Black Fist Double Agent background from Curse of Strahd</description>
         <author url="http://dnd.wizards.com/products/tabletop-games/rpg-products/curse-strahd">Wizards of the Coast</author>
         <update version="0.0.4">
-            <file name="background-blackfistdoubleagent.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/supplements/curse-of-strahd/backgrounds/background-blackfistdoubleagent.xml" />
+            <file name="background-blackfistdoubleagent.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/supplements/curse-of-strahd/backgrounds/background-blackfistdoubleagent.xml" />
         </update>
     </info>
         
     <element name="Black Fist Double Agent" type="Background" source="Adventurers League: Curse of Strahd" id="ID_WOTC_COS_BACKGROUND_BLACK_FIST_DOUBLE_AGENT">
         <description>
-            <p>You are an informant for the Tears of Virulence who now lord over Phlan, but are also a double agent for original town guard of Phlan, the Black Fists. For the Tears you’ve been tasked with ferreting out the secrets of Phlan's criminal underworld, insurgency, and the common peoples of Phlan. In exchange for reporting on the activities of dissenters, criminals, and other rebel aurorahomebrew, the Tears of Virulence leave you alone to conduct your affairs in peace.</p>
+            <p>You are an informant for the Tears of Virulence who now lord over Phlan, but are also a double agent for original town guard of Phlan, the Black Fists. For the Tears you’ve been tasked with ferreting out the secrets of Phlan's criminal underworld, insurgency, and the common peoples of Phlan. In exchange for reporting on the activities of dissenters, criminals, and other rebel elements, the Tears of Virulence leave you alone to conduct your affairs in peace.</p>
             <p class="indent">In reality you work for the deposed Black Fists, sharing misinformation with the Tears of Virulence that often helps the Black Fists and other Phlan insurgents. Since the evacuation of Phlan, you are even busier today than you ever were previously, as the number of dissenters among the refugees grows daily, while you are afforded many opportunities to spy on the peoples of Mulmaster and Elventree, to the pleasure of your contact(s) within the Tears of Virulence.</p>
             <p>
                 <b>Skill Proficiencies: </b>Deception, Insight<br/>
@@ -72,4 +72,4 @@
         </description>
 		<sheet alt="Double Agent" />
     </element>    
-</aurorahomebrew>
+</elements>

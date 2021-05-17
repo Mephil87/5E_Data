@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<update version="0.0.3">
-			<file name="items.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/supplements/explorers-guide-to-wildemount/items.xml" />
+			<file name="items.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/supplements/explorers-guide-to-wildemount/items.xml" />
 		</update>
 	</info>
 
@@ -2393,4 +2393,4 @@
 			<stat name="darkvision:range" value="darkvision:increase" bonus="increase" requirements="!ID_INTERNAL_GRANTS_DARKVISION_INCREASE_60_DARKVISION" />
 		</rules>
 	</element>
-</aurorahomebrew>
+</elements>

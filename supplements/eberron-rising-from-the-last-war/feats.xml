@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<update version="0.0.2">
-			<file name="feats.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/supplements/eberron-rising-from-the-last-war/feats.xml" />
+			<file name="feats.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/supplements/eberron-rising-from-the-last-war/feats.xml" />
 		</update>
 	</info>	
 	<element name="Revenant Blade" type="Feat" source="Eberron: Rising from the Last War" id="ID_WOTC_ERLW_FEAT_REVENANT_BLADE">
@@ -49,4 +49,4 @@
 			<select type="Spell" name="1st-level Spell, Aberrant Dragonmark" supports="1,Sorcerer" />
 		</rules>
 	</element>
-</aurorahomebrew>
+</elements>

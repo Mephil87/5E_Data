@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<update version="0.0.3">
-			<file name="kalashtar.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/supplements/eberron-rising-from-the-last-war/races/kalashtar.xml" />
+			<file name="kalashtar.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/supplements/eberron-rising-from-the-last-war/races/kalashtar.xml" />
 		</update>
 	</info>	
 	<element name="Kalashtar" type="Race" source="Eberron: Rising from the Last War" id="ID_WOTC_ERLW_RACE_KALASHTAR">
@@ -127,4 +127,4 @@
 			<description>You are immune to spells and other magical effects that require you to dream, like dream, but not to spells and other magical effects that put you to sleep, like sleep.</description>
 		</sheet>
 	</element>
-</aurorahomebrew>
+</elements>

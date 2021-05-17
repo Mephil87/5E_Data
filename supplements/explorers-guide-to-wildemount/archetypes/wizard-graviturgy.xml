@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<update version="0.0.3">
-			<file name="wizard-graviturgy.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/supplements/explorers-guide-to-wildemount/archetypes/wizard-graviturgy.xml" />
+			<file name="wizard-graviturgy.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/supplements/explorers-guide-to-wildemount/archetypes/wizard-graviturgy.xml" />
 		</update>
 	</info>
 	<element name="Graviturgy Magic" type="Archetype" source="Explorer’s Guide to Wildemount" id="ID_WOTC_EGTW_ARCHETYPE_WIZARD_GRAVITURGY_MAGIC">
@@ -74,4 +74,4 @@
 			You regain the use of this feature when you expend a spell slot of 3rd level or higher on it.</description>
 		</sheet>
 	</element>
-</aurorahomebrew>
+</elements>

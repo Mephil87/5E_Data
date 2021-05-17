@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
     <info>
         <update version="0.0.1">
-            <file name="elemental-evil.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/supplements/adventurers-league/elemental-evil.xml" />
+            <file name="elemental-evil.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/supplements/adventurers-league/elemental-evil.xml" />
         </update>
     </info>	
 	<element name="Adventurers League: Elemental Evil" type="Source" source="Core" id="ID_WOTC_SOURCE_AL_ELEMENTAL_EVIL">
@@ -337,4 +337,4 @@
 		</description>
 		<sheet alt="Phlan Survivor" />
 	</element>
-</aurorahomebrew>
+</elements>

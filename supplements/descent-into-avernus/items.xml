@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<update version="0.0.5">
-			<file name="items.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/supplements/descent-into-avernus/items.xml" />
+			<file name="items.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/supplements/descent-into-avernus/items.xml" />
 		</update>
 	</info>
 	<element name="Battle Standard of Infernal Power" type="Magic Item" source="Baldur’s Gate: Descent into Avernus" id="ID_WOCT_BGDIA_MAGIC_ITEM_BATTLE_STANDARD_OF_INFERNAL_POWER">
@@ -321,4 +321,4 @@
 			<set name="weapon">Longsword</set>
 		</setters>
 	</element>
-</aurorahomebrew>
+</elements>

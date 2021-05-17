@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
     <info>
         <update version="0.0.1">
-            <file name="companions.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/supplements/descent-into-avernus/companions.xml" />
+            <file name="companions.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/supplements/descent-into-avernus/companions.xml" />
         </update>
     </info>
 	<element name="Abyssal Chicken" type="Companion" source="Baldur’s Gate: Descent into Avernus" id="ID_WOTC_BGDIA_COMPANION_ABYSSAL_CHICKEN">
@@ -69,4 +69,4 @@
 			<description>Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) slashing damage.</description>
 		</sheet>
 	</element>    
-</aurorahomebrew>
+</elements>

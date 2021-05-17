@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<update version="0.0.1">
-			<file name="deities.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/supplements/eberron-rising-from-the-last-war/deities.xml" />
+			<file name="deities.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/supplements/eberron-rising-from-the-last-war/deities.xml" />
 		</update>
 	</info>
 	
@@ -262,4 +262,4 @@
             <set name="gender">male</set>
         </setters>
     </element>
-</aurorahomebrew>
+</elements>

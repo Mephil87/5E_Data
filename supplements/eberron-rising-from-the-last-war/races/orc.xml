@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<update version="0.0.4">
-			<file name="orc.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/supplements/eberron-rising-from-the-last-war/races/orc.xml" />
+			<file name="orc.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/supplements/eberron-rising-from-the-last-war/races/orc.xml" />
 		</update>
 	</info>
 	
@@ -105,4 +105,4 @@
 			<select type="Proficiency" name="Customized Skill Proficiency (Primal Intuition)"  number="2" supports="Skill" requirements="ID_WOTC_TCOE_OPTION_CUSTOMIZED_PROFICIENCY" />
 		</rules>
 	</element>	
-</aurorahomebrew>
+</elements>

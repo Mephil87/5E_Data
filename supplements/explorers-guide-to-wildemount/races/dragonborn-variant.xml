@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<update version="0.0.2">
-			<file name="dragonborn-variant.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/supplements/explorers-guide-to-wildemount/races/dragonborn-variant.xml" />
+			<file name="dragonborn-variant.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/supplements/explorers-guide-to-wildemount/races/dragonborn-variant.xml" />
 		</update>
 	</info>
 	<element name="Draconblood" type="Race Variant" source="Explorer’s Guide to Wildemount" id="ID_WOTC_EGTW_RACE_VARIANT_DRAGONBORN_DRACONBLOOD">
@@ -63,4 +63,4 @@
 		</sheet>
 	</element>	
 	<element name="Dragonborn Variant" type="Grants" source="Explorer’s Guide to Wildemount" id="ID_WOTC_EGTW_GRANTS_DRAGONBORN_VARIANT" />
-</aurorahomebrew>
+</elements>

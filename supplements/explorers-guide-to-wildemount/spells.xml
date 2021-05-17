@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
     <info>
         <update version="0.0.3">
-            <file name="spells.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/supplements/explorers-guide-to-wildemount/spells.xml" />
+            <file name="spells.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/supplements/explorers-guide-to-wildemount/spells.xml" />
         </update>
     </info>
     <element name="Dark Star" type="Spell" source="Explorer’s Guide to Wildemount" id="ID_WOTC_EGTW_SPELL_DARK_STAR">
@@ -333,4 +333,4 @@
             <set name="isRitual">true</set>
         </setters>
     </element>
-</aurorahomebrew>
+</elements>

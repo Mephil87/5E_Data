@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<update version="0.0.3">
-			<file name="replicate-infusions.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/supplements/eberron-rising-from-the-last-war/replicate-infusions.xml" />
+			<file name="replicate-infusions.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/supplements/eberron-rising-from-the-last-war/replicate-infusions.xml" />
 		</update>
 	</info>
 	
@@ -208,4 +208,4 @@
 	</element>
 
 
-</aurorahomebrew>
+</elements>

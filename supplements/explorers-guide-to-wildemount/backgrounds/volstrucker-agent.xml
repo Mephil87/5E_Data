@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<update version="0.0.1">
-			<file name="volstrucker-agent.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/supplements/explorers-guide-to-wildemount/backgrounds/volstrucker-agent.xml" />
+			<file name="volstrucker-agent.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/supplements/explorers-guide-to-wildemount/backgrounds/volstrucker-agent.xml" />
 		</update>
 	</info>
 	<element name="Volstrucker Agent" type="Background" source="Explorer’s Guide to Wildemount" id="ID_WOTC_EGTW_BACKGROUND_VOLSTRUCKER_AGENT">
@@ -80,4 +80,4 @@
 		</description>
 		<sheet alt="Shadow Network" />
 	</element>
-</aurorahomebrew>
+</elements>
