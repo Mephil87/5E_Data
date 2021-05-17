@@ -4,7 +4,7 @@
 		<name>Spells</name>
 		<description>The spells from the Princes of the Apocalypse.</description>
 		<author url="http://dnd.wizards.com/products/tabletop-games/rpg-products/princes-apocalypse">Wizards of the Coast</author>
-		<update version="0.1.6">
+		<update version="0.1.7">
 			<file name="spells.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/supplements/princes-of-the-apocalypse/spells.xml" />
 		</update>
 	</info>
