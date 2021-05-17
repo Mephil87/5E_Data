@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<aurorahomebrew>
+    <info>
+        <update version="0.1.2">
+            <file name="spells.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/dnd-wiki/spells.xml" />
+        </update>
+    </info>
+
+	<!-- content moved: https://github.com/community-aurorahomebrew/aurorahomebrew-dndwiki -->
+
+</aurorahomebrew>

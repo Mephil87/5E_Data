@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<aurorahomebrew>
+    <info>
+        <update version="0.0.4">
+            <file name="race-dryad.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/dnd-wiki/races/race-dryad.xml" />
+        </update>
+    </info>
+
+	<!-- content moved: https://github.com/community-aurorahomebrew/aurorahomebrew-dndwiki -->
+
+</aurorahomebrew>
