@@ -4,18 +4,18 @@
 		<name>Third Party</name>
 		<description>The content from various third party sources.</description>
 		<update version="0.2.2">
-			<file name="third-party.index" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party.index" />
+			<file name="third-party.index" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party.index" />
 		</update>
 	</info>
 	<files>
-		<file name="arcanum-worlds.index" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/arcanum-worlds.index" />
-		<file name="critical-role.index" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/critical-role.index" />
-		<file name="dms-guild.index" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/dms-guild.index" />
-		<file name="genuine-fantasy-press.index" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/genuine-fantasy-press.index" />
-		<file name="kobold-press.index" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/kobold-press.index" />
-		<file name="mage-hand-press.index" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/mage-hand-press.index" />
+		<file name="arcanum-worlds.index" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/arcanum-worlds.index" />
+		<file name="critical-role.index" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/critical-role.index" />
+		<file name="dms-guild.index" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/dms-guild.index" />
+		<file name="genuine-fantasy-press.index" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/genuine-fantasy-press.index" />
+		<file name="kobold-press.index" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/kobold-press.index" />
+		<file name="mage-hand-press.index" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/mage-hand-press.index" />
 
-		<obsolete name="sources.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/sources.xml" />
-		<obsolete name="dnd-wiki.index" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/third-party/dnd-wiki.index" />
+		<obsolete name="sources.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/sources.xml" />
+		<obsolete name="dnd-wiki.index" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/third-party/dnd-wiki.index" />
 	</files>
 </index>

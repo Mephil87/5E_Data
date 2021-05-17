@@ -5,13 +5,13 @@
 		<description>Homebrew material created by Mephil.</description>
 
 		<update version="1.1.0">
-			<file name="homebrew.index" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/homebrew.index" />
+			<file name="homebrew.index" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/homebrew.index" />
 		</update>
 	</info>
 	<files>
-		<file name="source.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/homebrew/source.xml" />
+		<file name="source.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/homebrew/source.xml" />
 		
 		<!-- backgrounds -->
-		<file name="background-herbalist-daughter.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/homebrew/backgrounds/background-herbalist-daughter.xml" />
+		<file name="background-herbalist-daughter.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/homebrew/backgrounds/background-herbalist-daughter.xml" />
 	</files>
 </index>
