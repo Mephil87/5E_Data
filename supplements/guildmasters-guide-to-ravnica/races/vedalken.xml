@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Vedalken</name>
 		<description></description>
 		<author url="http://dnd.wizards.com/products/tabletop-games/rpg-products/guildmasters-guide-ravnica">Guildmasters’ Guide to Ravnica</author>
 		<update version="0.0.5">
-			<file name="vedalken.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/supplements/guildmasters-guide-to-ravnica/races/vedalken.xml" />
+			<file name="vedalken.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/supplements/guildmasters-guide-to-ravnica/races/vedalken.xml" />
 		</update>
 	</info>
     
@@ -94,4 +94,4 @@
 			<description>By absorbing oxygen through your skin, you can breathe underwater for up to 1 hour. Once you've reached that limit, you can't use this trait again until you finish a long rest.</description>
 		</sheet>
 	</element>
-</aurorahomebrew>
+</elements>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<update version="0.0.1">
-			<file name="deities.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/supplements/mythic-odysseys-of-theros/deities.xml" />
+			<file name="deities.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/supplements/mythic-odysseys-of-theros/deities.xml" />
 		</update>
 	</info>
 	<element name="Athreos" type="Deity" source="Mythic Odysseys of Theros" id="ID_WOTC_MOOT_DEITY_ATHREOS">
@@ -170,4 +170,4 @@
 			<set name="symbol">Waves</set>
 		</setters>
 	</element>
-</aurorahomebrew>
+</elements>

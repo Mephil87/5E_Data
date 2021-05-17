@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Lost Laboratory of Kwalish</name>
 		<update version="0.0.2">
-			<file name="lost-laboratory-of-kwalish.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/supplements/extra-life/lost-laboratory-of-kwalish.xml" />
+			<file name="lost-laboratory-of-kwalish.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/supplements/extra-life/lost-laboratory-of-kwalish.xml" />
 		</update>
 	</info>
 	<element name="Lost Laboratory of Kwalish" type="Source" source="Core" id="ID_WOTC_SOURCE_LOST_LABORATORY_OF_KWALISH">
@@ -99,4 +99,4 @@
 			<set name="isRitual">false</set>
 		</setters>
 	</element>
-</aurorahomebrew>
+</elements>

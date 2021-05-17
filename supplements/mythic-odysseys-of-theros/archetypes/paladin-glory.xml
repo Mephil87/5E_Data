@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Oath of Glory</name>
 		<update version="0.0.1">
-			<file name="paladin-glory.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/supplements/mythic-odysseys-of-theros/archetypes/paladin-glory.xml" />
+			<file name="paladin-glory.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/supplements/mythic-odysseys-of-theros/archetypes/paladin-glory.xml" />
 		</update>
 	</info>
 	<element name="Oath of Glory" type="Archetype" source="Mythic Odysseys of Theros" id="ID_WOTC_MOOT_ARCHETYPE_PALADIN_OATH_OF_GLORY">
@@ -141,4 +141,4 @@
 			You can use this feature again if you expend a 5th-level spell slot.</description>
 		</sheet>
 	</element>	
-</aurorahomebrew>
+</elements>

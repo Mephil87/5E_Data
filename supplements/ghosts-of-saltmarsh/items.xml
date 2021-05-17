@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Items</name>
 		<update version="0.0.2">
-			<file name="items.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/supplements/ghosts-of-saltmarsh/items.xml" />
+			<file name="items.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/supplements/ghosts-of-saltmarsh/items.xml" />
 		</update>
 	</info>
 	
@@ -82,4 +82,4 @@
 			<set name="rarity">Common</set>
 		</setters>
 	</element>
-</aurorahomebrew>
+</elements>

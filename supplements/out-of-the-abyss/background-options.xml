@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<update version="0.1">
-			<file name="background-options.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/supplements/out-of-the-abyss/background-options.xml" />
+			<file name="background-options.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/supplements/out-of-the-abyss/background-options.xml" />
 		</update>
 	</info>
 	<element name="Optional Feature: Deep Delver" type="Background Feature" source="Out of the Abyss" id="ID_WOCT_OOTA_BACKGROUND_FEATURE_DEEP_DELVER">
@@ -25,4 +25,4 @@
 			<grant type="Grants" id="ID_INTERNAL_GRANT_OPTIONAL_BACKGROUND_FEATURE" />
 		</rules>
 	</element>
-</aurorahomebrew>
+</elements>

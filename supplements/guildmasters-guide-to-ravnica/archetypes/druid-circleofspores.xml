@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Circle of Spores</name>
 		<description></description>
 		<author url="http://dnd.wizards.com/products/tabletop-games/rpg-products/guildmasters-guide-ravnica">Guildmasters’ Guide to Ravnica</author>
 		<update version="0.0.3">
-			<file name="druid-circleofspores.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/supplements/guildmasters-guide-to-ravnica/archetypes/druid-circleofspores.xml" />
+			<file name="druid-circleofspores.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/supplements/guildmasters-guide-to-ravnica/archetypes/druid-circleofspores.xml" />
 		</update>
 	</info>
 
@@ -133,4 +133,4 @@
 			<description>You can't be blinded, deafened, frightened, or poisoned, and any critical hit against you counts as a normal hit instead, unless you're incapacitated.</description>
 		</sheet>
 	</element>
-</aurorahomebrew>
+</elements>

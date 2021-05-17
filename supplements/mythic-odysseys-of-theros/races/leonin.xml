@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Leonin</name>
 		<update version="0.0.2">
-			<file name="leonin.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/supplements/mythic-odysseys-of-theros/races/leonin.xml" />
+			<file name="leonin.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/supplements/mythic-odysseys-of-theros/races/leonin.xml" />
 		</update>
 	</info>
 	<element name="Leonin" type="Race" source="Mythic Odysseys of Theros" id="ID_WOTC_MOOT_RACE_LEONIN">
@@ -117,4 +117,4 @@
 			<set name="script">Common</set>
 		</setters>
 	</element>	
-</aurorahomebrew>
+</elements>

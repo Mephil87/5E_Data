@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>College of Eloquence</name>
 		<update version="0.0.1">
-			<file name="bard-eloquence.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/supplements/mythic-odysseys-of-theros/archetypes/bard-eloquence.xml" />
+			<file name="bard-eloquence.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/supplements/mythic-odysseys-of-theros/archetypes/bard-eloquence.xml" />
 		</update>
 	</info>
 	<element name="College of Eloquence" type="Archetype" source="Mythic Odysseys of Theros" id="ID_WOTC_MOOT_ARCHETYPE_BARD_COLLEGE_OF_ELOQUENCE">
@@ -81,4 +81,4 @@
 			<stat name="infectious inspiration:usage" value="charisma:modifier" bonus="base" />
 		</rules>
 	</element>	
-</aurorahomebrew>
+</elements>

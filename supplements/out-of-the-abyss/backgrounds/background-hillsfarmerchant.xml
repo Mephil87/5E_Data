@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Hillsfar Merchant</name>
 		<description>The Hillsfar Merchant background from Out of the Abyss</description>
 		<author url="http://dnd.wizards.com/products/tabletop-games/rpg-products/outoftheabyss">Wizards of the Coast</author>
 		<update version="0.1.2">
-			<file name="background-hillsfarmerchant.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/supplements/out-of-the-abyss/backgrounds/background-hillsfarmerchant.xml" />
+			<file name="background-hillsfarmerchant.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/supplements/out-of-the-abyss/backgrounds/background-hillsfarmerchant.xml" />
 		</update>
 	</info>
 	<element name="Hillsfar Merchant" type="Background" source="Adventurers League: Rage of Demons" id="ID_WOTC_ROD_BACKGROUND_HILLSFAR_MERCHANT">
@@ -76,4 +76,4 @@
 			<p>You and your family have trade contacts such as caravan masters, shopkeepers, sailors, artisans, and farmers throughout the Moonsea region and all along the Sword Coast. Once per game session, when adventuring in either of those areas, you can use those contacts to get information about the local area or to pass a message to someone in those areas, even across the great distance between the two areas.</p>
 		</description>
 	</element>
-</aurorahomebrew>
+</elements>

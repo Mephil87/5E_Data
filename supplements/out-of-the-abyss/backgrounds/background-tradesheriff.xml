@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Trade Sheriff</name>
 		<description>The Trade Sheriff background from Out of the Abyss</description>
 		<author url="http://dnd.wizards.com/products/tabletop-games/rpg-products/outoftheabyss">Wizards of the Coast</author>
 		<update version="0.1.2">
-			<file name="background-tradesheriff.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/supplements/out-of-the-abyss/backgrounds/background-tradesheriff.xml" />
+			<file name="background-tradesheriff.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/supplements/out-of-the-abyss/backgrounds/background-tradesheriff.xml" />
 		</update>
 	</info>
 	<element name="Trade Sheriff" type="Background" source="Adventurers League: Rage of Demons" id="ID_WOTC_ROD_BACKGROUND_TRADE_SHERIFF">
@@ -81,4 +81,4 @@
 			<set name="category">Adventuring Gear</set>
 		</setters>
 	</element>
-</aurorahomebrew>
+</elements>

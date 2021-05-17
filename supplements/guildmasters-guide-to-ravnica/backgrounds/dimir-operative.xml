@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Dimir Operative</name>
 		<description></description>
 		<author url="http://dnd.wizards.com/products/tabletop-games/rpg-products/guildmasters-guide-ravnica">Guildmasters’ Guide to Ravnica</author>
 		<update version="0.0.6">
-			<file name="dimir-operative.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/supplements/guildmasters-guide-to-ravnica/backgrounds/dimir-operative.xml" />
+			<file name="dimir-operative.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/supplements/guildmasters-guide-to-ravnica/backgrounds/dimir-operative.xml" />
 		</update>
 	</info>
     
@@ -132,4 +132,4 @@
 			<extend>ID_PHB_SPELL_MODIFY_MEMORY</extend>
 		</spellcasting>
 	</element>
-</aurorahomebrew>
+</elements>

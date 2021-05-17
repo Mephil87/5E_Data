@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
     <info>
         <name>Spells</name>
         <description></description>
 		<author url="http://dnd.wizards.com/products/tabletop-games/rpg-products/guildmasters-guide-ravnica">Guildmasters’ Guide to Ravnica</author>
         <update version="0.0.4">
-            <file name="spells.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/supplements/guildmasters-guide-to-ravnica/spells.xml" />
+            <file name="spells.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/supplements/guildmasters-guide-to-ravnica/spells.xml" />
         </update>
     </info>	
     <element name="Encode Thoughts" type="Spell" source="Guildmasters’ Guide to Ravnica" id="ID_GGTR_SPELL_ENCODE_THOUGHTS">
@@ -64,4 +64,4 @@
             <set name="isRitual">false</set>
         </setters>
     </element>
-</aurorahomebrew>
+</elements>

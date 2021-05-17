@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Golgari Agent</name>
 		<description></description>
 		<author url="http://dnd.wizards.com/products/tabletop-games/rpg-products/guildmasters-guide-ravnica">Guildmasters’ Guide to Ravnica</author>
 		<update version="0.0.5">
-			<file name="golgari-agent.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/supplements/guildmasters-guide-to-ravnica/backgrounds/golgari-agent.xml" />
+			<file name="golgari-agent.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/supplements/guildmasters-guide-to-ravnica/backgrounds/golgari-agent.xml" />
 		</update>
 	</info>
     
@@ -116,4 +116,4 @@
 			<extend>ID_PHB_SPELL_INSECT_PLAGUE</extend>
 		</spellcasting>
 	</element>
-</aurorahomebrew>
+</elements>

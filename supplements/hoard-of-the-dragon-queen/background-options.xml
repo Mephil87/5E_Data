@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<update version="0.1">
-			<file name="background-options.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/supplements/hoard-of-the-dragon-queen/background-options.xml" />
+			<file name="background-options.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/supplements/hoard-of-the-dragon-queen/background-options.xml" />
 		</update>
 	</info>
 	<element name="Optional Feature: Cult of the Dragon Infiltrator" type="Background Feature" source="Hoard of the Dragon Queen" id="ID_WOCT_HOTDQ_BACKGROUND_FEATURE_DRAGON_CULT_INFILTRATOR">
@@ -25,4 +25,4 @@
 			<grant type="Grants" id="ID_INTERNAL_GRANT_OPTIONAL_BACKGROUND_FEATURE" />
 		</rules>
 	</element>
-</aurorahomebrew>
+</elements>

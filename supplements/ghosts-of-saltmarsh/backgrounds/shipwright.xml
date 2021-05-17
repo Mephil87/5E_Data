@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Shipwright Background</name>
 		<update version="0.0.2">
-			<file name="shipwright.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/supplements/ghosts-of-saltmarsh/backgrounds/shipwright.xml" />
+			<file name="shipwright.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/supplements/ghosts-of-saltmarsh/backgrounds/shipwright.xml" />
 		</update>
 	</info>
 	
@@ -92,4 +92,4 @@
 			<stat name="patch it:restore" value="proficiency" />
 		</rules> -->
 	</element>
-</aurorahomebrew>
+</elements>

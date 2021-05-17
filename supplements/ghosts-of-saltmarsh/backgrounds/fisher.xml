@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Fisher Background</name>
 		<update version="0.0.2">
-			<file name="fisher.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/supplements/ghosts-of-saltmarsh/backgrounds/fisher.xml" />
+			<file name="fisher.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/supplements/ghosts-of-saltmarsh/backgrounds/fisher.xml" />
 		</update>
 	</info>
 	
@@ -85,4 +85,4 @@
 		</description>
 		<sheet alt="Harvest the Water" />
 	</element>	
-</aurorahomebrew>
+</elements>

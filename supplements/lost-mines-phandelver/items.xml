@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<update version="0.0.3">
-			<file name="items.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/supplements/lost-mines-phandelver/items.xml" />
+			<file name="items.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/supplements/lost-mines-phandelver/items.xml" />
 		</update>
 	</info>	
 	<element name="Dragonguard" type="Magic Item" source="Lost Mine of Phandelver" id="ID_WOTC_LMOP_MAGIC_ITEM_DRAGONGUARD">
@@ -93,4 +93,4 @@
 			<set name="charges">10</set>
 		</setters>
 	</element>
-</aurorahomebrew>
+</elements>

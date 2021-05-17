@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Marine Background</name>
 		<update version="0.0.2">
-			<file name="marine.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/supplements/ghosts-of-saltmarsh/backgrounds/marine.xml" />
+			<file name="marine.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/supplements/ghosts-of-saltmarsh/backgrounds/marine.xml" />
 		</update>
 	</info>
 	
@@ -86,4 +86,4 @@
 			<description>You can move twice the normal amount of time (up to 16 hours) each day before being subject to the effect of a forced march. Additionally, you can automatically find a safe route to land a boat on shore, provided such a route exists.</description>
 		</sheet>
 	</element>
-</aurorahomebrew>
+</elements>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Languages</name>
 		<description></description>
 		<author url="http://dnd.wizards.com/products/tabletop-games/rpg-products/guildmasters-guide-ravnica">Guildmasters’ Guide to Ravnica</author>
 		<update version="0.0.3">
-			<file name="languages.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/supplements/guildmasters-guide-to-ravnica/languages.xml" />
+			<file name="languages.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/supplements/guildmasters-guide-to-ravnica/languages.xml" />
 		</update>
 	</info>
 	<element name="Kraul" type="Language" source="Guildmasters’ Guide to Ravnica" id="ID_GGTR_LANGUAGE_KRAUL">
@@ -74,4 +74,4 @@
 			<set name="script">Vedalken</set>
 		</setters>
 	</element>
-</aurorahomebrew>
+</elements>

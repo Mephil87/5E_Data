@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<update version="0.0.3">
-			<file name="source.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/supplements/mythic-odysseys-of-theros/source.xml" />
+			<file name="source.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/supplements/mythic-odysseys-of-theros/source.xml" />
 		</update>
 	</info>
 	<element name="Mythic Odysseys of Theros" type="Source" source="Core" id="ID_WOTC_SOURCE_MYTHIC_ODYSSEYS_OF_THEROS">
@@ -40,4 +40,4 @@
 			<set name="short">You may choose a supernatural gift that sets you on the path of destiny.</set>
 		</setters>
 	</element> -->
-</aurorahomebrew>
+</elements>

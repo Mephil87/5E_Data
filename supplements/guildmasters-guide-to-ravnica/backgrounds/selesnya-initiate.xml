@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Selesnya Initiate</name>
 		<description></description>
 		<author url="http://dnd.wizards.com/products/tabletop-games/rpg-products/guildmasters-guide-ravnica">Guildmasters’ Guide to Ravnica</author>
 		<update version="0.0.5">
-			<file name="selesnya-initiate.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/supplements/guildmasters-guide-to-ravnica/backgrounds/selesnya-initiate.xml" />
+			<file name="selesnya-initiate.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/supplements/guildmasters-guide-to-ravnica/backgrounds/selesnya-initiate.xml" />
 		</update>
 	</info>
     
@@ -119,4 +119,4 @@
 			<extend>ID_PHB_SPELL_COMMUNE_WITH_NATURE</extend>
 		</spellcasting>
 	</element>
-</aurorahomebrew>
+</elements>

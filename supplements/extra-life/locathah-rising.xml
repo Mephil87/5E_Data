@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Locathah</name>
 		<update version="0.0.3">
-			<file name="locathah-rising.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/supplements/extra-life/locathah-rising.xml" />
+			<file name="locathah-rising.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/supplements/extra-life/locathah-rising.xml" />
 		</update>
 	</info>
 
@@ -103,4 +103,4 @@
 			<description>You can breathe air and water, but you need to be submerged at least once every 4 hours to avoid suffocating.</description>
 		</sheet>
 	</element>
-</aurorahomebrew>
+</elements>

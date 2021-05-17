@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aurorahomebrew>
+<elements>
 	<info>
 		<name>Satyr</name>
 		<update version="0.0.3">
-			<file name="satyr.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/supplements/mythic-odysseys-of-theros/races/satyr.xml" />
+			<file name="satyr.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/supplements/mythic-odysseys-of-theros/races/satyr.xml" />
 		</update>
 	</info>
 	<element name="Satyr" type="Race" source="Mythic Odysseys of Theros" id="ID_WOTC_MOOT_RACE_SATYR">
@@ -123,4 +123,4 @@
 			<select type="Proficiency" name="Simple Weapon or Tool, Reveler" supports="Simple||Tool" requirements="ID_WOTC_TCOE_OPTION_CUSTOMIZED_PROFICIENCY" />
 		</rules>
 	</element>	
-</aurorahomebrew>
+</elements>
