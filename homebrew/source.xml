@@ -2,7 +2,7 @@
 <elements>
 	<info>
 		<update version="1.3.0">
-			<file name="source.xml" url="https://raw.githubusercontent.com/mephil87/aurorahomebrew/master/homebrew/source.xml" />
+			<file name="source.xml" url="https://raw.githubusercontent.com/mephil87/5E_Data/master/homebrew/source.xml" />
 		</update>
 	</info>
 	<element name="Custom Content: Rosor av Is" type="Source" source="Custom Content: Rosor av Is" id="ID_SOURCE_ROSOR_AV_IS">
